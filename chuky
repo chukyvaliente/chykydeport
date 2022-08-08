@@ -1160,9 +1160,8 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url": "https://wigistream.to/embed/577d4aefb1y83e",
-		    "referer":"https://1rowsports.com/player",
-			"isHost": "true"
+			"url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1101.m3u8",
+			"userAgent": "damx"
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
@@ -1172,8 +1171,8 @@
 		}, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			"url": "http://154.62.74.29:1935/live/gol/playlist.m3u8",
-			"userAgent": ""
+			"url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1162.m3u8",
+			"userAgent": "damx"
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
@@ -1222,9 +1221,8 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			 "url": "https://daddylive.futbol/stream/stream-528.php",
-			"referer": "https://radamel.icu",
-             "isHost": "true"
+			 "url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1116.m3u8",
+			"userAgent": "damx"
              }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
@@ -1236,6 +1234,16 @@
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
          "url" : "http://s846397078.mialojamiento.es:80/w2jy/toro.php/mono.m3u8",
             "userAgent": ""
+	      }, {
+			"name": "M.Toros",
+			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+        "url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1137.m3u8",
+			"userAgent": "damx"
+			}, {
+			"name": "Toros Telemadrid",
+			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
+			"userAgent": ""     
          }, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
@@ -1245,9 +1253,8 @@
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			"url": "https://wigistream.to/embed/e3s4ds6zzv",
-            "referer" : "https://telefullenvivo.com/",
-			 "isHost": "true"
+			 "url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1146.m3u8",
+			"userAgent": "damx"
 		}, {
 			"name": "Real MAdrid TV",
 			"userAgent": "",
@@ -1260,14 +1267,14 @@
 			"isHost": "true"
                      }, {
 			"name": "Esport 3",
-			"url": "https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8",
+			"url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master_720.m3u8",
 			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
 			"userAgent": ""
                       }, {
 			"name": "BeinSport ñ",
              "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
-           "url" :  "https://flowcablevision.com/online.php?a=09",
-			 "isHost":"true"
+           "url" :  "https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
+			 "userAgent": ""
                       },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
