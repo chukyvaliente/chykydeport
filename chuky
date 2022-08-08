@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 07-08-2022)",
+    "author": "chuky (Actualizada al 08-08-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -537,19 +537,20 @@
                        }, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			   "url": "https://starlive.xyz/embed.php?id=live20m",
+			   "url": "https://deliriousholistic.net/embed/5br4thjw1z8",
+              "referer": "https://starlive.xyz/",
              "isHost": "true"
                       }, {
 			"name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			"url" : "https://warnforlese.net/embed/zbz7klq",
+			 "url" : "https://warnforlese.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                 "url": "https://ragnarp.net/embed/xjcss",
-			"referer": "https://macron.xyz/",
+               "url" : "https://warnforlese.net/embed/xmr0xxbbmzod",
+			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
@@ -572,9 +573,9 @@
                    },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://ragnarp.net/embed/hdbxpkwtd5456",
-                   "referer" : "https://macron.xyz/",
-                    "isHost": "true"
+                  "url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
+            "referer" : "https://macron.xyz/",
+            "isHost":"true"
                     },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -755,25 +756,25 @@
 			"referer": "https://macron.xyz/",
              "isHost": "true"
             }, {
-			"name": "Stuttgart - RB Leipzig(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
         "url": "https://daddylive.futbol/stream/stream-435.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
 		}, {
-			"name": "Stuttgart - RB Leipzig(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			"url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
-			"name": "FC Cologne - Schalke 04(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
          "url": "https://daddylive.futbol/stream/stream-435.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
 		}, {
-			"name": "FC Cologne - Schalke 04(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			"url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
@@ -844,25 +845,25 @@
               "referer": "https://starlive.xyz/",
              "isHost": "true"
             }, {
-			"name": "Manchester Utd - Brighton (DAZN2)",
+			"name": "(DAZN2)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
  			 "url": "https://daddylive.futbol/stream/stream-446.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
             }, {
-			"name": "Manchester Utd - Brighton",
+			"name": "(DAZN2)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url" : "https://warnforlese.net/embed/xmr0xxbbmzod",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
             }, {
- 			"name": "Leicester - Brentford (DAZN3)",
+ 			"name": "(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url": "https://daddylive.futbol/stream/stream-447.php",
 			"referer": "https://radamel.icu",
              "isHost": "true" 
                 }, {
-			"name": "Leicester - Brentford",
+			"name": "(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
  			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
@@ -1032,9 +1033,8 @@
            }, {
  			"name": "Vamos.",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-               "url": "https://ragnarp.net/embed/6jv5qrdinf",
-			"referer": "https://macron.xyz/",
-             "isHost": "true"
+               "url": "http://fxorexworld.com:8080/bJ22wJX1YH/9Q4DiYalXK/1174",
+			"userAgent": "damx",
                }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
@@ -1177,7 +1177,7 @@
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
-			"url": "https://www.rtve.es/directo/teledeporte//",
+			"url": "https://www.rtve.es/directo/teledeporte/",
 			"isHost": "true"
 		}, {
 			"name": "Formula 1",
