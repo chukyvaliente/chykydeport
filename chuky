@@ -1,10 +1,10 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 25-02-2022)",
+    "author": "chuky (Actualizada al 07-08-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
-    "url": "https://github.com/chukyvaliente/chykydeport/blob/main/Prueba%20chuky",
+    "url": "https://w3ubin.com/8kNMvr4lU.w3u",
     "groups": [{
              "name": "Lista para todo el mundo (Sin lucrarse)",
             "image": "https://lh3.googleusercontent.com/A0-KdBraWx4L-RgGlLf-EI_sc2jjpsR4vOK_CIgy8ps1BaZS_yAHPNiaXMk6QUOhcA=h500",
@@ -19,80 +19,80 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers vs Detroit Pistons",
+			"name": "Washington Wizards vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-01/",
+			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Boston Celtics vs Brooklyn Nets",
+          "name": "Dallas Mavericks vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-02/",
+			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Atlanta Hawks vs Chicago Bulls",
+          "name": "Denver Nuggets vs Los Ángeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-03/",
+			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
              
          }, {  
-             "name": "Memphis Grizzlies vs Minnesota Timberwolves",
+             "name": "Detroit Pistons vs. Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-04/",
+			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Phoenix Suns vs Oklahoma City Thunder",
+			"name": "Philadelphia 76ers vs Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-05/",
+			"url" : "Brooklyn Nets vs Memphis Grizzlies",
 			"isHost": "true"
              }, {
-			"name": "Golden State Warriors vs Portland Trail Blazers",
+			"name": "New York Knicks vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-06/",
+			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-             "name": "Golden State Warriors vs Portland Trail Blazers",
+             "name": "Miami Heat vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-07/",
+			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets vs Sacramento Kings",
+			"name": "Minnesota Timberwolves vs Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-08/",
+			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Phoenix Suns vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-09/",
+			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Portland Trail Blazers vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-10/",
+			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Golden State Warriors vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-11/",
+			"url" : "http://markkystreams.com/video/nba-11/",
+			"isHost": "true"
+               }, {
+			"name": "New Orleans Pelicans vs LA Clippers",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
 			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-12/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-12/",
+			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                  }, {
 			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "http://6streams.tv/video/nba-13/",
+			"url" : "http://markkystreams.com/video/nba-13/",
 			"isHost": "true"    
                                 },{
                     "name": "Clika para ver la programación",
                     "embed": "true",
-                    "url": "https://www.google.es/search?sxsrf=ALeKk00R8IrTr0fZpPC9AUgWRGrOcngNAQ%3A1610130974509&source=hp&ei=Hqb4X-XwG5CJlwSw75noBA&q=horarios+de+hoy+de+la+nba&oq=horarios+de+hoy+de+la+nba&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgcIIxDqAhAnOgQIIxAnOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOg4IABCxAxCDARDHARCjAjoECAAQQzoCCAA6BwgAEBQQhwI6DAgAEBQQhwIQRhD9AVDuDFjOMGDbMWgBcAB4AIABYogBjQ-SAQIyNZgBAKABAaoBB2d3cy13aXqwAQo&sclient=psy-ab&ved=0ahUKEwjl95im_YzuAhWQxIUKHbB3Bk0Q4dUDCAg&uact=5#sie=lg;/g/11jn2_x2b4;3;/m/05jvx;mt;fp;1;;",
+                    "url": "https://es.global.nba.com/schedule/",
                     "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
                 }, {
                "name": "Clika los logos del equipo para ver el partido",
@@ -250,258 +250,85 @@
           "url": "http://givemenbastreams.com/nba.php?g=hawks",
           "userAgent" : "navigator"
 		               }]
-               },{
-            "name": "NHL",
-            "image": "https://live.staticflickr.com/4139/4804336671_d3da1da53c_b.jpg",
-            "info": "",
-            "stations": [{
-                    "name": "Clika para ver la programación",
-                    "image": "https://live.staticflickr.com/4139/4804336671_d3da1da53c_b.jpg",
-                    "url": "https://www.nhl.com/es/schedule",
-                     "embed": "true"
-                },{
-                 "name": "NBC Sports",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-J9sgeug1CayZbuz901kOvkzG6Eezeixsw&usqp=CAU",
-                    "url": "https://sportkart1.xyz/embed/scplayer-43.php",
-                   "isHost":true
-                },{
-                "name": "Anaheim Ducks",
-					"image":"https://content.sportslogos.net/logos/1/1736/thumbs/173616512014.gif",
-					"url": "https://bdnewszh.com/embed/nhl/ducks.html",
-					"isHost":true
-				},{
-					"name": "Arizona Coyotes",
-					"image":"https://content.sportslogos.net/logos/1/5263/thumbs/526378072015.gif",
-					"url": "https://bdnewszh.com/embed/nhl/coyotes.html",
-					"isHost":true
-				},{
-					"name": "Boston Bruins",
-					"image":"https://content.sportslogos.net/logos/1/3/thumbs/venf9fmhgnsawnxxvehf.gif",
-					"url": "https://bdnewszh.com/embed/nhl/bruins.html",
-					"isHost":true
-				},{
-					"name": "Buffalo Sabres",
-					"image":"https://content.sportslogos.net/logos/1/4/thumbs/454932021.gif",
-					"url": "https://bdnewszh.com/embed/nhl/sabres.html",
-					"isHost":true
-				},{
-					"name": "Calgary Flames",
-					"image":"https://content.sportslogos.net/logos/1/5/thumbs/548202021.gif",
-					"url": "https://bdnewszh.com/embed/nhl/flames.html",
-					"isHost":true
-				},{
-					"name": "Carolina Hurricanes",
-					"image":"https://content.sportslogos.net/logos/1/6/thumbs/fotih31tn5r345nufo5xxayh3.gif",
-					"url": "https://bdnewszh.com/embed/nhl/hurricanes.html",
-					"isHost":true
-				},{
-					"name": "Chicago Blackhawks",
-					"image":"https://content.sportslogos.net/logos/1/7/thumbs/56.gif",
-					"url": "https://bdnewszh.com/embed/nhl/blackhawks.html",
-					"isHost":true
-				},{
-					"name": "Colorado Avalanche",
-					"image":"https://content.sportslogos.net/logos/1/8/thumbs/64.gif",
-					"url": "https://bdnewszh.com/embed/nhl/avalanche.html",
-					"isHost":true
-				},{
-					"name": "Columbus Blue Jackets",
-					"image":"https://content.sportslogos.net/logos/1/9/thumbs/jhepegs329pc7ugyypebl28wg.gif",
-					"url": "https://bdnewszh.com/embed/nhl/jackets.html",
-					"isHost":true
-				},{
-					"name": "Dallas Stars",
-					"image":"https://content.sportslogos.net/logos/1/10/thumbs/1079172014.gif",
-					"url": "https://bdnewszh.com/embed/nhl/stars.html",
-					"isHost":true
-				},{
-					"name": "Detroit Red Wings",
-					"image":"https://content.sportslogos.net/logos/1/11/thumbs/yo3wysbjtagzmwj37tb11u0fh.gif",
-					"url": "https://teleriumtv.com/embed/70270.html",
-                    "referer" : "https://pelotero.net/",
-					"isHost":true
-				},{
-					"name": "Edmonton Oilers",
-					"image":"https://content.sportslogos.net/logos/1/12/thumbs/1227282018.gif",
-					"url": "https://bdnewszh.com/embed/nhl/oilers.html",
-					"isHost":true
-				},{
-					"name": "Florida Panthers",
-					"image":"https://content.sportslogos.net/logos/1/13/thumbs/1380782017.gif",
-					"url": "https://bdnewszh.com/embed/nhl/panthers.html",
-					"isHost":true
-				},{
-					"name": "Los Angeles Kings",
-					"image":"https://content.sportslogos.net/logos/1/14/thumbs/1422202020.gif",
-					"url": "https://bdnewszh.com/embed/nhl/kings.html",
-					"isHost":true
-				},{
-					"name": "Minnesota Wild",
-					"image":"https://content.sportslogos.net/logos/1/15/thumbs/1588102014.gif",
-					"url": "https://bdnewszh.com/embed/nhl/wild.html",
-					"isHost":true
-				},{
-					"name": "Montreal Canadiens",
-					"image":"https://content.sportslogos.net/logos/1/16/thumbs/124.gif",
-					"url": "https://bdnewszh.com/embed/nhl/canadiens.html",
-					"isHost":true
-				},{
-					"name": "Nashville Predators",
-					"image":"https://content.sportslogos.net/logos/1/17/thumbs/lvchw3qfsun2e7oc02kh2zxb6.gif",
-					"url": "https://bdnewszh.com/embed/nhl/predators.html",
-					"isHost":true
-				},{
-					"name": "New Jersey Devils",
-					"image":"https://content.sportslogos.net/logos/1/18/thumbs/32tfs723a3bes0p0hb4hgcy1u.gif",
-					"url": "https://bdnewszh.com/embed/nhl/devils.html",
-					"isHost":true
-				},{
-					"name": "New York Islanders",
-					"image":"https://content.sportslogos.net/logos/1/19/thumbs/1939112018.gif",
-					"url": "https://bdnewszh.com/embed/nhl/islanders.html",
-					"isHost":true
-				},{
-					"name": "New York Rangers",
-					"image":"https://content.sportslogos.net/logos/1/20/thumbs/144.gif",
-					"url": "https://bdnewszh.com/embed/nhl/rangers.html",
-					"isHost":true
-				},{
-					"name": "Ottawa Senators",
-					"image":"https://content.sportslogos.net/logos/1/21/thumbs/2111292021.gif",
-					"url": "https://bdnewszh.com/embed/nhl/senators.html",
-					"isHost":true
-				},{
-					"name": "Philadelphia Flyers",
-					"image":"https://content.sportslogos.net/logos/1/22/thumbs/161.gif",
-					"url": "https://bdnewszh.com/embed/nhl/flyers.html",
-					"isHost":true
-				},{
-					"name": "Pittsburgh Penguins",
-					"image":"https://content.sportslogos.net/logos/1/24/thumbs/2463622017.gif",
-					"url": "https://bdnewszh.com/embed/nhl/penguins.html",
-					"isHost":true
-				},{
-					"name": "San Jose Sharks",
-					"image":"https://content.sportslogos.net/logos/1/26/thumbs/dmo1xf3z4pph27vmg3gf.gif",
-					"url": "https://bdnewszh.com/embed/nhl/sharks.html",
-					"isHost":true
-				},{
-					"name": "Seattle Kraken",
-					"image":"https://content.sportslogos.net/logos/1/6740/thumbs/674079522022.gif",
-					"url": "https://bdnewszh.com/embed/nhl/kraken.html",
-					"isHost":true
-				},{
-					"name": "St. Louis Blues",
-					"image":"https://content.sportslogos.net/logos/1/25/thumbs/187.gif",
-					"url": "https://bdnewszh.com/embed/nhl/blues.html",
-					"isHost":true
-				},{
-					"name": "Tampa Bay Lightning",
-					"image":"https://content.sportslogos.net/logos/1/27/thumbs/97hhvk8e5if0riesnex30etgz.gif",
-					"url": "https://bdnewszh.com/embed/nhl/lightning.html",
-					"isHost":true
-				},{
-					"name": "Toronto Maple Leafs",
-					"image":"https://content.sportslogos.net/logos/1/28/thumbs/2887612017.gif",
-					"url": "https://bdnewszh.com/embed/nhl/leafs.html",
-					"isHost":true
-				},{
-					"name": "Vancouver Canucks",
-					"image":"https://content.sportslogos.net/logos/1/29/thumbs/2920842020.gif",
-					"url": "https://bdnewszh.com/embed/nhl/canucks.html",
-					"isHost":true
-				},{
-					"name": "Vegas Golden Knights",
-					"image":"https://content.sportslogos.net/logos/1/6114/thumbs/611426842018.gif",
-					"url": "https://bdnewszh.com/embed/nhl/knights.html",
-					"isHost":true
-				},{
-					"name": "Washington Capitals",
-					"image":"https://content.sportslogos.net/logos/1/30/thumbs/llrs2zxi127vkqgcsvfb.gif",
-					"url": "https://bdnewszh.com/embed/nhl/capitals.html",
-					"isHost":true
-				},{
-					"name": "Winnipeg Jets",
-					"image":"https://content.sportslogos.net/logos/1/3050/thumbs/z9qyy9xqoxfjn0njxgzoy2rwk.gif",
-					"url": "https://bdnewszh.com/embed/nhl/jets.html",
-					"isHost":true
-		}]  
               },{
             "name": "Eventos deportivos mix (Hoy UFC)",
             "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
             "info": "",
             "stations": [{
                     },{ 
-                 "name": "Kattar vs Chikadze",
+                 "name": "Evento 1",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   "url": "http://ciberespaciotv.blogspot.com/p/ver-eurosport-2-en-directo-online.html",
 			"isHost": "true"
                     },{
-                 "name": "Kattar vs Chikadze+",
+                 "name": "evento 2",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   "url": "https://wigistream.to/embed/loofty",
                    "referer" : "https://1rowsports.com/",
              "isHost":"true"
                     },{ 
-                 "name": "Kattar vs Chikadze",
+                 "name": "evento 3",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   "url": "http://ufckhabib.com/fight/ufc.php",
              "isHost":"true" 
                    },{ 
-                 "name": "",
+                 "name": "evento 4",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                     "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
                     "userAgent":""
 		}]
            }, {
 			"name": "Sección Tenis",
-			"image": "https://miraflorestennisclub.com/wp-content/uploads/2017/05/cropped-27018949-fantastic-tennis-wallpapers.jpg",
+			"image": "https://thumbs.dreamstime.com/b/pelota-de-tenis-en-el-fuego-20121872.jpg",
 			"info": "",
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-700.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 2",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-701.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 3",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-702.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 4",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-703.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 5",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com:443/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-704.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 6",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com:443/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-705.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 7",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com:443/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8",
-				"userAgent": ""
+				                 "url": "https://daddylive.futbol/stream/stream-706.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}, {
 				"name": "Evento 8",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8",
-				"userAgent": ""
-			}, {
-				"name": "Historico",
-				"image": "https://static3.abc.es/media/bienestar/2019/08/02/tenis-abecedario-kgNF--620x349@abc.jpg",
-				"url": "https://70.32.30.155:443/proxy.php/https://playoutengine-v2.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
-				"userAgen": ""
+				                 "url": "https://daddylive.futbol/stream/stream-707.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			}]
 	}, {
 		"name": "Eventos deportivos mix (La Liga Santander - La Liga Smartbank)",
@@ -522,8 +349,8 @@
                      }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			"url" : "https://ragnaru.net/embed.php?player=desktop&live=do10",
-			 "referer": "https://cdnz.one/",
+			"url" : "https://rallive.net/embed/koxwx?skin=2",
+			 "referer": "https://bedsport.live/",
              "isHost": "true" 
                     }, {
 			"name": "La liga Santander",
@@ -531,16 +358,17 @@
 			 "url": "https://sportsonline.to/channels/hd/hd6.php",
 			"referer": "http://cnlsport.xyz/",
 			"isHost" : "true"
-           }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-          "url": "http://www.ciberespaciotv.com/p/depor-futbol.html",
-               "isHost" : "true" 
                }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-             "url": "http://emb.x176899.apl118.me/player/live.php?id=176899&w=728&h=450",
+             "url": "http://emb.x181392.apl124.me/player/live.php?id=181392&w=728&h=450",
 			"isHost" : "true"
+                   }, {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+        "url" : "https://wigistream.to/embed/hci7wzrj2riggi",
+               "referer" : "http://livesports4u.xyz/",
+			  "isHost" : "true"
                   }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
@@ -550,37 +378,24 @@
                  }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-           "url": "https://ragnarp.net/embed/j7z1ypmmxi8p",
-               "referer": "https://leet365.cc/",
-			"isHost" : "true"
-                 }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url": "https://wigistream.to/embed/5h6ykj",
-             "referer": "https://starlive.xyz/",
-             "isHost": "true"
-           }, {
-			"name": "BeinSport ñ",
-             "image": "https://newcastlebeach.org/images/logo-bein-sport-6.jpg",
-           "url" :  "https://ragnarp.net/embed/m20e1ikpv9bbr",
-           "referer" : "https://macron.xyz/",
-			"isHost" : "true"
+           "url": "http://213.239.217.94:8080/live/universal/futbol/1.m3u8",
+			 "userAgent": "iraffle.se212/2.1.2 (Linux;Android 11) ExoPlayerLib/2.14.0"
           },{
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
-                     "url": "https://cloudstream.to/e/1j6gr5xa",
-                      "referer" : "https://pelotero.net/",
-                     "isHost" : "true"
+                     "url": "https://daddylive.futbol/stream/stream-149.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
                  },{
                     "name": "La Liga en latino ESPN2",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
-                    	 "url": "https://cloudstream.to/e/dr53mkh",
-                      "referer" : "https://pelotero.net/",
-                     "isHost" : "true"
+                    	  "url": "https://daddylive.futbol/stream/stream-150.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
                   },{
                     "name": "La Liga en latino ESPN3",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
-                   "url": "https://cloudstream.to/e/ehh93y1d5giathu",
+                   "url": "https://wigistream.to/embed/4k6pemfpmp",
                  "referer" : "https://pelotero.net/",
                      "isHost" : "true"
              }, {
@@ -591,7 +406,7 @@
            }, {
 			"name": "La Liga (Ingés)",
 			"image": "https://i.ibb.co/YP3rDY1/Liga-Santander.jpg",
-            "url" : "https://sports24.ws/20762.html",
+            "url" : "http://p2pstreams.live/stream-feed-10/",
 			"isHost":"true"
          }, {
 			"name": "Seguna División(Liga1)",
@@ -602,7 +417,7 @@
                     }, {
 			"name": "Seguna División(Liga1)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-         "url": "http://emb.x175229.apl111.me/player/live.php?id=175229&w=728&h=450",
+         "url": "http://emb.apl124.me/player/live.php?id=181415&w=728&h=450",
 			"isHost": "true"
                      }, {
 			"name": "Seguna División(Gol)",
@@ -617,8 +432,8 @@
                     }, {
 			"name":"Seguna División(Liga2)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-           	"url": "https://ragnarp.net/embed/a092om",
-			"referer": "https://1rowsports.com/",
+            "url": "https://ragnaru.net/embed.php?player=desktop&live=do15",
+			"referer": "https://cdnz.one/",
              "isHost": "true"
                }, {
 			"name":"Segunda División(Liga2)",
@@ -635,7 +450,7 @@
         }, {
 			"name": "Segunda División(Vamos)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			 "url": "https://ragnaru.net/embed.php?player=desktop&live=do22",
+			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do22",
 			"referer": "https://cdnz.one/",
              "isHost": "true"
                }, {
@@ -652,9 +467,9 @@
             "stations": [{
                     "name": "Opción 1(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                		"url": "https://cloudstream.to/e/h6wabanoeyjo",
-            "referer" : "https://wizhdlive.xyz/livetv/free39.php",
-			"ishost": "true"
+                		  "url": "https://daddylive.futbol/stream/stream-436.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
                 },{
                        "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
@@ -664,13 +479,14 @@
                 },{ 
                  "name": "Opción 3(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                    "url": "http://emb.apl113.me/player/live.php?id=173894&w=728&h=480",
+                    "url": "https://ragnarp.net/embed/6jv5qrdinf",
+			"referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "Opción 4(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-               "url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
-			"referer": "https://cdnz.one/",
+               "url": "https://daddylive.futbol/stream/stream-521.php",
+			"referer": "https://radamel.icu",
              "isHost": "true"
                     },{ 
                  "name": "Opción 5(M-Deportes 1)",
@@ -706,123 +522,137 @@
                     "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
                      "url": "https://www.google.es/",
                "isHost" : "true"
-                 }, {   
+                  }, {   
                  "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "http://emb.apl111.me/player/live.php?id=175230&w=728&h=450",
-               "isHost" : "true"
+                     "url": "https://daddylive.futbol/stream/stream-445.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
                  }, {
                  "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                  "url": "https://cloudstream.to/e/6n6bmwyme0o514",
-            "referer" : "https://wizhdlive.xyz/livetv/free43.php",
-			"ishost": "true"
+                              "url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
+			 "referer" : "https://bahiadeportes.com/",
+                    "isHost" : "true"
                        }, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			"url" : "http://emb.apl113.me/player/live.php?id=173894&w=728&h=480",
-             "isHost": "true" 
+			   "url": "https://starlive.xyz/embed.php?id=live20m",
+             "isHost": "true"
                       }, {
 			"name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			"url" : "https://ragnarp.net/embed/loofty",
+			"url" : "https://warnforlese.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                 "url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
-			"referer": "https://cdnz.one/",
+                 "url": "https://ragnarp.net/embed/xjcss",
+			"referer": "https://macron.xyz/",
              "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://cloudstream.to/e/4u2107u801a",
-            "referer" : "https://wizhdlive.xyz/livetv/free44.php",
-			"ishost": "true"
+                   "url": "https://daddylive.futbol/stream/stream-446.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                  "url": "https://ragnaru.net/embed.php?player=desktop&live=do16",
-			"referer": "https://cdnz.one/",
-             "isHost": "true"
+                   "url" : "https://wigistream.to/embed/hci7wzrj2riggi",
+               "referer" : "http://livesports4u.xyz/",
+			  "isHost" : "true"
                     },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url" : "http://emb.apl111.me/player/live.php?id=175213&w=728&h=450",
-                    "isHost": "true" 
+                     "url": "https://daddylive.futbol/stream/stream-447.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true" 
                    },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://ragnarp.net/embed/seouqwk",
+                   "url": "https://ragnarp.net/embed/hdbxpkwtd5456",
                    "referer" : "https://macron.xyz/",
                     "isHost": "true"
                     },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url": "https://ragnarp.net/embed/8fepea5",
+                    "url": "https://ragnarp.net/embed/zwaaqmvcz",
                      "referer" : "https://macron.xyz/",
                     "isHost":"true"  
                      },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url": "http://allsports.icu/tv1/ch29.php",
-                    "isHost":"true"  
+                     "url": "https://daddylive.futbol/stream/stream-448.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"  
                       },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url" : "https://cloudstream.to/e/5znxml2",
-                   "referer": "https://wizhdlive.xyz/livetv/free70.php",
-                    "isHost": "true"
+                   "url": "http://31.172.87.37:2200/NL/daznf1hd-esp/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579",
+			 "userAgent": "REDLINECLIENT TS1200Plus V2.4.36"
 		}]
 	}, {
 		"name": "Motor mix",
 		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
 		"info": "",
 		"stations": [{
-          "name": "Formula 1",
+              "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8",
-           "userAgent": ""
+			"url" : "https://vikistream.com/embed2.php?player=desktop&live=do19",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"
               }, {
           "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url": "https://ragnarp.net/embed/klog8c93g3yme",
+			"url" : "https://1l1l.to/ch19",
+             "isHost": "true" 
+              }, {
+          "name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			 "url": "https://deliriousholistic.net/embed/nxcht",
+            "referer" : "https://starlive.xyz/",
+			 "isHost":"true"
+           }, {
+          "name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "https://warnforlese.net/embed/qkduopi8remo1q",
             "referer" : "https://macron.xyz/",
 			 "isHost":"true"
 		}, {
 			"name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-		   "url": "https://wigistream.to/embed/klog8c93g3yme",
-            "referer" : "https://1rowsports.com/",
-			 "isHost":"true"
-         }, {
-			"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-		     "url": "https://cloudstream.to/e/21p0d8",
-            "referer" : "https://leet365.cc/",
-			 "isHost":"true"
-         }, {   
-			"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			 "url": "https://fclecteur.com/footy.php?player=desktop&live=ufeed99",
-            "referer" : "https://leet365.cc/",
+		  "url": "http://voraciousglove.net/embed/7biehwuw6",
+            "referer" : "http://v2.fullhdmatch.com/",
 			 "isHost":"true"
             }, {   
 			"name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url" : "http://www.ciberespaciotv.com/p/ver-dazn-f1-en-directo-online.html",
-              "isHost" : "true"
-                }, {   
+			"url": "https://deliriousholistic.net/embed/su1la223",
+                      "referer" : "https://bahiadeportes.com/",
+             "isHost":"true"
+               }, {   
 			"name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-                "url": "http://165.227.163.161:2457/es2019/mf1es/chunks.m3u8?nimblesessionid=91226&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMTE6MjU6MzggUE0maGFzaF92YWx1ZT1ZVlpBVlMwRFloUFJCU0xsN2hZb3R3PT0mdmFsaWRtaW51dGVzPTY=",
-            "userAgent" : "Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)"
-               }, {   
-			"name": "Formula 1(Latino)",
+              "url": "https://starlive.xyz/embed.php?id=live17m", 
+			 "isHost":"true"  
+                 }, {
+                  	"name": "Formula 1-LATINO",
+			"image": "https://f1chronicle.com/wp-content/uploads/2019/11/ESPN-F1-logo-640x360.jpg",
+                   "url": "https://daddylive.one/live/stream-375.php",
+             "referer": "https://radamel.icu/",
+             "isHost": "true"
+              }, {
+                  	"name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-             "url": "https://stream.mux.com/CJKTroBQKScJqjWTXkVbiM7f1vpv7PATQz3NCBxb6Zk.m3u8",
-                     "userAgent" : ""
+                  			"url" : "https://b7i4j3n3.stackpathcdn.com/dlive/transcode-79-67/manujaz/1659262737/src/live.m3u8",
+			"userAgent": "true"
+                                          },{
+                    "name": "F1 Solo moviles",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			 "url" : "https://www.curvaweb.com/F1.php",
+                "embed" : "true"
         }, {
 			"name": "Formula 1-Inglés",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
@@ -833,51 +663,62 @@
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
-                }, {
+                    }, {
+			"name": "Moto GP",
+			"image": "https://i.ibb.co/pfGrcsZ/Manujaz-Moto-GP.png",
+             "url": "https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/CvwEb_jwzR6G0bYCr5WoTzb9ERpf5_bBUv8Hefddyz3uXGQVIknSPZ9Iabd6Qn3vNG1YB_XTXkxbTuOI03c99bBnRBVhdVMb7Dn4Zvup_t0C_vTgNxWT13MD7jPdybo64DPo9j1O2xO8ruV-H-nZHGayZWAfTuHwWzsaQ3xGxE2sRetBtHSVVjjGFfZWPuECSepsgf5zHTi1OsXqb-6lEAnI0wcLG6AGf3w5qiwn1Slk_t2y9vxjHBRv9rPsx7dS-9yM3jFVzVJjy-pUB8H0adjauAZVB7vGfARGefL6bX5ee1-d4Wfas_hJGkBZTaIVTcmpH4VuaQrRy1mHlFyXszbPUv_35eWluynbq7qVcl8o-zJ3e7eu_QvP7oomHkmGQekYNGqIectEjKSpsTm-ZX6a7uuFiIJ9nfX6mivqrK4jjmgBwwwvR-zze1VdARdMuN6tviklfGSlD7WjBSPIRCmoXnViVdlNFF2BzzHHW-7T9l71QQJR89S6aKgAo_J7kn_pOTAva1-_AEbhAm2-SAXb8td8SW5w50jsLSHVgbeSTsn_PuYhJTL0QjycWohALPP3XeT2Lpw4wY63xyyF2p9pVRmDqBANgeVGfSpwCSpXbcVyIa8mmuhl_IwYr9Uv4HOxs039VbyPZvx6sJ4GqopPDr-Da8uH5ImDaYjUd3gTOnZDrTtPZg5rlvVU9O9RDWCBTgzNxNo2kP0jTJrSSc_NLpRXViI85SyQApV5U-8F4W_RrCsKDAkmqmqeIgTV5rTfnnwIkij0VLVZD_e0-bcxlUKSBXvUTLH46vQcSwzCyfNI_zoC5_8k-Gi3S1OdYHV9ba3IA7AT2fCjO9CUGgwBCVt-7LUR0Ldjp8ggASoJZXUtd2VzdC0yMLAE.m3u8",
+             "userAgent": ""
+                     }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url": "https://wigistream.to/embed/xcx5nm7hm3r72q",
-            "referer" : "https://telefullenvivo.com/",
-            "isHost":"true"
+             "url": "https://daddylive.futbol/stream/stream-445.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
+                   }, {
+			"name": "Moto GP",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+            "url" : "https://warnforlese.net/embed/zbz7klq",
+			 "referer": "https://macron.xyz/",
+             "isHost": "true"
                  }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url" : "http://emb.apl75.me/player/live.php?id=170147&w=728&h=450",
-			 "referer": "http://www.popofthestream.com/",
-             "isHost": "true" 
+            "url": "https://deliriousholistic.net/embed/5br4thjw1z8",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true"
                 }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-             "url": "https://wigistream.to/embed/vwfwm7bf1s3w",
-                "referer" : "https://telefullenvivo.com/", 
-			 "isHost":"true"
+             "url": "https://starlive.xyz/embed.php?id=live20m",
+             "isHost": "true"
+                }, {
+			"name": "Moto GP",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+              "url": "https://deliriousholistic.net/embed/5br4thjw1z8",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true"
                }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-              "url": "http://emb.x170463.apl82.me/player/live.php?id=170463&w=728&h=450",
-                  "referer" : "http://www.popofthestream.com/",
-			"isHost": "true"
+               "url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
+			 "referer" : "https://bahiadeportes.com/",
+                    "isHost" : "true"
                   }, {
 			"name": "Moto GP (Latino)",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-        "url": "https://flowcablevision.com/online.php?a=03",
+        "url": "https://flowcablevision.com/online.php?a=02",
                 "isHost":"true"
-                 }, {
-			"name": "Moto GP (Latino)",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-     "url": "http://54.39.51.30:25461/live/brasu2001ar/ZV4OT2LFaZ/12654.m3u8",
-            "userAgent" : ""
           }, {
 			"name": "Moto GP (inglés)",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-			"url": "https://www.ucast4u.com/embed.php?player=desktop&live=do20",
-             "referer" : "https://1.vecdn.pw/",
+			"url": "http://ufckhabib.com/f1/motogp-streams.php",
 			 "isHost":"true"
 		 }, {
 			"name": "Moto GP (Inglés)",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-			"url": "http://uhdstreams.club/hd/ch2.php",
-            "isHost":"true"
+			 "url": "https://cdn122.com/embed/riei96lusk",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
 		}]
 	}, {
 		"name": "Bundesliga",
@@ -886,24 +727,27 @@
 		"stations": [{
 			 "name": "BT Sport-1",
 			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
-			"url":"https://www.tutele.sx/online.php?a=13",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
               "name": "BT Sport-2",
 			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
-			"url":"https://www.tutele.sx/online.php?a=14",
+		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
               "name": "BT Sport-3",
 			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://www.tutele.sx/online.php?a=15",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
 			"name": "(Vamos)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
-			"referer": "https://cdnz.one/",
-             "isHost": "true"
+			   "url": "https://ragnarp.net/embed/6jv5qrdinf",
+			 "referer":"https://leet365.cc/",
+                    "isHost":"true"
             }, {
 			"name": "(Vamos)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
@@ -911,136 +755,147 @@
 			"referer": "https://macron.xyz/",
              "isHost": "true"
             }, {
-			"name": "(M-Campeones)",
+			"name": "Stuttgart - RB Leipzig(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
-            "isHost":"true"
+        "url": "https://daddylive.futbol/stream/stream-435.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Stuttgart - RB Leipzig(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://ragnarp.net/embed/tq24aomq",
+			"url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
-			"name": "(M-Campeones)",
+			"name": "FC Cologne - Schalke 04(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "http://emb.x174475.apl111.me/player/live.php?id=174475&w=728&h=450",
-            "isHost":"true"
+         "url": "https://daddylive.futbol/stream/stream-435.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "FC Cologne - Schalke 04(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://ragnarp.net/embed/tq24aomq",
+			"url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
              "isHost": "true"
           }, {
-			"name": "(M-Campeones2)",
+			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://ragnarp.net/embed/j2pjg",
-            "referer" : "https://macron.xyz/",
+			"url": "https://cdn122.com/embed/9ojk2p0842qtbgr",
+            "referer" : "https://l1l1.to/",
              "isHost": "true"
 		}, {
-			"name": "Hoffenheim - Stuttgart(M-Campeones1)",
+			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
-                    "referer":"https://macron.xyz/",
-                    "isHost":"true"
-          }, {
-			"name": "Hoffenheim - Stuttgart(M-Campeones1)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
-                    "referer":"https://leet365.cc/",
-                    "isHost":"true"
+			"url": "https://cdn122.com/embed/ya7um8guzz4",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
           }, {
 			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "http://uhdstreams.club/hd/ch7.php",
-                    "isHost":"true"
-              }, {
+			"url": "https://cdn122.com/embed/wreiq72b6dz",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
+          }, {
 			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://ragnarp.net/embed/kvcs4zlrjg",
-             "referer":"https://macron.xyz/",
-                    "isHost":"true"
+			"url": "https://cdn122.com/embed/sxdic6vrfzfxc",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
+           }, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://cdn122.com/embed/h8zgkrg",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
 		}]
 	}, {
 		"name": "Premier",
 		"image": "https://i.ibb.co/QJX74Vq/premier1.jpg",
 		"info": "",
 		"stations": [{
-			"name": "BT Sport-1",
+			 "name": "BT Sport-1",
 			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
-			"url":"https://www.tutele.sx/online.php?a=13",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
               "name": "BT Sport-2",
 			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
-			"url":"https://www.tutele.sx/online.php?a=14",
+		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
               "name": "BT Sport-3",
 			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://www.tutele.sx/online.php?a=15",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
-                }, {
-			"name": "Southampton - Norwich(DAZ1)",
+		 }, {
+			"name": "West Ham - Manchester City (DAZ1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url" : "https://ragnarp.net/embed/loofty",
+			"url" : "https://warnforlese.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                }, {
-			"name": "Southampton - Norwich(DAZ1)",
+			"name": "West Ham - Manchester City (DAZ1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			 "url": "http://emb.apl111.me/player/live.php?id=175230&w=728&h=450",
-             "isHost":"true"
-            }, {
-			"name": "(DAZN1)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			"url" : "http://emb.apl111.me/player/live.php?id=174763&w=728&h=450",
+			 "url": "https://deliriousholistic.net/embed/5br4thjw1z8",
+              "referer": "https://starlive.xyz/",
              "isHost": "true"
             }, {
- 			"name": "(DAZN1)",
+			"name": "Manchester Utd - Brighton (DAZN2)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url": "https://ragnarp.net/embed/loofty",
+ 			 "url": "https://daddylive.futbol/stream/stream-446.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
+            }, {
+			"name": "Manchester Utd - Brighton",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+			"url" : "https://warnforlese.net/embed/xmr0xxbbmzod",
+			 "referer": "https://macron.xyz/",
+             "isHost": "true"
+            }, {
+ 			"name": "Leicester - Brentford (DAZN3)",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+			"url": "https://daddylive.futbol/stream/stream-447.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true" 
+                }, {
+			"name": "Leicester - Brentford",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+ 			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                }, {
-			"name": "(DAZ1)",
+			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url" : "https://ragnarp.net/embed/loofty",
-			 "referer": "https://macron.xyz/",
+			 "url": "https://deliriousholistic.net/embed/yv6zi4y",
+              "referer": "https://starlive.xyz/",
              "isHost": "true"
                }, {
-			"name": "(DAZ1)",
+			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			 "url": "http://emb.x174376.apl111.me/player/live.php?id=174376&w=728&h=450",
-             "isHost":"true"  
+			"url": "https://deliriousholistic.net/embed/hlw407eatu9",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true"
              }, {
-			"name": "(ESPN2)",
+			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-           "url":"https://www.tutele.sx/online.php?a=2",
-            "isHost" : "true"
+       "url": "https://cdn122.com/embed/sm43vfg",
+            "referer" : "https://l1l1.to/",
+             "isHost": "true"
 		}, {
 			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url" : "https://ragnarp.net/embed/5unxp2eaud7kj",
-			 "referer": "https://macron.xyz/",
+ 			  "url": "https://cdn122.com/embed/7zgt8fch8fw4",
+            "referer" : "https://l1l1.to/",
              "isHost": "true"
-		}, {
-			"name": "(ESPN)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			  "url":"https://www.tutele.sx/online.php?a=1",
-            "isHost" : "true"
         }, {
 			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			 "url": "https://ragnarp.net/embed/79vk8vf",
-           "referer": "https://macron.xyz/",
-             "isHost": "true"
-         }, {
-			"name": "",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			 "url": "https://ragnarp.net/embed/jh5b35nz58p4",
-           "referer": "https://macron.xyz/",
+ 			"url": "https://cdn122.com/embed/6fqntou",
+              "referer": "https://l1l1.to/",
              "isHost": "true"
 		}]
 	}, {
@@ -1050,75 +905,108 @@
 		"stations": [{
            "name": "BT Sport-1",
 			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
-			"url":"https://www.tutele.sx/online.php?a=13",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		}, {
               "name": "BT Sport-2",
 			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
-			"url":"https://www.tutele.sx/online.php?a=14",
+		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
           }, {
               "name": "BT Sport-3",
 			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://www.tutele.sx/online.php?a=15",
+			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
+            "referer" : "https://cdnz.one/",
             "isHost" : "true"
-        }, {
- 			"name": "Genoa - Inter(Vamos)",
+		 }, {
+ 			"name": "(Vamos)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
           "url": "https://ragnarp.net/embed/6jv5qrdinf",
               "referer" : "https://macron.xyz/",
             "isHost":"true"
 		}, {
-			"name": "Genoa - Inter(Vamos)",
+			"name": "(Vamos)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			  "url": "https://ragnarp.net/embed/6jv5qrdinf",
               "referer" : "https://leet365.cc/",
             "isHost":"true"
         }, {
-			"name": "AC Milan - Udinese(M-Campeones)",
+			"name": "Milan - Bolgna(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-        "url": "https://ragnarp.net/embed/405ppgjssim1wf",
-            "referer" : "https://ragnarp.net/embed/tq24aomq",
+        "url": "https://warnforlese.net/embed/lbr3etluqsw",
+            "referer" : "https://macron.xyz/",
             "isHost": "true"  
 		}, {
-			"name": "AC Milan - Udinese(M-Campeones)",
+			"name": "Milan -Bologna(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "http://emb.apl111.me/player/live.php?id=175225&w=728&h=450",
+			"url": "http://emb.x181404.apl124.me/player/live.php?id=181404&w=728&h=450",
             "isHost":"true"  
-        }, {
+                    }, {
 			"name": "(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
-            "isHost":"true" 
-         }, {
-			"name": "(M-Campeones)",
-			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-            "url": "https://ragnarp.net/embed/405ppgjssim1wf",
-            "referer" : "https://ragnarp.net/embed/tq24aomq",
+        "url": "https://warnforlese.net/embed/lbr3etluqsw",
+            "referer" : "https://macron.xyz/",
             "isHost": "true"  
-        }, {
-			"name": "(ESPN-ARG)",
-			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-         "url": "https://cloudstream.to/e/eglaftmicpkb1",
-                      "referer" : "https://pelotero.net/",
-                     "isHost" : "true"
-                }, {
+		}, {
 			"name": "(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "http://emb.x174584.apl111.me/player/live.php?id=174584&w=728&h=450",
-            "isHost":"true" 
+			"url": "http://emb.x181103.apl124.me/player/live.php?id=181103&w=728&h=450",
+            "isHost":"true"  
+                  }, {
+			"name": "(M-Campeones)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+        "url": "https://warnforlese.net/embed/lbr3etluqsw",
+            "referer" : "https://macron.xyz/",
+            "isHost": "true"  
 		}, {
+			"name": "(M-Campeones)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://emb.x181103.apl124.me/player/live.php?id=181103&w=728&h=450",
+            "isHost":"true"  
+                }, {
+			"name": "(M-Campeones1)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://ragnarp.net/embed/405ppgjssim1wf",
+             "referer" : "https://macron.xyz/",
+            "isHost":"true"
+             }, {
 			"name": "",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "http://uhdstreams.club/hd/ch1.php",
-            "isHost": "true"
+			"url": "https://ragnarp.net/embed/fwub4qdj0c",
+			 "referer" : "https://macron.xyz/",
+             "isHost": "true"
+           }, {
+			"name": "",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://wigistream.to/embed/074t628rp824vy0",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+		}, {
+			"name": "(S premier)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://wigistream.to/embed/urnkplwewv01t",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
          }, {
   			"name": "(DAZ-IT)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			"url": "https://wigistream.to/embed/du3jry",
 			 "referer" : "https://elixx.xyz/",
              "isHost": "true"
-       
+            }, {
+			"name": "(DAZ-IT)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://wigistream.to/embed/du3jry",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
+         }, {
+			"name": "(DAZ-IT)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://wigistream.to/embed/du3jry",
+			 "referer" : "https://elixx.xyz/",
+             "isHost": "true"
          }, {
 			"name": "(Sport TV2)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
@@ -1131,12 +1019,6 @@
 			 "url": "https://wigistream.to/embed/nf9f0ha7x0tthy",
             "referer" : "https://elixx.xyz/",
              "isHost": "true"
-         }, {
-			"name": "(DAZ-IT)",
-			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "https://wigistream.to/embed/du3jry",
-			 "referer" : "https://elixx.xyz/",
-             "isHost": "true"
 		}]
 	}, {
 		"name": "Deport-mix",
@@ -1145,26 +1027,26 @@
 		"stations": [{
         "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-            "url": "https://ragnarp.net/embed/6jv5qrdinf",
-              "referer" : "https://leet365.cc/",
-            "isHost":"true"
+              "url" : "http://dreamsat.h2t.cx:8080/live/SP-SPAIN/eTXAxbMw/1238.m3u8",
+            "userAgent": "REDLINECLIENT_DM_650HD_PRO V3"
            }, {
  			"name": "Vamos.",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-             "url": "http://emb.apl114.me/player/live.php?id=172343&w=728&h=480",
+               "url": "https://ragnarp.net/embed/6jv5qrdinf",
+			"referer": "https://macron.xyz/",
              "isHost": "true"
                }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-            "url": "https://ragnarp.net/embed/6jv5qrdinf",
-			"referer": "https://macron.xyz/",
+         "url": "https://daddylive.futbol/stream/stream-521.php",
+			"referer": "https://radamel.icu",
              "isHost": "true"
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       			"url" : "https://maxsport.one/laliga.php",
-               "referer" : "http://cdn.livetv507.me/",
-			  "isHost" : "true"
+       						 "url": "https://daddylive.futbol/stream/stream-84.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
           }, {
 			"name": "La liga.",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
@@ -1176,6 +1058,12 @@
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
 			"url": "https://wigistream.to/embed/tekhw2v",
              "referer": "https://starlive.xyz/",
+             "isHost": "true"
+              }, {
+			"name": "La liga",
+			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
+			"url": "https://ragnarp.net/embed/koxwx?skin=2",
+             "referer": "https://cdnz.one/",
              "isHost": "true"
                                         },{
                  "name": "La liga",
@@ -1190,8 +1078,9 @@
           }, {  
          "name": "La liga Bar",
 			"image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
-         "url": "http://209.126.119.148:20102/live/18a4fca0c16749238938914684deb071/fca909e812bc4ea181b7050776c26412/378.m3u8",
-			"userAgent": "PlusMediaPlayer/0.0.9"
+         "url": "https://wigistream.to/embed/5h6ykj",
+			 "referer": "https://starlive.xyz/",
+             "isHost": "true"
 		}, {
 			"name": "La liga Bar",
               "image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
@@ -1201,17 +1090,18 @@
 		}, {
 			"name": "La liga Bar",
 			"image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
-			 "url": "http://213.239.217.94:8080/universo/futbol/1.m3u8",
+			 "url": "http://213.239.217.94:8080/live/motogp/iraffle22/1.m3u8?Bychuky",
              "userAgent": "iraffle.se212/2.1.2 (Linux;Android 11) ExoPlayerLib/2.14.0"
 		}, {
 			"name": "Opción 1(Liga 1)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			 "url": "	http://64.227.180.219/laliga2/video.m3u8",
-			 "userAgent":""
+			 "url": "https://ragnaru.net/embed.php?player=desktop&live=do26",
+			"referer": "https://cdnz.one/",
+             "isHost": "true"
                }, {
 			"name": "Opción 2",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			   "url": "http://emb.x175229.apl111.me/player/live.php?id=175229&w=728&h=450",
+			   "url": "http://emb.x180615.apl124.me/player/live.php?id=180615&w=728&h=450",
              "isHost": "true"
                 }, {
 			"name": "Opción (Liga 2)",
@@ -1222,7 +1112,7 @@
               }, {
 			"name": "Opción 4",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			"url" : "https://ragnarp.net/embed/41qx7ijnkpz",
+			"url" : "https://ragnarp.net/embed/i1wf6v45w4",
                "referer" : "https://leet365.cc/",
               "isHost" : "true"
               }, {
@@ -1234,8 +1124,8 @@
                }, {
 			"name": "Opción 5(Liga2)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-            "url": "https://ragnaru.net/embed.php?player=desktop&live=do22",
-			"referer": "https://1.vecdn.pw/",
+            "url": "https://ragnaru.net/embed.php?player=desktop&live=do15",
+			"referer": "https://cdnz.one/",
              "isHost": "true"
                 }, {
 			"name":"Segunda División(Liga3)",
@@ -1245,36 +1135,40 @@
              "isHost": "true"
 		}, {
 			"name": "Movistar Campeones",
-			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-			"url" : "http://emb.apl111.me/player/live.php?id=175225&w=728&h=450",
-            "isHost" : "true"
-         }, {
-            "name" : "Movistar Campeones",
-            "image" : "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-            "url": "http://emb.apl111.me/player/live.php?id=173347&w=728&h=480",
-            "isHost":"true"
+            "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
+			 "url": "https://daddylive.futbol/stream/stream-435.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
         }, {
 			"name": "Movistar Campeones",
 			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-			 "url": "https://ragnarp.net/embed/tq24aomq",
-            "referer" : "https://ragnarp.net/embed/tq24aomq",
-            "isHost": "true"
-       }, {  
+			 "url": "https://warnforlese.net/embed/lbr3etluqsw",
+            "referer" : "https://macron.xyz/",
+             "isHost": "true"
+         }, {
+			"name": "Movistar Campeones1",
+			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
+			 "url": "https://ragnarp.net/embed/405ppgjssim1wf",
+			"referer": "https://macron.xyz/",
+             "isHost": "true"
+			  }, {  
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url": "http://209.126.119.148:20102/live/06e7dd7147464566b51065b13c9e1b4e/8c6d706844e940148da6a032a4ff50ed/373.m3u8",
-               "userAgent" : "PlusMediaPlayer/0.0.9"
+			  "url": "https://daddylive.futbol/stream/stream-436.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url": "https://cloudstream.to/e/h6wabanoeyjo",
-            "referer" : "https://wizhdlive.xyz/livetv/free39.php",
-			"ishost": "true"
+			"url": "https://wigistream.to/embed/577d4aefb1y83e",
+		    "referer":"https://1rowsports.com/player",
+			"isHost": "true"
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			"url": "http://ciberespaciotv.blogspot.com/p/ver-gol-television-en-directo-online.html",
-			"isHost": "true"
+			 "url": "https://daddylive.futbol/stream/stream-530.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 		}, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
@@ -1288,40 +1182,66 @@
 		}, {
 			"name": "Formula 1",
             "image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url": "http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8",
+			"url": "http://94.177.158.190:8081/live/FORMULA1.m3u8/playlist.m3u8",
            "userAgent": ""
+                 }, {
+			"name": "Formula 1",
+            "image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			 "url": "https://daddylive.futbol/stream/stream-537.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-           "url": "http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8",
-            	"userAgent": ""
+           "url": "https://daddylive.futbol/stream/stream-524.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 			
 		}, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-            "url": "http://ciberespaciotv.blogspot.com/p/ver-eurosport-en-directo-online.html",
-			"isHost": "true"
+            "url": "http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949685.ts",
+			"userAgent": ""
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url": "http://www.ciberespaciotv.com/p/ver-eurosport-2-en-directo-online.html",
-			"isHost": "true"
+			 "url": "https://daddylive.futbol/stream/stream-525.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 		}, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts",
-            	"userAgent": "cp_2531"
+			"url": "http://mirror.streamhubtv.me:8080/directoperu/6W4P2PK3Q9/949686.ts",
+            	"userAgent": ""
 		}, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			"url": "https://wigistream.to/embed/ejbgn8tu255elp",
-			 "referer" : "https://telefullenvivo.com/",
-            "isHost": "true"
+			 "url": "https://daddylive.futbol/stream/stream-528.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
+                }, {
+			"name": "Golf",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
+			 "url": "https://daddylive.futbol/stream/stream-528.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
+             }, {
+			"name": "M.Toros",
+			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+               "url" : "https://deliriousholistic.net/embed/a57mc",
+               "referer" : "https://verlatelevision.com/",
+			 "ishost" : "true"
+		}, {
+			"name": "M.Toros",
+			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
+         "url" : "http://s846397078.mialojamiento.es:80/w2jy/toro.php/mono.m3u8",
+            "userAgent": ""
          }, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			"url": "http://ciberespaciotv.blogspot.com/p/ver-barca-tv-en-directo-online.html",
-			 "isHost": "true" 
+			 "url": "https://daddylive.futbol/stream/stream-522.php",
+			"referer": "https://radamel.icu",
+             "isHost": "true"
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
@@ -1331,7 +1251,7 @@
 		}, {
 			"name": "Real MAdrid TV",
 			"userAgent": "",
-			"url": "http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8",
+			"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
 			"image": "https://i.ibb.co/SySS6Yj/Real-Madrid.gif"
 		}, {
 			"name": "Real Betis TV",
@@ -1351,19 +1271,19 @@
                       },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                   "url": "https://cloudstream.to/e/1j6gr5xa",
-                      "referer" : "https://pelotero.net/",
+                   "url": "https://sportkart1.xyz/tv/scplayer-149.php",
+                    "referer" : "https://maxsport.one/",
                      "isHost" : "true"
                     },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                    "url":"https://www.tutele.sx/online.php?a=1",
+                    "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
             "isHost" : "true"
                   },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                    "url": "https://cloudstream.to/e/dr53mkh",
-                      "referer" : "https://pelotero.net/",
+                    "url": "https://sportkart1.xyz/tv/scplayer-150.php",
+                    "referer" : "https://maxsport.one/",
                      "isHost" : "true"
                  },{
                     "name": "ESPN2-Argentina HD",
@@ -1373,20 +1293,14 @@
                                     },{
                     "name": "ESPN3-Argentina HD",
                     "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
-                   "url": "https://cloudstream.to/e/ehh93y1d5giathu",
-                 "referer" : "https://pelotero.net/",
+                  "url": "https://warnforlese.net/embed/qwzyeiwqzd",
+                    "referer" : "https://casadelfutbol.net/",
                      "isHost" : "true"
                   },{
                     "name": "ESPN3-Argentina HD",
                     "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
                  "url":"https://www.tutele.sx/online.php?a=3",
             "isHost" : "true"
-		}, {
-			"name": "ESPN+ Argentina",
-			"image": "https://2.bp.blogspot.com/-oWNM4gzc8ds/U4T7eaXp7tI/AAAAAAAACcs/RgUEtzV5yyM/s1600/ESPN-+-Latinoamerica-en-Vivo-fullcaleta-tv-online-portada-png-gif.png",
-			"url": "https://flowcablevision.com/embed.php?nocounter=false&a=575&s=j4gscvr74b8f78l0p2gtv31nr8&ip=146.70.46.30&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A94.0%29+Gecko%2F20100101+Firefox%2F94.0&referer=https%3A%2F%2Ftelefullenvivo.com%2F",
-            "referer" : "https://flowcablevision.com/online.php?a=575",
-			 "isHost":"true"
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
@@ -1415,8 +1329,8 @@
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url":"https://www.tutele.sx/online.php?a=17",
-            "isHost" : "true"
+			"url":"https://linear-356.frequency.stream/356/hls/master/playlist.m3u8?fbclid=IwAR2XMsKThoIFJInB1GKKw7nc60gWvQn26BlhkQAJAeebA0w3eDd7QhwIxWc",
+            "userAgent" : ""
         }, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
@@ -1426,31 +1340,30 @@
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
-			"url": "https://cloudstream.to/e/dyzqotv15miwft",
-             "referer" : "https://pelotero.net/",
+			"url": "https://www.tutele.sx/online.php?a=6",
 			"isHost": "true"
               }, {
 			"name": "DirecTV Sports2",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/9/90/DirecTV_Sports_2_2015.png/revision/latest?cb=20200706224535&path-prefix=es",
-			 "url": "https://cloudstream.to/e/y7igo1bzj3n",
-                    "referer" : "https://pelotero.net/",
-                    "isHost" : "true"
+			"url": "https://www.tutele.sx/online.php?a=7",
+			"isHost": "true"
                }, {
 			"name": "DirecTV Sports+",
 			"image": "https://fullcanaleshd.files.wordpress.com/2016/05/6a910-directv2bmas.png",
-			"url": "https://cloudstream.to/e/m0436l96pakiyed",
-             "referer" : "https://pelotero.net/",
+			"url": "https://www.tutele.sx/online.php?a=8",
 			"isHost": "true"
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url":"https://www.tutele.sx/online.php?a=1204",
-            "isHost" : "true"
+			"url":"https://cloudstream.to/e/etwtqa4yjb58w4",
+            "referer" : "https://pelotero.net/",
+			"isHost": "true"
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.sx/online.php?a=149",
-            "isHost" : "true"
+			"url":"https://cloudstream.to/e/f2l5ldn1",
+            "referer" : "https://pelotero.net/",
+			"isHost": "true"
               }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
@@ -1476,7 +1389,7 @@
              }, {
 			"name": "Sky Sport football",
 			"image": "https://yt3.ggpht.com/ytc/AAUvwngvw3NiQZvSQLBLGF5g8zJbQQnS50W0IVNyL8dmXA=s900-c-k-c0x00ffffff-no-rj",
-			"url":"https://sportkart1.xyz/embed/scplayer-35.php",
+						"url":"https://sportkart1.xyz/embed/scplayer-35.php",
             "isHost" : "true"
                }, {
 			"name": "Sky Sport football",
@@ -1484,40 +1397,36 @@
 			"url": "https://noob4cast.com/wizhd.php?player=desktop&live=skysfott",
             "referer" : "https://wizhdlive.xyz/",
 			"isHost": "true"   
-               }, {
-              "name": "Sport TV",
-			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
               }, {
               "name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
+						 "url" :  "https://buzztv.futbol/pt1.php",
+			 "isHost":"true"
 		}, {
              "name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
+			"url" :  "https://buzztv.futbol/pt2.php",
+			 "isHost":"true"
           }, {
              "name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
+			 "url" :  "https://buzztv.futbol/pt3.php",
+			 "isHost":"true"
           }, {
               "name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
+			  "url" :  "https://buzztv.futbol/pt4.php",
+			 "isHost":"true"
                 }, {
               "name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url": "https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END",
-			"userAgent": ""
+			 "url" :  "https://buzztv.futbol/pt5.php",
+			 "isHost":"true"
               }, {
               "name": "sky sport arena",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1200px-Sky_Sport_Arena_-_Logo_2018.svg.png",
-			"url": "https://cricfree.live/update/skyarena.php",
+			"url": "https://castfree.me/embed.php?player=desktop&live=skysare",
+                        "referer" : "https://cricplay2.xyz/",
 			"isHost": "true"
                 }, {
               "name": "Fox NFL",
@@ -1536,207 +1445,16 @@
 			"url": "https://www.socialcreator.com/directos/?s=109420&idprod=44822",
 			"isHost": "true"
 		}]
-	}, {
-		"name": "M",
-		"image": "https://i.ibb.co/GppNrg3/movistar.gif",
+		}, {
+		"name": "Movistar-Sin servicio",
+		"image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
 		"info": "",
 		"stations": [{
-			               "name": "M.#0",
-                     "image": "https://www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg",
-                "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1350",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Estrenos",
-                    "image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png",
-                   			"url": "http://159.65.121.150:4542/es2019/mestrenos/chunks.m3u8?nimblesessionid=289956&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDEyOjA1OjU0IEFNJmhhc2hfdmFsdWU9Qm5zaGc5czN5T1hDZkEydlNMOHYzUT09JnZhbGlkbWludXRlcz02",
-			"userAgent": "Dalvik/2.1.0"
-                },{
-                    "name": "M.Estrenos",
-                    "image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png",
-                   						"url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1176",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89"
-               },{
-                    "name": "M.Acción",
-                    "image": "https://meteoalcorcon.es/1_0_1_746C_3F0_1_C00000_0_0_0.png",
-                  			"url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1179",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-                },{
-                    "name": "M.Acción",
-                    "image": "https://meteoalcorcon.es/1_0_1_746C_3F0_1_C00000_0_0_0.png",
-                               "url" : "http://209.126.119.148:20102/live/bf854948466b42ca9a99c392e3c54c04/6ec202dfc0c44a029384138fa5baf248/367.m3u8",
-               "userAgent" : "PlusMediaPlayer/0.0.9"
-               },{
-                    "name": "M.Drama",
-                    "image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDRAMA.png",
-                  			"url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1183",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Drama",
-                    "image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDRAMA.png",
-                "url": "http://209.126.119.148:20102/live/410e100d64354405962c2f2d617812e2/6a3479a6b8c749fc93acbbffed53989e/375.m3u8",
-			"userAgent" : "PlusMediaPlayer/0.0.9"
-               },{
-                    "name": "M.Comedia",
-			"image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png",
-						"url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1180",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Comedia",
-                    "image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png",
-			"url": "http://209.126.119.148:20102/live/97f7f67660ab48eab95837e5844750f8/6f486cdea8064d75affdf87290313b0a/370.m3u8",
-               "userAgent" : "PlusMediaPlayer/0.0.9"
-               },{
-                    "name": "M.Cine ñ",
-                    "image": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.yHmmANMZEU.jpg",
-                   "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1184",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Cine ñ",
-                    "image": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.yHmmANMZEU.jpg",
-                   "url" : "http://209.126.119.148:20102/live/e88a164e6fad4fe4aedcb64c8bebd114/fe5eb0535b124474b3dd2b43d309abf2/368.m3u8",
-               "userAgent" : "PlusMediaPlayer/0.0.9"
-               },{
-                    "name": "M.Series",
-                    "image": "https://i.blogs.es/e55d0b/movistarseries/450_1000.jpg",
-                  "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1181",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Series",
-                    "image": "https://i.blogs.es/e55d0b/movistarseries/450_1000.jpg",
-                   "url" : "http://209.126.119.148:20102/live/800be21e10424537a797aea7e81663c9/49180aa393be4f1389e5d151cfe4c253/382.m3u8",
-               "userAgent" : "PlusMediaPlayer/0.0.9"
-                 },{
-              "name": "M.Fox",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeP9e8RJ0Vh7V66mEOnZv8mqIXVVN1l_SSQ&usqp=CAU",
-			"url": "http://www.ciberespaciotv.com/p/ver-fox-en-directo-online.html",
-			"isHost": "true"
-               },{
-                    "name": "M.Fox",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeP9e8RJ0Vh7V66mEOnZv8mqIXVVN1l_SSQ&usqp=CAU",
-                  "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1204",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-					
-               },{
-                    "name": "M.AXN",
-                    "image": "https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",
-                   "url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts",
-			"userAgent": "cp_2531"
-               },{
-                    "name": "M.AXN",
-                    "image": "https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",
-                   "url": "http://185.41.244.69/axn/index.m3u8",
-			 "userAgent" : ""
-               },{
-                    "name": "M.AMC",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png",
-                   "url": "http://185.41.244.69/amc/index.m3u8",
-			"userAgent": ""
-               },{
-                    "name": "M.AMC",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png",
-                    "url": "http://fx2world.com:8080/live/FGIdkB2Oeo/DmBDdjHcWc/2402.m3u8",
-			 "userAgent" : "PlusMediaPlayer/0.0.9"
-               },{
-                    "name": "M.Calle 13",
-                    "image": "https://www.elpublicista.es/adjuntos/fichero_8112_20130325.jpg",
-                  "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1209",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               }, {
-			"name": "M.SYFY",
-			"image": "https://portalgeek.co/wp-content/uploads/2019/05/syfy.jpg",
-			"url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1208",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.SYFY",
-                    "image": "https://portalgeek.co/wp-content/uploads/2019/05/syfy.jpg",
-                    "url": "http://185.41.244.69/syfy/index.m3u8",
-			 "userAgent" : ""
-               },{
-                    "name": "M.Hollywood",
-                    "image": "https://canalhollywood.es/wp-content/uploads/2015/06/Canal-Hollywood-logo.jpg",
-                  "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1188",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                   "name": "M.Hollywood",
-                    "image": "https://canalhollywood.es/wp-content/uploads/2015/06/Canal-Hollywood-logo.jpg",
-                    "url": "http://185.41.244.69/hollywood/index.m3u8",
-                   "userAgent": "" 
-               },{
-                    "name": "M.TCM",
-                    "image": "https://vertele.eldiario.es/2017/09/15/noticias/Logo-TCM_1939916006_8750809_660x371.jpg",
-                   "url": "http://www.ciberespaciotv.com/p/ver-tcm-en-directo-online.html",
-			"isHost": "true"
-                   },{
-                 "name": "M.TCM",
-                    "image": "https://vertele.eldiario.es/2017/09/15/noticias/Logo-TCM_1939916006_8750809_660x371.jpg",
-                   "url": "http://185.41.244.69/tcm/index.m3u8",
-                   "userAgent": "" 
-               },{
-                    "name": "M.Dark",
-                    "image": "https://roams.es/wordpress/wp-content/uploads/2019/03/vodafone-canal-dark.jpg",
-                   "url": "http://185.41.244.69/dark/index.m3u8",
-			"userAgent": "" 
-               },{
-                    "name": "M.XTRM",
-                    "image": "https://www.formulatv.com/images/noticias/31700/31734/2.jpg",
-                    "url": "http://185.41.244.69/xtrm/index.m3u8",
-			"userAgent": "" 
-                  },{
-                    "name": "Somos",
-                    "image": "https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/05f74609458855e3dd64ff0edfcf6fb1_SOMOS.png",
-                    "url": "http://185.41.244.69/somos/index.m3u8",
-               "userAgent" : ""
-                 },{
-                    "name": "Comedy central",
-                    "image": "https://www.pngitem.com/pimgs/m/29-295547_comedy-central-logo-png-transparent-comedy-central-png.png",
-                    "url": "http://www.ciberespaciotv.com/p/ver-comedy-central-en-directo-online.html",
-			"isHost": "true"
-               },{
-                    "name": "M.Discovery channel",
-                    "image": "https://1.bp.blogspot.com/-hz7PMlp4OaA/UQAq9nLG2ZI/AAAAAAAACtE/aKFhUGOAyUY/s1600/Discovery+channel+en+vivo.jpg",
-                     "url": "http://185.41.244.69/discoverychannel/index.m3u8",
-			"userAgent": "" 
-                },{
-                    "name": "Canal Cocina",
-                    "image": "https://mercadoproductores.es/wp-content/uploads/2019/05/canal-cocina-logo.jpg",
-                     "url": "http://185.41.244.69/cocina/index.m3u8",
-			"userAgent": ""   
-               },{
-                    "name": "M.Historia",
-                    "image": "https://static.megustaleer.com/images/autores_300_x/ES0000920957.jpg",
-                   "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1302",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-               },{
-                    "name": "M.Historia",
-                    "image": "https://static.megustaleer.com/images/autores_300_x/ES0000920957.jpg",
-                     "url": "http://185.41.244.69/historia/index.m3u8",
-			"userAgent": "" 
-               },{
-                    "name": "M.Crimen e inestigación",
-                    "image": "https://i.ytimg.com/vi/5WOv8kzPKCU/maxresdefault.jpg",
-                   "url" : "http://www.ciberespaciotv.com/p/crimen-mas-investigacion-online.html",
-			        "isHost": "true"
-               },{
-                    "name": "M.Caza y pesca",
-                    "image": "https://i.ytimg.com/vi/NKnpT16csQQ/maxresdefault.jpg",
-                  "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1305",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-            }, {
-			"name": "M.Toros",
-			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-             "url": "http://www.ciberespaciotv.com/p/ver-toros-en-directo-online.html",
-			"isHost": "true"
-		}, {
-			"name": "M.Toros",
-			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-         "url" : "http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1294",
-			 "userAgent" : "REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43"
-		}, {
-			"name": "Hunt",
-			"userAgent": "",
-			"url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
-			"image": "https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png"
+			               "name": "Sin Servicio",
+                     "image": "https://www.trucosgalaxy.net/wp-content/uploads/2017/08/sin-servicio-celular.jpg",
+                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
+               "referer" : "https://verlatelevision.com/",
+			 "ishost" : "true"
 		}]
 	}]
 }
-
