@@ -337,12 +337,6 @@
 		"stations": [{
 			"name": "Supercopa Europa",
 			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-			 "url" : "https://warnforlese.net/embed/lbr3etluqsw",
-              "referer" : "https://macron.xyz/",
-              "isHost" : "true"
-                     }, {
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
 			"url" : "https://vikistream.com/embed2.php?player=desktop&live=do10",
 			 "referer": "https://1l1l.to/",
              "isHost": "true" 
@@ -369,6 +363,13 @@
          "url": "https://daddylive.futbol/stream/stream-435.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
+	         }, {
+	      "name": "Supercopa Europa",
+			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
+			 "url" : "https://warnforlese.net/embed/lbr3etluqsw",
+              "referer" : "https://macron.xyz/",
+              "isHost" : "true"
+                    
           },{
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
