@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 10-08-2022)",
+    "author": "chuky (Actualizada al 12-08-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -331,46 +331,51 @@
              "isHost": "true"
 			}]
 	}, {
-		"name": "Eventos deportivos mix (Supercopa Europa)",
-		"image": "https://elcomercio.pe/resizer/4VNTcyyvk-e6rXx6LVpbeSl1Kr0=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2EJQNBGGKVAIPDDC6QHB3BOMTU.jpg",
+		"name": "Eventos deportivos mix (La Liga Santander - La Liga Smartbank)",
+		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-			"url" : "https://vikistream.com/embed2.php?player=desktop&live=do10",
-			 "referer": "https://1l1l.to/",
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+          "url": "https://v24m4j1ltpydd5d.smokelearned.net/embed/df7nk3qyxpu1vx",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true"
+                     }, {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			 "url" : "https://vikistream.com/embed2.php?player=desktop&live=do19",
+              "referer" : "https://l1l1.to/",
+              "isHost" : "true"
+                     }, {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			"url" : "https://cdn122.com/embed/pyxs8u5a6hp",
+			 "referer": "https://l1l1.to/",
              "isHost": "true" 
                     }, {
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-			 "url": "https://cdn122.com/embed/2k2kr220ol6yr6i",
-			"referer": "https://l1l1.to/",
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+			 "url": "https://deliriousholistic.net/embed/khuwl8",
+			"referer": "https://starlive.xyz/",
 			"isHost" : "true"
                }, {
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-             "url": "https://starlive.xyz/embed.php?id=live19m",
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+             "url": "https://starlive.xyz/embed.php?id=liveLaLiga",
 			"isHost" : "true"
                    }, {
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-        "url" : "https://deliriousholistic.net/embed/m5a6zzm8yc2",
-               "referer" : "https://starlive.xyz/",
-			  "isHost" : "true"
-                  }, {
-			"name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-         "url": "https://daddylive.futbol/stream/stream-435.php",
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+        "url": "https://daddylive.futbol/stream/stream-84.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
-	         }, {
-	      "name": "Supercopa Europa",
-			"image": "https://img.asmedia.epimg.net/resizer/QZskw8fyRkxqDJZ-MAHiWCzWT2s=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/VGGXSIINLNKFJGCSJ5QD4AHRZ4.jpg",
-			 "url" : "https://warnforlese.net/embed/lbr3etluqsw",
-              "referer" : "https://macron.xyz/",
-              "isHost" : "true"
-                    
-          },{
+                  }, {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+        "url" : "https://maxsport.one/laliga.php",
+               "referer" : "http://cdn.livetv507.me/",
+			  "isHost" : "true"
+                 }, {
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
                      "url": "https://daddylive.futbol/stream/stream-149.php",
@@ -440,8 +445,8 @@
         }, {
 			"name": "Segunda División(Vamos)",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			  "url": "https://ragnaru.net/embed.php?player=desktop&live=do22",
-			"referer": "https://cdnz.one/",
+			  "url": "https://cdn122.com/embed/2k2kr220ol6yr6i",
+			"referer": "https://l1l1.to/",
              "isHost": "true"
                }, {
 			"name": "Seguna División(Vamos)",
@@ -746,13 +751,13 @@
 			"referer": "https://macron.xyz/",
              "isHost": "true"
             }, {
-			"name": "(M-Campeones)",
+			"name": "Freiburg vs Borussia Dortmund (M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
         "url": "https://daddylive.futbol/stream/stream-435.php",
 			"referer": "https://radamel.icu",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Freiburg vs Borussia Dortmund (M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			"url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
@@ -1023,8 +1028,9 @@
            }, {
  			"name": "Vamos.",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-               "url": "http://fxorexworld.com:8080/live/bJ22wJX1YH/9Q4DiYalXK/1174.m3u8",
-			"userAgent": "damx"
+               "url": "https://cdn122.com/embed/2k2kr220ol6yr6i",
+			"referer": "https://l1l1.to/",
+             "isHost": "true"
                }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
