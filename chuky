@@ -1048,7 +1048,7 @@
 			 "url": "http://213.239.217.94:8080/live/motogp/iraffle22/1.m3u8?Bychuky",
              "userAgent": "iraffle.se212/2.1.2 (Linux;Android 11) ExoPlayerLib/2.14.0"
 		}, {
-			"name": "Opción 1(",
+			"name": "Opción 1",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
 			 "url": "https://cdn122.com/embed/c16xyiwmx",
 			"referer": "https://liveon.sx/",
@@ -1074,13 +1074,13 @@
                }, {
 			"name": "Opción 5",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-            "url": "https://ragnaru.net/embed.php?player=desktop&live=do25",
+            "url": "https://ragnaru.net/embed.php?player=desktop&live=do26",
 			"referer": "https://cdnz.one/",
              "isHost": "true"
 	       }, {
 			"name": "Opción 6",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-            "url": "https://cdn122.com/embed/64mibu3i87242x",
+            "url": "https://cdn122.com/embed/p7uf4et6n5s8o0",
 			"referer": "https://cdnz.one/",
              "isHost": "true"
 		}, {
