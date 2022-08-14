@@ -984,8 +984,8 @@
 		"stations": [{
         "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              "url" : "http://31.172.87.57:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_vPFDONqQHStnpC8Th-ETtg%3D%3D%2C1660536708.6245235816",
-            "userAgent": "REDLINECLIENT_DM_650HD_PRO V3"
+              			"url" : "http://209.126.119.148:20102/live/eaff8edb282649f0ba5742f1ef6fe9ab/0ae3b89d942c461d9cf1dfe10995627b/372.m3u8",
+            "userAgent" : "PlusMediaPlayer/0.0.9"
            }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
