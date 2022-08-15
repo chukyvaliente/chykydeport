@@ -1159,8 +1159,9 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			"url" : "http://31.172.87.53:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=RED_HI2LX2pSgQeytoeQEhqLhA%3D%3D%2C1660643100.6245235816",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			 "url": "http://209.126.119.148:20102/live/7785f540c68241f7b791a9b415c0d370/8826c113371248bbb96337ff06aed02c/379.m3u8",
+ "referer" : "http://patoplayer.tv",
+"userAgent": "OmegaMediaPlayer/0.0.1"
              }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
