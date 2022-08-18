@@ -284,8 +284,7 @@
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://starlive.xyz/ch/mix.php?id=DE/4427",
-			"referer": "https://starlive.xyz/embed.php?id=livesport1de",
+				                 "url": "https://starlive.xyz/embed.php?id=livetennisde",
              "isHost": "true"
 			}, {
 				"name": "Evento 2",
@@ -302,9 +301,8 @@
 			}, {
 				"name": "Evento 4",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://starlive.xyz/ch/mix.php?id=DE/4427",
-			"referer": "https://radamel.icu",
-             "isHost": "true"
+				                "url" :  "https://buzztv.futbol/pt2.php",
+			 "isHost":"true"
 			}, {
 				"name": "Evento 5",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
