@@ -1089,8 +1089,9 @@
 			  }, {  
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url" : "http://31.172.87.55:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_1BisH5rNuY3QyFL81Fg7yQ%3D%3D%2C1660905729.6245235816",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			 "url": "http://209.126.119.148:20102/live/38b1b9548627482d978995a3c93ee95d/b9eebf4a42c444f5b10673d81b1a2c89/373.m3u8",
+ "referer" : "http://patoplayer.tv",
+"userAgent": "OmegaMediaPlayer/0.0.1"
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
