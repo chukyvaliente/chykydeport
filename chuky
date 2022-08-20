@@ -1189,7 +1189,7 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			 "url": "http://209.126.119.148:20102/live/0461b8fcf24840da83ba1c6be10529b3/e3f4e2c360d24e819237a3690ae75a1b/379.m3u8",
+			 "url": "http://209.126.119.148:20102/live/ba53ac630f4842489ad363d9631cd985/258fcea419c54bf5a847b5f53ff3569e/379.m3u8",
  "referer" : "http://patoplayer.tv",
 "userAgent": "OmegaMediaPlayer/0.0.1"
              }, {
@@ -1206,8 +1206,8 @@
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-        "url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1137.m3u8",
-			"userAgent": "damx"
+       "url" : "http://31.172.87.19:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_abL9gXzH-iXDxmyV76t-Ww%3D%3D%2C1660905855.6245235816",
+            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			}, {
 			"name": "Toros Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
