@@ -1206,7 +1206,7 @@
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://31.172.87.19:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_abL9gXzH-iXDxmyV76t-Ww%3D%3D%2C1660905855.6245235816",
+       "url" : "http://31.172.87.51:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_3oSWF2UFat3gV8WaLnRLUw%3D%3D%2C1661078022.6245235816",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			}, {
 			"name": "Toros Telemadrid",
