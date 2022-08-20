@@ -1029,13 +1029,13 @@
            }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-            "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
+            "url": "https://parsimoniousinvincible.net/embed/rq4g6",
+			 "referer":"https://leet365.cc/",
+                    "isHost":"true"
                }, {
  			"name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",    
-         "url" : "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1174.m3u8",
+         "url" : "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1174.m3u8",
             "userAgent": "damx"
               }, {
 			"name": "La liga",
@@ -1131,7 +1131,7 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1101.m3u8",
+			"url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1101.m3u8",
 			"userAgent": "damx"
          }, {
 			"name": "Gol TV",
@@ -1142,7 +1142,7 @@
 		}, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			"url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1162.m3u8",
+			"url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1162.m3u8",
 			"userAgent": "damx"
 		}, {
 			"name": "Teledeporte",
@@ -1168,7 +1168,7 @@
 		}, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-            "url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1163.m3u8",
+            "url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1163.m3u8",
 			"userAgent": "damx"
         }, {
 			"name": "Eurosport 2",
@@ -1178,7 +1178,7 @@
 		}, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			 "url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1164.m3u8",
+			 "url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1164.m3u8",
 			"userAgent": "damx"
 		}, {
 			"name": "sky-sports-golf",
@@ -1201,8 +1201,8 @@
 		}, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-         "url" : "http://s846397078.mialojamiento.es:80/w2jy/toro.php/mono.m3u8",
-            "userAgent": ""
+        "url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1100.m3u8",
+			"userAgent": "damx"
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
@@ -1222,7 +1222,7 @@
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "http://fxorexworld.com:8080/live/n4AAbG53x9/5CvRFoZrfB/1146.m3u8",
+			 "url": "http://fxorexworld.com:8080/live/1hXcdgM7AU/YTVSj8b0ua/1146.m3u8",
 			"userAgent": "damx"
 		}, {
 			"name": "Real MAdrid TV",
