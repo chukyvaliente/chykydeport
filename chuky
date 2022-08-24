@@ -1216,9 +1216,8 @@
          }, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
-			 "url": "https://daddylive.futbol/stream/stream-522.php",
-			"referer": "https://radamel.icu",
-             "isHost": "true"
+			 "url": "http://154.62.74.29:1935/live/barza/chunklist.m3u8",
+             "userAgent": ""     
 		}, {
 			"name": "Barça TV",
 			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
