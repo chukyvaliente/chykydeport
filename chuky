@@ -954,6 +954,47 @@
 			"url": "https://starlive.xyz/embed.php?id=liveDazn12",
              "isHost": "true"
 		}]
+		 }, {
+		"name": "Italia Serie B",
+		"image": "https://dlprivateserver.com/wp-content/uploads/2020/08/FIFA-21-la-Serie-B-podr%C3%ADa-ser-excluida-de-la.jpg",
+		"info": "",
+		"stations": [{
+           "name": "Benevento 🆚 Frosinone(DAZN13)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/2wxhfeykufr",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+		}, {
+              "name": "Cittadella 🆚 Venezia(DAZN14)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/y8tcxjy446py6z3",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+          }, {
+             "name": "Parma 🆚 Cosenza(DAZN15)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/nkjgrps",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+		 }, {
+ 			 "name": "Perugia 🆚 Bari 1908(DAZN16)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/lu4jhdwe1668np",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+	       }, {
+             "name": "Pisa 🆚 Genoa(DAZN17)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/nxcht",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+		 }, {
+ 			 "name": "Reggina 🆚 Sudtirol(DAZN18)",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://deliriousholistic.net/embed/uxnvw",
+            "referer" : "https://starlive.xyz/",
+            "isHost" : "true"
+	     }]
 	}, {
 		"name": "Deport-mix",
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
