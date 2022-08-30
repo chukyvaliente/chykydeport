@@ -278,12 +278,12 @@
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://livetvon.click/stream/stream-90.php",
+				                 "url": "https://livetvon.click/stream/stream-524.php",
              "isHost": "true"
 			}, {
 				"name": "Evento 2",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://livetvon.click/stream/stream-524.php",
+				                 "url": "https://livetvon.click/stream/stream-525.php",
              "isHost": "true"
 			}, {
 				"name": "Evento 3",
@@ -294,7 +294,7 @@
 			}, {
 				"name": "Evento 4",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                "url" :  "https://buzztv.futbol/pt3.php",
+				                "url" :  "https://livetvon.click/stream/stream-90.php",
 			 "isHost":"true"
 			}, {
 				"name": "Evento 5",
