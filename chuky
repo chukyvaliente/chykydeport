@@ -983,7 +983,7 @@
 		"stations": [{
         "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://31.172.87.38:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_JP0o_eSWEIw3GACXNPFq4w%3D%3D%2C1662262385.6245235816",
+              			"url" : "http://31.172.87.59:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_e7iWG3rztA3adzjFTg6fZw%3D%3D%2C1662342942.6245235816",
              "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
            }, {
  			"name": "Vamos",
@@ -999,7 +999,7 @@
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       	"url" : "http://31.172.87.53:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_E2SzX80aS9I6i_neKyVzEw%3D%3D%2C1662262490.6245235816",
+       	"url" : "http://31.172.87.19:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_hSWG2Zss6P15IJFQ6pEfpw%3D%3D%2C1662342999.6245235816",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
           }, {
 			"name": "DAZN liga",
@@ -1060,8 +1060,8 @@
                }, {
 			"name": "Opción 5",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-            "url": "https://vikistream.com/embed2.php?player=desktop&live=do19",
-			"referer": "https://1l1l.to/",
+            "url": "https://parsimoniousinvincible.net/embed/xfkc2i",
+			"referer": "https://leet365.cc/",
              "isHost": "true"
 	       }, {
 			"name": "Opción 6",
@@ -1072,7 +1072,7 @@
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	"url" : "http://31.172.87.17:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_Ku3vv5Ng8GZDi3Uz56rM6Q%3D%3D%2C1662262554.6245235816",
+	"url" : "http://31.172.87.38:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_WDcSiPU-mch6ipMQymp1uw%3D%3D%2C1662343055.6245235816",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
         }, {
 			"name": "Movistar Campeones",
@@ -1093,18 +1093,13 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url": "http://fxorexworld.com:8080/live/dhA3BxHZP9/h12X8juU2x/1101.m3u8",
-			"userAgent": "damx"
+			"url" : "http://31.172.87.62:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_rsCLvVOZ9SNJM8fdkfHv_w%3D%3D%2C1662343087.6245235816",
+            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
 			 "url": "https://livetvon.click/stream/stream-530.php",
              "isHost": "true"
-		}, {
-			"name": "Gol TV",
-			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			"url": "http://fxorexworld.com:8080/live/dhA3BxHZP9/h12X8juU2x/1162.m3u8",
-			"userAgent": "damx"
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
@@ -1124,7 +1119,7 @@
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://31.172.87.59:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_N8o1yvescHsyFUzUaCqSSQ%3D%3D%2C1662262586.6245235816",
+         "url": "http://31.172.87.51:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_2veqPbhtOEHaXh55uIN54g%3D%3D%2C1662343126.6245235816",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			
 		}, {
@@ -1135,7 +1130,7 @@
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://31.172.87.51:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_SAnFlOKjyOWfJsPeDokzaQ%3D%3D%2C1662262640.6245235816",
+			"url" : "http://31.172.87.52:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_7719Pvfbyey2XWIcTvbohA%3D%3D%2C1662343149.6245235816",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 		}, {
 			"name": "Eurosport 2",
@@ -1151,7 +1146,7 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			 "url": "http://209.126.119.148:20102/live/d9f8a11b4b3a46479d965a460410cd2e/e97f27acaa704e84b259cf4dd6f877d9/379.m3u8",
+			 "url": "http://209.126.119.148:20102/live/d166da295ecc4870957599e7c2502936/24d51fb518c0402a9975eb5fde63609e/379.m3u8",
  "referer" : "http://patoplayer.tv",
 "userAgent": "OmegaMediaPlayer/0.0.1"
              }, {
@@ -1168,7 +1163,7 @@
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://31.172.87.59:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_6oS5SLNz8bT9x_HsNHHhNg%3D%3D%2C1662263086.6245235816",
+       "url" : "http://31.172.87.52:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_IZsOCVBxQ_azzBSiUoQu_w%3D%3D%2C1662343175.6245235816",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			}, {
 			"name": "Toros Telemadrid",
