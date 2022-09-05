@@ -1203,9 +1203,9 @@
                       },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                  "url": "http://209.126.124.36:20202/live/289f16775cef4ba6be214634010f9d8a/14e1b03cd55e4465b87c04c551287fad/75.m3u8",
- "referer" : "http://patoplayer.tv",
-"userAgent": "OmegaMediaPlayer/0.0.1"
+                  "url": "https://sportkart1.xyz/tv/scplayer-149.php",
+                    "referer" : "https://maxsport.one/",
+                     "isHost" : "true"
                     },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
@@ -1220,7 +1220,7 @@
                  },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                   "url":"https://www.tutele.sx/online.php?a=2",
+                   "url":"https://livetvon.click/stream/stream-150.php",
             "isHost" : "true"
                                     },{
                     "name": "ESPN3-Argentina HD",
@@ -1261,8 +1261,9 @@
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url":"https://linear-356.frequency.stream/356/hls/master/playlist.m3u8?fbclid=IwAR2XMsKThoIFJInB1GKKw7nc60gWvQn26BlhkQAJAeebA0w3eDd7QhwIxWc",
-            "userAgent" : ""
+			"url":"https://www.tutele.nl/online.php?a=7428",
+            "referer" : "https://www.freelive365.net/",
+	                "isHost": "true"
         }, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
