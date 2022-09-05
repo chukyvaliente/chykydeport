@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 04-09-2022)",
+    "author": "chuky (Actualizada al 05-09-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -873,34 +873,34 @@
 			  "url": "https://livetvon.click/stream/stream-521.php",
             "isHost":"true"
         }, {
-			"name": "Udinese 🆚 Roma(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
-			"name": "Udinese 🆚 Roma(M-Campeones)",
+			"name": "(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			 "url": "https://livetvon.click/stream/stream-435.php",
 			"isHost" : "true"
                     }, {
-			"name": "(M-Campeones)",
+			"name": "Torino 🆚 Lecce (M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://warnforlese.net/embed/lbr3etluqsw",
             "referer" : "https://macron.xyz/",
             "isHost": "true"  
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Torino 🆚 Lecce (M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			 "url": "https://livetvon.click/stream/stream-435.php",
 			"isHost" : "true"
                   }, {
-			"name": "Cremonese 🆚 Sassuolo",
+			"name": "Monza 🆚 Atalanta ",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-        "url": "https://starlive.xyz/embed.php?id=liveDazn1",
+        "url": "https://starlive.xyz/embed.php?id=liveDazn3",
             "isHost": "true"  
 		}, {
-			"name": "Spezia 🆚 Bologne",
+			"name": "",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/qwzyeiwqzd",
 			"referer": "https://leet365.cc/",
@@ -912,9 +912,9 @@
              "referer" : "https://macron.xyz/",
             "isHost":"true"
              }, {
-			"name": "Hellas Vérone 🆚 Sampdoria",
+			"name": "Salernitana 🆚 Empoli ",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "https://ragnaru.net/embed2.php?player=desktop&live=do40",
+			"url": "https://cdn122.com/embed/ypzz73m5m?skin=1",
 			 "referer" : "https://1l1l.to/",
              "isHost": "true"
            }, {
@@ -958,7 +958,7 @@
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "Sudtirol 🆚 Pisa",
+ 			 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/b0wn4l3",
             "referer" : "https://starlive.xyz/",
@@ -983,7 +983,7 @@
 		"stations": [{
         "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://31.172.87.59:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_e7iWG3rztA3adzjFTg6fZw%3D%3D%2C1662342942.6245235816",
+              			"url" : "http://31.172.87.52:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_G-4I9mMw3j4xkuJhvQCOvg%3D%3D%2C1662443247.5606802967",
              "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
            }, {
  			"name": "Vamos",
@@ -999,7 +999,7 @@
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       	"url" : "http://31.172.87.19:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_hSWG2Zss6P15IJFQ6pEfpw%3D%3D%2C1662342999.6245235816",
+       	"url" : "http://31.172.87.62:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_B7MOrWpLPK8ST7_F67wQwg%3D%3D%2C1662443294.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
           }, {
 			"name": "DAZN liga",
@@ -1072,7 +1072,7 @@
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	"url" : "http://31.172.87.38:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_WDcSiPU-mch6ipMQymp1uw%3D%3D%2C1662343055.6245235816",
+	"url" : "http://31.172.87.17:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_Bun30rY--cAnpdmKwZDKWg%3D%3D%2C1662443359.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
         }, {
 			"name": "Movistar Campeones",
@@ -1093,7 +1093,7 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url" : "http://31.172.87.62:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_rsCLvVOZ9SNJM8fdkfHv_w%3D%3D%2C1662343087.6245235816",
+			"url" : "http://31.172.87.54:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_FD4bEH7JRA8zXxcsU6TF4w%3D%3D%2C1662443388.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
          }, {
 			"name": "Gol TV",
@@ -1119,7 +1119,7 @@
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://31.172.87.51:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_2veqPbhtOEHaXh55uIN54g%3D%3D%2C1662343126.6245235816",
+         "url": "http://31.172.87.18:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_bheEZPOKIdlF6eBWCgjVxg%3D%3D%2C1662443461.5606802967",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			
 		}, {
@@ -1130,7 +1130,7 @@
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://31.172.87.52:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_7719Pvfbyey2XWIcTvbohA%3D%3D%2C1662343149.6245235816",
+			"url" : "http://31.172.87.59:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_N9lVUUgqJ1c4PXHdAxx3cQ%3D%3D%2C1662443488.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 		}, {
 			"name": "Eurosport 2",
@@ -1146,7 +1146,7 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			 "url": "http://209.126.119.148:20102/live/d166da295ecc4870957599e7c2502936/24d51fb518c0402a9975eb5fde63609e/379.m3u8",
+			 "url": "http://209.126.119.148:20102/live/84479497a7ee4a59b5b66eafc7854b68/b4c3281606654d9ebc0129f28b44749a/379.m3u8",
  "referer" : "http://patoplayer.tv",
 "userAgent": "OmegaMediaPlayer/0.0.1"
              }, {
@@ -1163,7 +1163,7 @@
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://31.172.87.52:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_IZsOCVBxQ_azzBSiUoQu_w%3D%3D%2C1662343175.6245235816",
+       "url" : "http://31.172.87.17:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_szqaT-yAKcewEcCSQChwxg%3D%3D%2C1662443552.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			}, {
 			"name": "Toros Telemadrid",
