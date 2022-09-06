@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 05-09-2022)",
+    "author": "chuky (Actualizada al 06-09-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -310,50 +310,122 @@
              "isHost": "true"
 			}]
 	}, {
-		"name": "Eventos deportivos mix (La Liga Santander)",
-		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
+		"name": "Eventos deportivos mix (La Champions League)",
+		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-		   "name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://deliriousholistic.net/embed/2sdwgqmqzm1",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }, { 
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://castmax.live/embed/star28.html",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
+			"name": "Dortmund 🆚 FC Copenhague",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+          "url": "http://168.196.114.15/espn2/tracks-v1a1/mono.m3u8",
+             "userAgent": ""
+                       }, {
+			"name": "Dortmund 🆚 FC Copenhague",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+             "url": "https://voraciousglove.net/embed/cmms5rk1",
+			"referer" : "https://leet365.cc/",
+              "isHost" : "true"
                      }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			"url" : "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=1",
+			"name": "Din. Zagreb 🆚 Chelsea",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://sportkart1.xyz/tv/scplayer-149.php",
+                    "referer" : "https://maxsport.one/",
+                     "isHost" : "true"
+                     }, {
+			"name": "Din. Zagreb 🆚 Chelsea",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"url" : "https://voraciousglove.net/embed/gagr8b",
+			 "referer": "https://leet365.cc/",
+             "isHost": "true" 
+                     
+                    }, {
+			"name": "PSG 🆚 Juventus",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://sportkart1.xyz/tv/scplayer-149.php",
+                    "referer" : "https://maxsport.one/",
+                     "isHost" : "true"
+           }, {
+			"name": "PSG 🆚 Juventus",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+          "url" : "https://voraciousglove.net/embed/89ftq8ua1j5lr",
+              "referer" : "https://leet365.cc/",
+              "isHost" : "true"
+               }, {
+			"name": "Sevilla 🆚 Manchester City",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://cdn122.com/embed/p7uf4et6n5s8o0?skin=1",
 			 "referer": "https://l1l1.to/",
              "isHost": "true" 
-                    }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
-			 }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://strayindicate.net/embed/2twhx",
-			"referer": "https://1rowsportz.info/",
-			"isHost" : "true" 
-                   }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url": "https://sportkart1.xyz/embed/scplayer-84.php",
-			"referer": "https://cdn.sportcast.life/",
-             "isHost": "true"
-                  }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url" : "https://buzztv.futbol/hd6.php",
-			  "isHost" : "true"
+                }, {
+			"name": "Sevilla 🆚 Manchester City",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://voraciousglove.net/embed/cmms5rk1",
+                      "referer" : "https://leet365.cc/",
+                     "isHost" : "true"
+		  }, {
+			"name": "Benfica 🆚 M. Haifa",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://cdn122.com/embed/9i0rj?skin=1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true" 
+                }, {
+			"name": "Benfica 🆚 M. Haifa",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://deliriousholistic.net/embed/hpe7zi",
+                      "referer" : "https://starlive.xyz/",
+                     "isHost" : "true" 
+		  }, {
+			"name": "Celtic 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://cdn122.com/embed/psep5?skin=1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true" 
+                }, {
+			"name": "Celtic 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://deliriousholistic.net/embed/1kvf4",
+                      "referer" : "https://starlive.xyz/",
+                     "isHost" : "true"   
+		 }, {
+			"name": "Celtic 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+               "url": "https://buzztv.futbol/hd6.php",
+             "isHost": "true"     
+	           }, {
+			"name": "RB Leipzig 🆚 Shakhtar",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://deliriousholistic.net/embed/ppmtp2pmf3c09j",
+                      "referer" : "https://starlive.xyz/",
+                     "isHost" : "true"   
+		 }, {
+			"name": "RB Leipzig 🆚 Shakhtar",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url" : "https://cdn122.com/embed/wreiq72b6dz?skin=1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"  
+	            }, {
+			"name": "Red Bull Salzbourg 🆚 AC Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://starlive.xyz/embed.php?id=live47",
+                     "isHost" : "true"   
+		 }, {
+			"name": "Red Bull Salzbourg 🆚 AC Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url" : "https://cdn122.com/embed/i1wc9zent5ikqp?skin=1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"   
+	        }, {
+			"name": "Multichampions",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://voraciousglove.net/embed/gagr8b",
+	           "referer" : "https://leet365.cc/",
+                     "isHost" : "true"   
+		 }, {
+			"name": "Multichampions",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url" : "https://cdn122.com/embed/ya7um8guzz4?skin=1",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true"   
+           }, {
                  }, {
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
@@ -983,7 +1055,7 @@
 		"stations": [{
         "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://31.172.87.52:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_G-4I9mMw3j4xkuJhvQCOvg%3D%3D%2C1662443247.5606802967",
+              			"url" : "http://31.172.87.59:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_5PH3DTlx0UqVpAkZsSNtyA%3D%3D%2C1662530406.5606802967",
              "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
            }, {
  			"name": "Vamos",
@@ -999,7 +1071,7 @@
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       	"url" : "http://31.172.87.62:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_B7MOrWpLPK8ST7_F67wQwg%3D%3D%2C1662443294.5606802967",
+       	"url" : "http://31.172.87.38:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_DT65VTlpj13RPI9AcnMAYg%3D%3D%2C1662530483.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
           }, {
 			"name": "DAZN liga",
@@ -1072,7 +1144,7 @@
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	"url" : "http://31.172.87.17:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_Bun30rY--cAnpdmKwZDKWg%3D%3D%2C1662443359.5606802967",
+	"url" : "http://31.172.87.38:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_nLFJo_cFsoSoQer9RmXMQg%3D%3D%2C1662530541.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
         }, {
 			"name": "Movistar Campeones",
@@ -1093,7 +1165,7 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url" : "http://31.172.87.54:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_FD4bEH7JRA8zXxcsU6TF4w%3D%3D%2C1662443388.5606802967",
+			"url" : "http://31.172.87.38:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_RGGDjSPVhaCUSmlduHbSSw%3D%3D%2C1662530568.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
          }, {
 			"name": "Gol TV",
@@ -1119,7 +1191,7 @@
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://31.172.87.18:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_bheEZPOKIdlF6eBWCgjVxg%3D%3D%2C1662443461.5606802967",
+         "url": "http://31.172.87.38:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_h0T1diL-oYyQ2kGhgKndJQ%3D%3D%2C1662530643.5606802967",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			
 		}, {
@@ -1130,7 +1202,7 @@
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://31.172.87.59:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_N9lVUUgqJ1c4PXHdAxx3cQ%3D%3D%2C1662443488.5606802967",
+			"url" : "http://31.172.87.18:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_t0Roq7l8SuSqDNPDFZbd3g%3D%3D%2C1662530664.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 		}, {
 			"name": "Eurosport 2",
@@ -1163,7 +1235,7 @@
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://31.172.87.17:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_szqaT-yAKcewEcCSQChwxg%3D%3D%2C1662443552.5606802967",
+       "url" : "http://31.172.87.54:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_J_6LPVuxWait-wVHegbSgQ%3D%3D%2C1662530708.5606802967",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			}, {
 			"name": "Toros Telemadrid",
