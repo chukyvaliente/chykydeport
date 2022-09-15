@@ -1377,19 +1377,9 @@
 		}, {
 			"name": "Fox Sport 3-Argentina",
 			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-						"url":"https://www.tutele.nl/online.php?a=134",
+		"url":"https://www.tutele.nl/online.php?a=4673",
              "referer" : "https://www.freelive365.net/",
 	           "isHost": "true"
-        }, {
-			"name": "Fox Sport Premium-Argentina",
-			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
-			"url": "https://freelive365.com/player2.php?id=10&code=121&evento=Argentina",
-			"isHost": "true" 
-             }, {
-			"name": "Fox Sport Premium-Argentina",
-			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
-			"url":"https://www.tutele.nl/online.php?a=5",
-            "isHost" : "true"
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
@@ -1422,13 +1412,13 @@
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url":"https://cloudstream.to/e/etwtqa4yjb58w4",
-            "referer" : "https://pelotero.net/",
-			"isHost": "true"
+			"url": "https://www.tutele.nl/online.php?a=1204",
+			 "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url": "https://www.tutele.nl/online.php?a=6138",
+			"url": "https://www.tutele.nl/online.php?a=149",
              "referer" : "https://www.freelive365.net/",
 	           "isHost": "true"
               }, {
@@ -1437,12 +1427,6 @@
 			"url":"https://www.tutele.nl/online.php?a=4",
            "referer" : "https://www.freelive365.net/",
 	           "isHost": "true"
-            }, {
-			"name": "Win Sports +",
-			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-			"url": "https://cloudstream.to/e/dyjtxl657jzg",
-            "referer" : "https://pelotero.net/",
-			"isHost": "true"
                }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
