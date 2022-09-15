@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 14-09-2022)",
+    "author": "chuky (Actualizada al 15-09-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -1365,18 +1365,21 @@
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                      "url":"https://www.tutele.sx/online.php?a=132",
-            "isHost" : "true"
+                   "url" : "https://www.tutele.nl/online.php?a=132",
+                   "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
 		}, {
 			"name": "Fox Sport 2-Argentina",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
-                       			"url":"https://www.tutele.sx/online.php?a=133",
-            "isHost" : "true"
+                       			"url":"https://www.tutele.nl/online.php?a=133",
+          "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
 		}, {
 			"name": "Fox Sport 3-Argentina",
 			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-						"url":"https://www.tutele.sx/online.php?a=134",
-            "isHost" : "true"
+						"url":"https://www.tutele.nl/online.php?a=134",
+             "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
         }, {
 			"name": "Fox Sport Premium-Argentina",
 			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
@@ -1385,7 +1388,7 @@
              }, {
 			"name": "Fox Sport Premium-Argentina",
 			"image": "https://yt3.ggpht.com/ytc/AKedOLQysFhsRE8suxR8Z7Z5H_T6tHeZqAzdAlmEEGvb=s900-c-k-c0x00ffffff-no-rj",
-			"url":"https://www.tutele.sx/online.php?a=5",
+			"url":"https://www.tutele.nl/online.php?a=5",
             "isHost" : "true"
            }, {
 			"name": "TUDN",
@@ -1401,18 +1404,21 @@
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
-			"url": "https://www.tutele.sx/online.php?a=6",
-			"isHost": "true"
+			"url": "https://www.tutele.nl/online.php?a=6",
+			 "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
               }, {
 			"name": "DirecTV Sports2",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/9/90/DirecTV_Sports_2_2015.png/revision/latest?cb=20200706224535&path-prefix=es",
-			"url": "https://www.tutele.sx/online.php?a=7",
-			"isHost": "true"
+			"url": "https://www.tutele.nl/online.php?a=7",
+			 "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
                }, {
 			"name": "DirecTV Sports+",
 			"image": "https://fullcanaleshd.files.wordpress.com/2016/05/6a910-directv2bmas.png",
-			"url": "https://www.tutele.sx/online.php?a=8",
-			"isHost": "true"
+			"url": "https://www.tutele.nl/online.php?a=8",
+			 "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
@@ -1422,14 +1428,15 @@
                }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://cloudstream.to/e/f2l5ldn1",
-            "referer" : "https://pelotero.net/",
-			"isHost": "true"
+			"url": "https://www.tutele.nl/online.php?a=6138",
+             "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
               }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
-			"url":"https://www.tutele.sx/online.php?a=4",
-            "isHost" : "true"
+			"url":"https://www.tutele.nl/online.php?a=4",
+           "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
             }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
@@ -1439,8 +1446,9 @@
                }, {
 			"name": "Win Sports +",
 			"image": "https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x800.jpg",
-			"url":"https://www.tutele.sx/online.php?a=3305",
-            "isHost" : "true"
+			"url":"https://www.tutele.nl/online.php?a=3305",
+          "referer" : "https://www.freelive365.net/",
+	           "isHost": "true"
               }, {
 			"name": "Caracol TV",
 			"image": "https://i.ytimg.com/vi/0N6ycjiJ4Rs/hqdefault.jpg",
