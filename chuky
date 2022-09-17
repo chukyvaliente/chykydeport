@@ -1142,14 +1142,14 @@
 			 "url": "https://livetvon.click/stream/stream-528.php",
 			"isHost" : "true"
 			  }, {  
-			"name": "Movistar Deportes",
+			"name": "Movistar Deportes 2",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
 			 "url": "https://livetvon.click/stream/stream-436.php",
                          "isHost" : "true"
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url" : "http://31.172.87.18:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_ulBtBk3TRL-rugr83QGlfg%3D%3D%2C1663414552.7229320256",
+			"url" : "http://31.172.87.38:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_Q8FIVTWy3LlZI7TKpROJWA%3D%3D%2C1663498716.7229320256",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
          }, {
 			"name": "Gol TV",
