@@ -1202,8 +1202,9 @@
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			 "url": "https://livetvon.click/stream/stream-528.php",
-                         "isHost": "true"
+			 "url": "http://209.126.119.148:20102/live/7046b365860144e490c833c521b3a0be/233f861eb06440ff850ef9c9437d6af3/379.m3u8",
+			 "referer": "http://patoplayer.tv ",
+                         "userAgent": "OmegaMediaPlayer/0.0.1"
              }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
