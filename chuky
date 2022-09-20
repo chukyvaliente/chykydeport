@@ -250,7 +250,6 @@
           "url": "http://givemenbastreams.com/nba.php?g=hawks",
           "userAgent" : "navigator"
 		               }]
-              },{
             "name": "Deportes de contacto",
             "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
             "info": "",
@@ -364,7 +363,6 @@
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
         "url" : "https://buzztv.futbol/hd6.php",
 			  "isHost" : "true"
-           }, {
                  }, {
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
