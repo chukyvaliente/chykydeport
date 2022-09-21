@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 18-09-2022)",
+    "author": "chuky (Actualizada al 21-09-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -250,37 +250,43 @@
           "url": "http://givemenbastreams.com/nba.php?g=hawks",
           "userAgent" : "navigator"
 		               }]
+		 	},{       
             "name": "Deportes de contacto",
             "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
             "info": "",
             "stations": [{
-                  }, {
-                 "name": "evento 1",
+                  },{
+            "name": "Eventos deportivos mix (Hoy UFC)",
+            "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
+            "info": "",
+            "stations": [{
+                    },{ 
+                 "name": "Evento 1",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   "url": "https://buzztv.futbol/hd6.php",
              "isHost": "true" 
-	            },{
+                    },{
                  "name": "evento 2",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-	              "url": "https://2wj3r7r7s8w61e.smokelearned.net/embed/df7nk3qyxpu1vx",
+                 "url": "https://2wj3r7r7s8w61e.smokelearned.net/embed/df7nk3qyxpu1vx",
 			"referer": "https://starlive.xyz/",
              "isHost": "true"
-		      },{
+                    },{ 
                  "name": "evento 3",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  "url": "https://cdn122.com/embed/u2sgi0",
+                   "url": "https://cdn122.com/embed/u2sgi0",
             "referer" : "https://l1l1.to/",
                     "isHost" : "true"
-                    },{ 
+                   },{ 
                  "name": "evento 4",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                  "url": "http://ufckhabib.com/fight/ufc.php",
+                   "url": "http://ufckhabib.com/fight/ufc.php",
              "isHost":"true" 
-                   },{ 
+	              },{ 
                  "name": "evento 5",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                    "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
-                    "userAgent":""
+                   "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
+                    "userAgent":""  
 		}]
            }, {
 			"name": "Sección Tenis",
@@ -294,7 +300,7 @@
 			}, {
 				"name": "Evento 2",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://livetvon.click/stream/stream-525.php",
+				                  "url": "https://livetvon.click/stream/stream-525.php",
              "isHost": "true"
 			}, {
 				"name": "Evento 3",
@@ -304,7 +310,7 @@
 			}, {
 				"name": "Evento 4",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                "url" :  "https://livetvon.click/stream/stream-44.php",
+				                 "url" :  "https://livetvon.click/stream/stream-44.php",
 			 "isHost":"true"
 			}, {
 				"name": "Evento 5",
