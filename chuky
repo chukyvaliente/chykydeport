@@ -254,8 +254,7 @@
             "name": "Deportes de contacto",
             "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
             "info": "",
-            "stations": [{
-                    },{ 
+            "stations": [{ 
                  "name": "Evento 1",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
                   "url": "https://buzztv.futbol/hd6.php",
