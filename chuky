@@ -1385,8 +1385,8 @@
               }, {
 			"name": "Caracol TV",
 			"image": "https://i.ytimg.com/vi/0N6ycjiJ4Rs/hqdefault.jpg",
-			"url": "https://wigistream.to/embed/5zkrkez679x",
-            "referer" : "https://cdn.chatytvgratis.net",
+			"url" : "https://cdn.chatytvgratis.net/player/videojsp2p.php?id=https://hlsfree.live:3190/multi_live/play_src.m3u8",
+			"referer": "https://cdn.chatytvgratis.net/caracolhd200.php?width=640&height=360",
 			"isHost": "true"
              }, {
 			"name": "Sky Sport football",
