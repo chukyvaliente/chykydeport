@@ -1170,8 +1170,9 @@
         }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			"url" : "http://31.172.87.54:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_MXG8fDxaBXJ85k-0at-GHA%3D%3D%2C1663902954.7229320256",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			 "url": "https://wecast.to/sabri.php?stream=sabrouch39",
+			"referer": "https://wizhdlive.xyz/",
+			"isHost": "true"
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
