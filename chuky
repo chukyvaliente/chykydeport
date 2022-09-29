@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 28-09-2022)",
+    "author": "chuky (Actualizada al 29-09-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -400,7 +400,7 @@
             "stations": [{
                     "name": "Opción 1(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                		  "url": "https://tvhd.casptv.xyz/online/eurosport.php",
+                		  "url": "https://tvhd.capshd.xyz/online/canal476.php",
 			"referer": "https://www.daddylive.pro/",
              "isHost": "true"
                 },{
@@ -424,8 +424,8 @@
                     },{ 
                  "name": "Opción 5(M-Deportes 1)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://ragnarp.net/embed/dcgmsy35q",
-                  "referer" : "https://bartsim.xyz/",
+                 "url": "https://tvhd.capshd.xyz/online/canal488.php",
+                  "referer" : "https://www.daddylive.pro/",
 			 "isHost": "true"
                       },{
                      "name": "Opción 6(M-Deportes 1)",
@@ -435,14 +435,13 @@
                      },{
                      "name": "Opción 7(M-Deportes 2)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://ragnarp.net/embed/6ojgvg",
-                 "referer" : "https://leet365.cc/",
+                 "url": "https://tvhd.capshd.xyz/online/canal490.php",
+                  "referer" : "https://www.daddylive.pro/",
 			 "isHost": "true"
                       },{
                      "name": "Opción 8(M-Deportes 2)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://ragnarp.net/embed/6ojgvg",
-                 "referer" : "https://macron.xyz/",
+                 "url": "https://allsport.icu/tv1/ch22.php",
 			 "isHost": "true"
                   }]
               },{
