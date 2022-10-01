@@ -1282,7 +1282,7 @@
 			"isHost": "true"
                      }, {
 			"name": "Esport 3",
-			"url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master_720.m3u8",
+			"url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
 			"image": "https://statics.ccma.cat/multimedia/jpg/6/9/1521552830896.jpg",
 			"userAgent": ""
                       }, {
