@@ -1117,6 +1117,11 @@
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
          "url": "https://starlive.xyz/embed.php?id=liveLiga",
 			"isHost" : "true"
+			 },{
+                 "name": "La liga",
+			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
+         "url": "https://nosequewea.tk/daznlaliga",
+			"isHost" : "true" 
 		}, {
 			"name": "Opción 1",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
