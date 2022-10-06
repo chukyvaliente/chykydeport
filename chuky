@@ -1247,20 +1247,14 @@
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url" : "https://vp1.flagtv.online/radianvp.html?live=live&channel=1tEgAK2ScS_FHD",
-     "referer" : "https://vp1.flagtv.online/nl.html?&live=live&channel=1tEgAK2ScS_FHD",
-			"isHost": "true"
+	 "url" : "http://31.172.87.62:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_OCUCFnsTodp77JCZQqfI-Q%3D%3D%2C1663902931.7229320256",
+     "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
         }, {
 			"name": "Movistar Campeones",
 			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
 			 "url": "https://livetvon.click/stream/stream-435.php",
              "isHost": "true"
          }, {
-			"name": "Movistar Campeones2",
-			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-			 "url": "https://livetvon.click/stream/stream-528.php",
-			"isHost" : "true"
-			   }, {  
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
 			 "url": "http://31.172.87.18:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_nCrXPtf_J2njdysYyXLuvw%3D%3D%2C1664765566.7229320256",
