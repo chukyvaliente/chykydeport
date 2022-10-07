@@ -344,9 +344,9 @@
                     }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
+			"url" : "https://vp1.flagtv.online/radianvp.html?live=live&channel=1tEgAK2ScS_FHD",
+     "referer" : "https://vp1.flagtv.online/nl.html?&live=live&channel=1tEgAK2ScS_FHD",
+			"isHost": "true"
 			 }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
@@ -490,6 +490,12 @@
 			  "url": "https://tvhd.capshd.xyz/online/canal421.php",
 			"referer": "https://www.daddylive.pro/",
              "isHost": "true"
+	               }, {
+                    "name": "Dazn 1",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url": "https://vp1.flagtv.online/radianvp.html?live=live&channel=CmIOapnfnM_FHD",
+			"referer": "https://vp1.flagtv.online/nl.html?&live=live&channel=CmIOapnfnM_FHD",
+			"isHost": "true"
                       }, {
 			"name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -1176,6 +1182,12 @@
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
 	 "url" : "http://31.172.87.62:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_OCUCFnsTodp77JCZQqfI-Q%3D%3D%2C1663902931.7229320256",
      "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+                     }, {
+			"name": "Movistar Campeones",
+            "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
+	"url" : "https://vp1.flagtv.online/radianvp.html?live=live&channel=PxJutU9yYB_FHD",
+			"referer": "https://vp1.flagtv.online/nl.html?&live=live&channel=PxJutU9yYB_FHD",
+			"isHost": "true"
         }, {
 			"name": "Movistar Campeones",
 			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
