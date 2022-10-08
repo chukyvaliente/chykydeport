@@ -499,8 +499,8 @@
 	               }, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://vp1.flagtv.online/radianvp.html?live=live&channel=CmIOapnfnM_FHD",
-			"referer": "https://vp1.flagtv.online/nl.html?&live=live&channel=CmIOapnfnM_FHD",
+			  "url": "https://vp1.flagtv.online/radianvp.html?live=live&channel=PxJutU9yYB_FHD",
+			"referer": "https://vp1.flagtv.online/nl.html?&live=live&channel=PxJutU9yYB_FHD",
 			"isHost": "true"
                       }, {
 			"name": "Dazn 1",
@@ -523,6 +523,12 @@
 	           },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+                   "url": "https://vp1.flagtv.online/radianvp.html?live=live&channel=CmIOapnfnM_FHD",
+			"referer": "https://vp1.flagtv.online/nl.html?&live=live&channel=CmIOapnfnM_FHD",
+             "isHost": "true"
+	           },{ 
+                 "name": "Dazn 2",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                    "url" : "https://deliriousholistic.net/embed/lup8x",
 			 "referer": "https://bahiadeportes.com/",
              "isHost": "true"
@@ -541,6 +547,12 @@
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                   "url": "https://livetvon.click/stream/stream-447.php",
+            "isHost":"true"
+	           },{ 
+                 "name": "Dazn 3",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+                     "url": "https://vp1.flagtv.online/radianvp.html?live=live&channel=36T81HZoZI_FHD",
+            "referer" : "https://vp1.flagtv.online/nl.html?&live=live&channel=36T81HZoZI_FHD",
             "isHost":"true"
                     },{ 
                  "name": "Dazn 4",
