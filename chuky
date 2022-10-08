@@ -1295,7 +1295,7 @@
 		}, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-        "url": "http://s846397078.mialojamiento.es/wf9t/toro.php/mono.m3u8",
+        "url": "http://s846397078.mialojamiento.es:80/wf9t/toro.php/mono.m3u8",
             "userAgent": ""
 	      }, {
 			"name": "M.Toros",
