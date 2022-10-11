@@ -1231,7 +1231,7 @@
          }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "http://31.172.87.54:2200/NL/mdeporteshd-esp/tracks-v1a1/2022/10/10/17/02/24-06000.ts?token=RED_pdonUP99pWxOPmmkUrmLrw%3D%3D%2C1665486153.7229320256",
+			 "url": "http://31.172.87.38:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_dZxvBikT4mdS0bPqmnAF3Q%3D%3D%2C1665533123.7229320256",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			  }, {  
 			"name": "Movistar Deportes",
