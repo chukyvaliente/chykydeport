@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 15-10-2022)",
+    "author": "chuky (Actualizada al 16-10-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -363,6 +363,12 @@
         "url": "https://sportkart1.xyz/embed/scplayer-84.php",
 			"referer": "https://cdn.sportcast.life/",
              "isHost": "true"
+	        }, {
+			"name": "La liga Santander",
+			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
+        "url": "https://castmax.live/embed/star28.html",
+			"referer": "https://starlive.xyz/",
+             "isHost": "true"
                   }, {
 			"name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
@@ -405,7 +411,7 @@
             "stations": [{
                     "name": "Opción 1(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                		  "url": "https://tvhd.capshd.xyz/online/canal476.php",
+                		  "url": "https://tvhd.capshd.xyz/online/canal477.php",
 			"referer": "https://www.daddylive.pro/",
              "isHost": "true"
                 },{
@@ -423,7 +429,7 @@
                     },{ 
                  "name": "Opción 4(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-              "url": "https://cdn122.com/embed/pyxs8u5a6hp",
+              "url": "https://unbiasedsenseevent.com/embed/h8zgkrg",
               "referer" : "https://l1l1.to/",
             "isHost":"true"
                     },{ 
@@ -696,37 +702,37 @@
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
-			"name": "Eintracht Francfort 🆚 Bayer Leverkusen(Vamos)",
+			"name": "(Vamos)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			 "referer":"https://leet365.cc/",
                     "isHost":"true"
             }, {
-			"name": "Eintracht Francfort 🆚 Bayer Leverkusen(Vamos)",
+			"name": "(Vamos)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			  "url": "https://parsimoniousinvincible.net/embed/rq4g6",
 			"referer": "https://macron.xyz/",
              "isHost": "true"
             }, {
-			"name": "RB Leipzig 🆚 Hertha Berlin(M-Campeones)",
+			"name": "Union Berlin 🆚 Dortmund(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
-			"name": "RB Leipzig 🆚 Hertha Berlin(M-Campeones)",
+			"name": "Union Berlin 🆚 Dortmund(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			 "url": "https://deliriousholistic.net/embed/04qv1f7qpax",
 			"referer": "https://bahiadeportes.com/",
 			"isHost" : "true"
 			 }, {
-			"name": "(M-Campeones)",
+			"name": "Bayern Munich 🆚 Fribourg(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Bayern Munich 🆚 Fribourg(M-Campeones)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			 "url": "https://deliriousholistic.net/embed/04qv1f7qpax",
 			"referer": "https://bahiadeportes.com/",
@@ -756,7 +762,7 @@
             "referer" : "https://macron.xyz/",
              "isHost": "true"
              }, {
-			"name": "Stuttgart 🆚 Bochum",
+			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
          "url": "https://cdn122.com/embed/sxdic6vrfzfxc",
 			"referer": "https://l1l1.to/",
@@ -768,13 +774,13 @@
                     "referer" : "https://maxsport.one/",
                      "isHost" : "true"
           }, {
-			"name": "Werder Brême 🆚 Mayence",
+			"name": "FC Cologne 🆚 Augsburg",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/7193roxnt",
             "referer" : "https://l1l1.to/",
              "isHost": "true"
 	   }, {
-			"name": "Wolfsburg 🆚 B. Monchengladbach",
+			"name": "",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
 			"url": "https://unbiasedsenseevent.com/embed/ya7um8guzz4",
             "referer" : "https://l1l1.to/",
@@ -815,24 +821,35 @@
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
             }, {
-	                "name": "Leicester 🆚 Crystal Palace(DAZ1)",
+	                "name": "Manchester Utd 🆚 Newcastle(DAZ1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url" : "https://warnforlese.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                }, {
-			"name": "Leicester 🆚 Crystal Palace(DAZ1)",
+			"name": "Manchester Utd 🆚 Newcastle(DAZ1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			 "url": "https://livetvon.click/stream/stream-445.php",
+             "isHost": "true" 
+	      }, {
+			"name": "Liverpool 🆚 Manchester City(DAZ1)",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+			"url": "https://maxsport.one/dazn1.php",
              "isHost": "true"
+	      }, {
+			"name": "Liverpool 🆚 Manchester City(DAZN 1)",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+     "url": "https://deliriousholistic.net/embed/53xpengog",
+              "referer": "https://starlive.xyz/",
+             "isHost": "true" 
             }, {
-			"name": "Fulham 🆚 Bournemouth(DAZN2)",
+			"name": "Leeds 🆚 Arsenal(DAZN2)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
  			 "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
             }, {
-			"name": "Fulham 🆚 Bournemouth(DAZN2)",
+			"name": "Leeds 🆚 Arsenal(DAZN2)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			 "url": "https://livetvon.click/stream/stream-446.php",
              "isHost": "true"
@@ -849,16 +866,15 @@
               "referer": "https://leet365.cc/",
              "isHost": "true"
             }, {
- 			"name": "(DAZN3)",
+ 			"name": "Aston Villa 🆚 Chelsea(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://leet365.cc/",
             "isHost":"true"
                 }, {
-			"name": "(DAZN3)",
+			"name": "Aston Villa 🆚 Chelsea(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
-            "referer" : "https://macron.xyz/",
+ 			"url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
 	       }, {
  			"name": "(DAZN3)",
@@ -873,13 +889,13 @@
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                }, {
-			"name": "(DAZN 4)",
+			"name": "Southampton 🆚 West Ham(DAZN 4)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
 			 "referer": "https://leet365.cc/",
              "isHost": "true"
                }, {
-			"name": "(DAZN 4)",
+			"name": "Southampton 🆚 West Ham(DAZN 4)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url" : "https://livetvon.click/stream/stream-448.php",
              "isHost": "true"
@@ -890,27 +906,16 @@
               "referer": "https://1l1l.to/",
              "isHost": "true"
 	            }, {
-			"name": "Tottenham 🆚 Everton(DAZN 1)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-     "url": "https://deliriousholistic.net/embed/53xpengog",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-	            }, {
-			"name": "Wolves 🆚 Nottingham",
+			"name": "",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
        "url": "https://unbiasedsenseevent.com/embed/p78txlnf0rc",
               "referer": "https://1l1l.to/",
              "isHost": "true"
 		}, {
-	      "name": "Tottenham 🆚 Everton(DAZ1)",
+	      "name": "(DAZ1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url" : "https://warnforlese.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
-             "isHost": "true"
-               }, {
-			"name": "(DAZ1)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url": "https://livetvon.click/stream/stream-445.php",
              "isHost": "true"
 	           }, {
 	                "name": "(DAZ1)",
@@ -947,24 +952,24 @@
             "referer" : "https://cdnz.one/",
             "isHost" : "true"
 		 }, {
- 			"name": "Torino 🆚 Juventus(Vamos)",
+ 			"name": "(Vamos)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://parsimoniousinvincible.net/embed/rq4g6",
               "referer" : "https://leet365.cc/",
             "isHost":"true"
 		}, {
-			"name": "Torino 🆚 Juventus(Vamos)",
+			"name": "(Vamos)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			  "url": "https://livetvon.click/stream/stream-521.php",
             "isHost":"true"
         }, {
-			"name": "(M-Campeones)",
+			"name": "Inter 🆚 Salernitana(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones)",
+			"name": "Inter 🆚 Salernitana(M-Campeones)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			 "url": "https://livetvon.click/stream/stream-435.php",
 			"isHost" : "true"
@@ -980,13 +985,25 @@
 			 "url": "https://livetvon.click/stream/stream-435.php",
 			"isHost" : "true"
 			 }, {
-			"name": "(M-Campeones 2)",
+			"name": "Napoles 🆚 Bologne(M-Campeones 2)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://voraciousglove.net/embed/cmms5rk1",
 			"referer": "https://leet365.cc/",
              "isHost": "true"
 		}, {
-			"name": "(M-Campeones 2)",
+			"name": "Napoles 🆚 Bologne(M-Campeones 2)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"  
+	        }, {
+			"name": "Hellas Vérone 🆚 AC Milan(M-Campeones 2)",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+        "url": "https://voraciousglove.net/embed/cmms5rk1",
+			"referer": "https://leet365.cc/",
+             "isHost": "true"
+		}, {
+			"name": "Hellas Vérone 🆚 AC Milan(M-Campeones 2)",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
 			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed65",
 			"referer": "https://leet365.cc/",
@@ -1003,14 +1020,14 @@
             "referer" : "https://macron.xyz/",
             "isHost": "true"      
                   }, {
-			"name": "Empoli 🆚 Monza",
+			"name": "Lazio 🆚 Udinese",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
         "url": "https://starlive.xyz/embed.php?id=liveZonaDazn2",
             "isHost": "true"  
 		}, {
-			"name": "",
+			"name": "Spezia 🆚 Cremonese",
 			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
-			"url": "https://cdn122.com/embed/64mibu3i87242x",
+			"url": "https://unbiasedsenseevent.com/embed/p78txlnf0rc",
 			 "referer" : "https://1l1l.to/",
              "isHost": "true"
                 }, {
@@ -1060,51 +1077,51 @@
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	       }, {
-             "name": "Benevento 🆚 Ternana ",
+             "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/ppmtp2pmf3c09j",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "Cagliari 🆚 Brescia",
+ 			 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/hpe7zi",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	            }, {
-             "name": "Cittadella 🆚 SPAL",
+             "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/b0wn4l3",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "Cosenza 🆚 Genoa",
+ 			 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/y8tcxjy446py6z3",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	           }, {
-             "name": "Modena 🆚 Como",
+             "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/if4rn0pbe",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "Palermo 🆚 Pisa ",
+ 			 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/lu4jhdwe1668np",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	           }, {
-             "name": "Parma 🆚 Reggina",
+             "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/2wxhfeykufr",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "Bari 🆚 Ascoli",
+ 			 "name": "Perugia 🆚 Subtirol",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/uxnvw",
+			"url":"https://deliriousholistic.net/embed/nkjgrps",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true" 
 	     }]
