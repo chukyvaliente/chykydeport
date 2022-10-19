@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 17-10-2022)",
+    "author": "chuky (Actualizada al 20-10-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,7 +19,7 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Houston Rockets vs Indiana Pacers",
+			"name": "Orlando Magic vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
@@ -29,57 +29,57 @@
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Boston Celtics vs Toronto Raptors",
+          "name": "Washington Wizards vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Washington Wizards vs New York Knicks",
+                        "name": "Houston Rockets vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs Minnesota Timberwolves",
+			"name": "New Orleans Pelicans vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "Brooklyn Nets vs Memphis Grizzlies",
 			"isHost": "true"
              }, {
-			"name": "Atlanta Hawks vs New Orleans Pelicans",
+			"name": "Chicago Bulls vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-             "name": "Dallas Mavericks vs Utah Jazz",
+             "name": "Cleveland Cavaliers vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets vs Golden State Warriors",
+			"name": "New York Knicks vs Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles Lakers vs Sacramento Kings",
+			"name": "Oklahoma City Thunder vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Charlotte Hornets vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Denver Nuggets vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Dallas Mavericks vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Portland Trail Blazers vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
@@ -866,13 +866,13 @@
               "referer": "https://leet365.cc/",
              "isHost": "true"
             }, {
- 			"name": "(DAZN3)",
+ 			"name": "Manchester Utd 🆚 Tottenham(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
 			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
             "referer" : "https://leet365.cc/",
             "isHost":"true"
                 }, {
-			"name": "(DAZN3)",
+			"name": "Manchester Utd 🆚 Tottenham(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
  			"url": "https://maxsport.one/dazn3.php",
             "isHost":"true"
@@ -900,15 +900,27 @@
 			"url" : "https://livetvon.click/stream/stream-448.php",
              "isHost": "true"
              }, {
-			"name": "",
+			"name": "Newcastle 🆚 Everton",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-       "url": "https://ragnaru.net/embed2.php?player=desktop&live=do34",
+       "url": "https://unbiasedsenseevent.com/embed/6fqntou",
               "referer": "https://1l1l.to/",
              "isHost": "true"
 	            }, {
-			"name": "",
+			"name": "Liverpool 🆚 West Ham",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+       "url": "https://vikistream.com/embed2.php?player=desktop&live=do32",
+              "referer": "https://1l1l.to/",
+             "isHost": "true"
+	          }, {
+			"name": "Brentford 🆚 Chelsea",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
        "url": "https://unbiasedsenseevent.com/embed/p78txlnf0rc",
+              "referer": "https://1l1l.to/",
+             "isHost": "true"
+	            }, {
+			"name": "Bournemouth 🆚 Southampton",
+			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
+       "url": "https://unbiasedsenseevent.com/embed/n09ipt12zu",
               "referer": "https://1l1l.to/",
              "isHost": "true"
 		}, {
@@ -1148,7 +1160,7 @@
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       	"url" : "http://31.172.87.38:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_SeEHBI387phRFBZMXzTLRA%3D%3D%2C1666093916.1676762698",
+       	"url" : "http://31.172.87.54:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_Kg13WdUt1s_VhztGsf_3lA%3D%3D%2C1666245336.1676762698",
             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
           }, {
 			"name": "DAZN liga",
@@ -1231,7 +1243,7 @@
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url" : "http://31.172.87.38:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_FhGMf8uxKPgKBFwL0nisgg%3D%3D%2C1666093991.1676762698",
+	 "url" : "http://31.172.87.51:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_c0MxC8yJ9pypnaYOAEMS7w%3D%3D%2C1666245415.1676762698",
      "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
                      }, {
 			"name": "Movistar Campeones",
@@ -1247,7 +1259,7 @@
          }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "http://31.172.87.38:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_EIb5NYbDuHdeuAAN4YQSWA%3D%3D%2C1666094039.1676762698",
+			 "url": "http://31.172.87.19:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_g8nx3W7-1VqkHy3Urg9BAw%3D%3D%2C1666245450.1676762698",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			  }, {  
 			"name": "Movistar Deportes",
