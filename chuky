@@ -627,6 +627,11 @@
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
+                     }, {
+			"name": "Moto GP",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+              "url": "https://qiniu.dlivecdn.com/dlive/transcode-92-211/dlive-qulwfmykys/1666489260/src/live.m3u8",
+             "userAgent": ""
 	             }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
