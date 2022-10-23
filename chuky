@@ -634,10 +634,10 @@
             "url" : "http://timesports.cc/skysportsformula1.php",
 			"isHost": "true"
                      }, {
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-              "url": "https://qiniu.dlivecdn.com/dlive/transcode-92-211/dlive-qulwfmykys/1666489260/src/live.m3u8",
-             "userAgent": ""
+			"name": "Carrera en diferedido de hoy",
+			"image": "https://cdn-1.motorsport.com/images/amp/6AEP1jo6/s1000/horarios-para-el-gp-de-malasia.jpg",
+              "url": "https://upstream.to/y24828ovve6u",
+             "isHost": "true"
 	             }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
