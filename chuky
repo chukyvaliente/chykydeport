@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 23-10-2022)",
+    "author": "chuky (Actualizada al 25-10-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Portland Trail Blazers vs Los Angeles Lakers",
+			"name": "Detroit Pistons vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Charlotte Hornets vs Atlanta Hawks",
+          "name": "Dallas Mavericks vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Washington Wizards vs Cleveland Cavaliers",
+          "name": "LA Clippers vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Utah Jazz vs New Orleans Pelicans",
+                        "name": "Golden State Warriors vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Minnesota Timberwolves vs Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "Brooklyn Nets vs Memphis Grizzlies",
 			"isHost": "true"
              }, {
-			"name": "Sacramento Kings vs Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-             "name": "Phoenix Suns vs LA Clippers",
+             "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder vs Denver Nuggets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "LA Clippers vs Sacramento Kings",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -318,69 +318,119 @@
              "isHost": "true"
 			}]
 	}, {
-		"name": "Eventos deportivos mix (La Liga Santander)",
-		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
+		"name": "Eventos deportivos mix (La Champions League)",
+		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"info": "",
 		"stations": [{
-		   "name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://deliriousholistic.net/embed/2sdwgqmqzm1",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }, { 
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
+			"name": "Sevilla 🆚 FC Copenhague",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           "url" : "https://deliriousholistic.net/embed/e15sctndd4",
+			 "referer": "https://starlive.xyz/",
+             "isHost": "true" 
+		 }, {
+			"name": "Sevilla 🆚 FC Copenhague",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+               "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
+            "referer": "https://l1l1.to/",
+             "isHost": "true" 
+			"name": "Red Bull Salzbourg 🆚 Chelsea",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			"url" : "https://tvhd.capshd.xyz/online/canal35.php",
+			"isHost": "true"
                      }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			"url" : "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-			 "referer": "https://l1l1.to/",
+			"name": "Red Bull Salzbourg 🆚 Chelsea",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			  "url" : "https://voraciousglove.net/embed/gagr8b",
+			 "referer": "https://leet365.cc/",
              "isHost": "true" 
                     }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
-			 }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://voraciousglove.net/embed/h5m4gyv36vtc",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true" 
-			 }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://castmax.live/embed/mylive81.html",
-			"referer": "https://1rowsportz.info/",
-			"isHost" : "true"
-			 }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://strayindicate.net/embed/2twhx",
-			"referer": "https://1rowsportz.info/",
-			"isHost" : "true" 
+			"name": "PSG 🆚 M. Haifa",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+			 "url": "https://unbiasedsenseevent.com/embed/fhku1o4fapy",
+                    "referer" : "https://l1l1.to/",
+                     "isHost" : "true"
+           }, {
+			"name": "PSG 🆚 M. Haifa",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           "url" : "https://voraciousglove.net/embed/gagr8b",
+			 "referer": "https://starlive.xyz/",
+             "isHost": "true" 
+                }, {
+			"name": "Dortmund 🆚 Manchester City",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+          "url": "https://onionstream.live/embed/ligade2-es.php",
+              "isHost" : "true"
+               }, {
+			"name": "Dortmund 🆚 Manchester City",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+             "url" : "https://voraciousglove.net/embed/gagr8b",
+			 "referer": "https://leet365.cc/",
+             "isHost": "true" 
+                }, {
+			"name": "Benfica 🆚 Juventus",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+           "url" : "https://godzillive.com/footy.php?player=desktop&live=ufeed67",
+			"referer": "https://mysportfeeds.info/",
+             "isHost": "true" 
+		  }, {
+			"name": "Benfica 🆚 Juventus",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://voraciousglove.net/embed/89ftq8ua1j5lr",
+			 "referer": "https://leet365.cc/",
+             "isHost": "true" 
+                }, {
+			"name": "Celtic 🆚 Shakhtar",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://voraciousglove.net/embed/dxcfd934ttzx",
+                      "referer": "https://leet365.cc/",
+             "isHost": "true" 
+              
+	         }, {
+			"name": "Celtic 🆚 Shakhtar",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://unbiasedsenseevent.com/embed/h8zgkrg",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true" 
                    }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url": "https://sportkart1.xyz/embed/scplayer-84.php",
-			"referer": "https://cdn.sportcast.life/",
+			"name": "RB Leipzig 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://deliriousholistic.net/embed/e15sctndd4",
+			 "referer": "https://starlive.xyz/",
+             "isHost": "true" 
+		 }, {
+			"name": "RB Leipzig 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
+            "referer": "https://l1l1.to/",
+             "isHost": "true" 
+	          }, {
+			"name": "RB Leipzig 🆚 Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url": "https://onionstream.live/embed/ligade2-es.php",
+             "isHost": "true" 
+	           }, {
+			"name": "Din. Zagreb 🆚 AC Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://voraciousglove.net/embed/105qqn",
+                      "referer" : "https://leet365.cc/",
+                     "isHost" : "true"   
+		 }, {
+			"name": "Din. Zagreb 🆚 AC Milan",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+                "url" : "https://castmax.live/embed/mylive108.html",
+		 "referer" : "https://1rowsportz.info/",
              "isHost": "true"
 	        }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url": "https://castmax.live/embed/star28.html",
-			"referer": "https://starlive.xyz/",
-             "isHost": "true"
-                  }, {
-			"name": "La liga Santander",
-			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-        "url" : "https://q9me9gl5i4v2ee.constraindefiant.net/embed/ksji2aq4bn72",
-	           "referer": "https://v3.sportsonline.to/",
-			  "isHost" : "true"
+			"name": "Multichampions",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url": "https://voraciousglove.net/embed/gagr8b",
+	           "referer" : "https://leet365.cc/",
+                     "isHost" : "true"   
+		 }, {
+			"name": "Multichampions",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+            "url" : "https://tvhd.capshd.xyz/online/canal35.php",
+			"isHost": "true"
                  }, {
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
