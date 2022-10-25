@@ -1212,9 +1212,9 @@
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
 		"info": "",
 		"stations": [{
-        "name": "Vamos",
+        "name": "Vamos.",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://31.172.87.45:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_nuXBUKm3pLZZkCidRmSkZQ%3D%3D%2C1666583294.1689845712",
+              			"url" : "http://31.172.87.59:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_kDggGYZ-f-DYBH2FtifTJw%3D%3D%2C1666742300.1689845712",
              "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
            }, {
  			"name": "Vamos",
