@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 26-10-2022)",
+    "author": "chuky (Actualizada al 27-10-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,52 +19,52 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Orlando Magic vs Cleveland Cavaliers",
+			"name": "Dallas Mavericks vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Atlanta Hawks vs Detroit Pistons",
+          "name": "LA Clippers vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Charlotte Hornets vs New York Knicks",
+          "name": "Miami Heat vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Philadelphia 76ers vs Toronto Raptors",
+                        "name": "Memphis Grizzlies vs Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs Milwaukee Bucks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "Brooklyn Nets vs Memphis Grizzlies",
 			"isHost": "true"
              }, {
-			"name": "Indiana Pacers vs Chicago Bulls",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "San Antonio Spurs vs Minnesota Timberwolves",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets vs Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles Lakers vs Denver Nuggets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Miami Heat vs Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
@@ -318,125 +318,107 @@
              "isHost": "true"
 			}]
 	}, {
-		"name": "Eventos deportivos mix (La Champions League)",
-		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		"name": "Eventos deportivos mix (Europa League)",
+		"image": "https://i.ibb.co/Df6kFcn/europaleague.jpg",
 		"info": "",
 		"stations": [{
-			"name": "Inter 🆚 Plzen",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           "url" : "https://onionstream.live/embed/ligade2-es.php",
-             "isHost": "true" 
-		 }, {
-			"name": "Inter 🆚 Plzen",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-               "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-            "referer": "https://l1l1.to/",
-             "isHost": "true"
-	           }, {
-			"name": "Club Brugge 🆚 FC Porto",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			"url" : "https://tvhd.capshd.xyz/online/canal35.php",
+			"name": "campeones",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+      "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			"referer": "https://l1l1.to/",
+			"isHost" : "true"
+                       }, {
+			"name": "Campeones",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+           "url": "https://deliriousholistic.net/embed/e15sctndd4",
+			"referer" : "https://starlive.xyz/",
+              "isHost" : "true"
+                     }, {
+			"name": "campeones 2",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+			"url" : "https://78dmd775ix504k.constraindefiant.net/embed/xfkc2i",
+			"referer" : "https://streamonsport360.buzz/",
 			"isHost": "true"
                      }, {
-			"name": "Club Brugge 🆚 FC Porto",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			  "url" : "https://53k4vqkwip6ydm.constraindefiant.net/embed/gagr8b",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true" 
+			"name": "Campeones 2",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+			  "url": "https://maxsport.one/ch6.php",
+              "isHost" : "true"
+                     
                     }, {
-			"name": "Atl. Madrid 🆚 Bayer Leverkusen",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-                    "referer" : "https://l1l1.to/",
-                     "isHost" : "true"
+			"name": "Campeones 3",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+			  "url": "https://maxsport.one/ch4.php",
+             "isHost": "true" 
            }, {
-			"name": "Atl. Madrid 🆚 Bayer Leverkusen",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           "url" : "https://onionstream.live/embed/ligade2-es.php",
-             "isHost": "true" 
-                }, {
-			"name": "Atl. Madrid 🆚 Bayer Leverkusen",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-          "url" : "https://voraciousglove.net/embed/gagr8b",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true" 
-               }, {
-			"name": "Napoles 🆚 Rangers",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-             "url" : "https://nstream.to/embed/dxcfd934ttzx",
-			 "referer": "https://streamonsport360.buzz/",
-             "isHost": "true" 
-                }, {
-			"name": "Napoles 🆚 Rangers",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           "url" : "https://unbiasedsenseevent.com/embed/p78txlnf0rc",
-			"referer": "https://l1l1.to/",
-             "isHost": "true" 
-		  }, {
-			"name": "Tottenham 🆚 Sporting",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url" : "https://53k4vqkwip6ydm.constraindefiant.net/embed/105qqn",
-			 "referer": "https://streamonsport360.buzz/",
-             "isHost": "true" 
-                }, {
-			"name": "Tottenham 🆚 Sporting",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url": "https://unbiasedsenseevent.com/embed/9i0rj",
-                      "referer": "https://l1l1.to/",
-             "isHost": "true" 
-               }, {
-			"name": "Barcelona 🆚 Bayern Munich",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url" : "https://deliriousholistic.net/embed/e15sctndd4",
-			 "referer": "https://starlive.xyz/",
-             "isHost": "true" 
-	         }, {
-			"name": "Barcelona 🆚 Bayern Munich",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url" : "https://unbiasedsenseevent.com/embed/u2sgi0",
-			 "referer": "https://l1l1.to/",
-             "isHost": "true" 
-		 }, {
-			"name": "Barcelona 🆚 Bayern Munich",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                 "url": "https://onionstream.live/embed/ligade-es.php",
-             "isHost": "true" 
-	          }, {
-			"name": "Ajax 🆚 Liverpool",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                "url": "https://53k4vqkwip6ydm.constraindefiant.net/embed/89ftq8ua1j5lr",
-            "referer": "https://streamonsport360.buzz/",
-             "isHost": "true" 
-	           }, {
-			"name": "Ajax 🆚 Liverpool",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url": "https://unbiasedsenseevent.com/embed/ypzz73m5m",
-                      "referer" : "https://l1l1.to/",
-                     "isHost" : "true"   
-		 }, {
-			"name": "Eintracht Francfort 🆚 Marseille",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                "url" : "https://nstream.to/embed/dp4tigbdvjxr4l",
-		 "referer" : "https://streamonsport360.buzz/",
-             "isHost": "true"
-	         }, {
-			"name": "Eintracht Francfort 🆚 Marseille",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                "url" : "https://castmax.live/embed/mylive108.html",
-		 "referer" : "https://1rowsportz.info/",
-             "isHost": "true"
-	        }, {
-			"name": "Multichampions",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-            "url": "https://53k4vqkwip6ydm.constraindefiant.net/embed/gagr8b",
+			"name": "Campeones 3",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+        "url": "https://78dmd775ix504k.constraindefiant.net/embed/52g8nnqi37bly6",
 	           "referer" : "https://streamonsport360.buzz/",
                      "isHost" : "true"   
-		 }, {
-			"name": "Multichampions",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-           "url": "https://unbiasedsenseevent.com/embed/7193roxnt",
-                      "referer" : "https://l1l1.to/",
-                     "isHost" : "true"  
+                }, {
+			"name": "Campeones 4",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+          "url": "https://maxsport.one/ch27.php",
+              "isHost" : "true"
+               }, {
+			"name": "campeones 4x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+             "url" : "https://78dmd775ix504k.constraindefiant.net/embed/lbr3etluqsw",
+			 "referer": "https://streamonsport360.buzz/",
+             "isHost": "true" 
+		  }, {
+			"name": "Campeones 5x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+            "url" : "https://78dmd775ix504k.constraindefiant.net/embed/cmms5rk1",
+			 "referer": "https://streamonsport360.buzz/",
+             "isHost": "true" 
+                }, {
+			"name": "Campeones 6x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+           "url" : "https://78dmd775ix504k.constraindefiant.net/embed/gagr8b",
+			 "referer": "https://streamonsport360.buzz/",
+             "isHost": "true" 
+                  }, {
+			"name": "campeones 7x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://78dmd775ix504k.constraindefiant.net/embed/89ftq8ua1j5lr",
+                "referer" : "https://streamonsport360.buzz/",
+             "isHost": "true" 
+                  }, {
+			"name": "campeones 8x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://78dmd775ix504k.constraindefiant.net/embed/105qqn",
+                "referer" : "https://streamonsport360.buzz/",
+             "isHost": "true" 
+                   }, {
+			"name": "campeones 9x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://78dmd775ix504k.constraindefiant.net/embed/dp4tigbdvjxr4l",
+                "referer" : "https://streamonsport360.buzz/",
+             "isHost": "true" 
+	         }, {
+			"name": "campeones 11x",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://maxsport.one/ch27.php",
+             "isHost": "true" 
+	         }, {
+			"name": "tudn",
+			"image": "https://i.ibb.co/12ZMJVB/uefa.jpg",
+            "url" : "https://ragnaru.net/embed2.php?player=desktop&live=do40",
+			 "referer": "https://l1l1.to/",
+             "isHost": "true" 
+	          }, {
+			"name": "Multiuefa",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://maxsport.one/ch4.php",
+             "isHost": "true" 
+	         }, {
+			"name": "Multiuefa",
+			"image": "https://i.blogs.es/3316aa/movistar/840_560.jpg",
+               "url": "https://78dmd775ix504k.constraindefiant.net/embed/52g8nnqi37bly6",
+	           "referer" : "https://streamonsport360.buzz/",
+                     "isHost" : "true"   
                  }, {
                     "name": "La Liga en latino ESPN",
                     "image": "https://i.ibb.co/nRyjJx4/espn-latino.jpg",
