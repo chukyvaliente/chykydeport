@@ -494,6 +494,11 @@
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
 			  "url": "https://maxsport.one/dazn1.php",
 			"isHost": "true"
+			}, {
+                    "name": "Dazn 1",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+			  "url": "https://onionstream.live/embed/dazn1-es.php",
+			"isHost": "true"
                       }, {
 			"name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -525,7 +530,7 @@
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url" : "https://livetvon.click/stream/stream-446.php",
+                   "url" : "https://onionstream.live/embed/dazn2-es.php",
 			  "isHost" : "true"
                     },{ 
                  "name": "Dazn 3",
