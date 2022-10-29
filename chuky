@@ -1527,27 +1527,32 @@
               }, {
               "name": "Sport TV-1",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-						 "url" :  "https://buzztv.futbol/pt1.php",
+		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
 		}, {
              "name": "Sport TV-2",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			"url" :  "https://buzztv.futbol/pt2.php",
+			 "url" :  "https://unbiasedsenseevent.com/embed/ozbhq",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
              "name": "Sport TV-3",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://buzztv.futbol/pt3.php",
+			 "url" :  "https://unbiasedsenseevent.com/embed/5ojjlk47ul",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
           }, {
               "name": "Sport TV-4",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			  "url" :  "https://buzztv.futbol/pt4.php",
+			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
                 }, {
               "name": "Sport TV-5",
 			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
-			 "url" :  "https://buzztv.futbol/pt5.php",
+			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
+		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true"
               }, {
               "name": "sky sport arena",
