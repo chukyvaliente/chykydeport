@@ -667,8 +667,8 @@
 		"stations": [{
               "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			  "url": "https://m.vk.com/video718161690_456239035",
-            "isHost": "true"
+			  "url": "https://vkvsd22.mycdn.me/hls/3046375754266.m3u8/sig/AlsGGDSiAxg/expires/1667247037076/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4135553215258/3046375754266_high/index.m3u8 ",
+            "userAgent": ""
 	     }, {
           "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
