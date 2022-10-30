@@ -710,6 +710,12 @@
                   			"url" : "https://utopianwilderness.com/embed/jzbxdprc32q",
 					 "referer" : "https://www.curvaweb.com/",
 			"userAgent": "true"
+		 }, {
+                  	"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+                  	"url" : "https://unbiasedsenseevent.com/embed/g359w0ew",
+            "referer": "https://buzztv.futbol/",
+			"isHost": "true"	 
         }, {
 			"name": "Formula 1-Inglés",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
