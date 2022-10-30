@@ -41,7 +41,7 @@
               }, {
 			"name": "Minnesota Timberwolves vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "Brooklyn Nets vs Memphis Grizzlies",
+			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
 			"name": "Orlando Magic vs Dallas Mavericks",
@@ -248,7 +248,82 @@
           "image": "https://content.sportslogos.net/logos/6/220/thumbs/22091682016.gif",
           "url": "http://givemenbastreams.com/nba.php?g=hawks",
           "userAgent" : "navigator"
-		               }]
+		              }]
+			                      },{
+            "name": "NFL",
+            "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
+            "info": "",
+            "stations": [{
+			"name": "Denver Broncos vs Jacksonville Jaguars",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-01/",
+			"isHost": "true"
+          }, {  
+          "name": "Arizona Cardinals vs Minnesota Vikings",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-02/",
+			"isHost": "true"
+         }, {  
+          "name": "Miami Dolphins vs Detroit Lions",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-03/",
+			"isHost": "true"
+               }, {  
+                        "name": "Chicago Bears vs Dallas Cowboys",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-04/",
+			"isHost": "true"
+              }, {
+			"name": "Las Vegas Raiders vs New Orleans Saints",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-05/",
+			"isHost": "true"
+             }, {
+			"name": "Carolina Panthers vs Atlanta Falcons",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-06/",
+			"isHost": "true"
+              }, {  
+                         "name": "New England Patriots vs New York Jets",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-07/",
+			"isHost": "true"
+              }, {
+			"name": "Pittsburgh Steelers vs Philadelphia Eagles",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-08/",
+			"isHost": "true"
+             }, {
+			"name": "Tennessee Titans vs Houston Texans",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-09/",
+			"isHost": "true"
+             }, {
+			"name": "New York Giants vs Seattle Seahawks",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-10/",
+			"isHost": "true"
+              }, {
+			"name": "San Francisco 49ers vs Los Angeles Rams",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-11/",
+			"isHost": "true"
+               }, {
+			"name": "Washington Commanders vs Indianapolis Colts",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-12/",
+			"isHost": "true"
+               }, {
+			"name": "Green Bay Packers vs Buffalo Bills",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-12/",
+			"isHost": "true"
+                 }, {
+			"name": "",
+			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
+			"url" : "http://markkystreams.com/video/nfl-13/",
+			"isHost": "true"    
+		}]
 		 	},{       
             "name": "Deportes de contacto",
             "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
