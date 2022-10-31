@@ -1435,7 +1435,7 @@
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://31.172.87.45:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED__y8JeA1ynazPSsxm0EETQA%3D%3D%2C1667300842.1689845712",
+         "url": "http://31.172.87.45:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_M9iHUOVttTqGXYLXjwpAeA%3D%3D%2C1667300870.1689845712",
 			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
 			
 		}, {
