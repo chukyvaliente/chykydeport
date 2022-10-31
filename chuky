@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 30-10-2022)",
+    "author": "chuky (Actualizada al 31-10-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -661,14 +661,14 @@
              "isHost": "true"  
 		}]
 	}, {
-		"name": "Motor mix",
-		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
+		"name": "Carrera México en diferido",
+		"image": "http://alucinaprojects.com/mexicogp2019/wp-content/uploads/2018/04/MexicoGP_2018_share_img.jpg",
 		"info": "",
 		"stations": [{
               "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			  "url": "https://vkvsd22.mycdn.me/hls/3046375754266.m3u8/sig/AlsGGDSiAxg/expires/1667247037076/srcIp/95.17.98.4/clientType/13/srcAg/CHROME_ANDROID/mid/4135553215258/3046375754266_high/index.m3u8 ",
-            "userAgent": ""
+			 "url" : "https://upstream.to/85w7awlepe0m",
+			"userAgent": "true"  
 	     }, {
           "name": "Formula 1",
 			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
