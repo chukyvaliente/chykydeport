@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 05-11-2022)",
+    "author": "chuky (Actualizada al 06-11-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,62 +19,62 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Cleveland Cavaliers vs Detroit Pistons",
+			"name": "Lacker - Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Miami Heat vs Indiana Pacers",
+          "name": "Grizzlies - Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "New York Knicks vs Philadelphia 76ers",
+          "name": "Raptors - Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets vs Washington Wizards",
+                        "name": "Clippers - Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Chicago Bulls vs Boston Celtics",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Charlotte Hornets vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "LA Clippers vs San Antonio Spurs",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Toronto Raptors vs Dallas Mavericks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Golden State Warriors vs New Orleans Pelicans",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Milwaukee Bucks vs Minnesota Timberwolves",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Portland Trail Blazers vs Phoenix Suns",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "Utah Jazz vs Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
@@ -254,57 +254,57 @@
             "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
             "info": "",
             "stations": [{
-			"name": "Philadelphia Eagles vs Houston Texans",
+			"name": "Los Angeles Chargers vs Atlanta Falcons",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "",
+          "name": "Green Bay Packers vs Detroit Lions",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "",
+          "name": "Miami Dolphins vs Chicago Bears",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Las Vegas Raiders vs Jacksonville Jaguars",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Indianapolis Colts vs New England Patriots",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Buffalo Bills vs New York Jets",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Carolina Panthers vs Cincinnati Bengals",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Minnesota Vikings vs Washington Commanders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Seattle Seahawks vs Arizona Cardinals",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Los Angeles Rams vs Tampa Bay Buccaneers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Tennessee Titans vs Kansas City Chiefs",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
@@ -617,6 +617,12 @@
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
 	          "url" : "https://futbolparatodos.live/canales/dazn1.html",
 			"embed": "true"
+			 },{ 
+                 "name": "Dazn 2",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+              "url": "https://utopianwilderness.com/embed/vwtuk5h",
+			"referer": "https://starlive.xyz/",
+             "isHost": "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -639,6 +645,12 @@
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                    "url" : "https://onionstream.live/embed/dazn2-es.php",
 			  "isHost" : "true"
+		     },{ 
+                 "name": "Dazn 3",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+              "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
+			"referer": "https://starlive.xyz/",
+             "isHost": "true"   
                     },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -660,7 +672,13 @@
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                     "url": "https://ragnarp.net/embed/zwaaqmvcz",
                      "referer" : "https://macron.xyz/",
-                    "isHost":"true"  
+                    "isHost":"true" 
+		       },{ 
+                 "name": "Dazn 4",
+                    "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
+              "url": "https://utopianwilderness.com/embed/8jqf49em",
+			"referer": "https://starlive.xyz/",
+             "isHost": "true"  
 		      },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
