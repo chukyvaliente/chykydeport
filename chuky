@@ -1398,18 +1398,18 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"info": "",
 		"stations": [{
  			"name": "Gol Mundial",
-			"image": "https://pbs.twimg.com/media/Fhm4rS2WIAAajNH.jpg",    
+			"image": "https://static.golmundial.com/assets/shared/logos/shape/golmundial-gold-flat-dark.svg",    
            "url" : "https://utopianwilderness.com/embed/datzi6",
 	        "referer" : "https://starlive.xyz/",
             "isHost":"true"
                }, {
  			"name": "Gol Mundial",
-			"image": "https://pbs.twimg.com/media/Fhm4rS2WIAAajNH.jpg",    
+			"image": "https://static.golmundial.com/assets/shared/logos/shape/golmundial-gold-flat-dark.svg",    
         "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
 	        "referer" : "https://starlive.xyz/",
             "isHost":"true"
 	        }, {
-        "name": "Vamos.",
+                   "name": "Vamos.",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
               			"url" : "http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/337813",
              "userAgent" : "PlusMediaPlayer/0.0.9"
