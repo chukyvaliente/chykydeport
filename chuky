@@ -395,13 +395,11 @@
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				 "url": "https://web.freeucp.com/hembedplayer/fgvsg556hcfgnh/4/500/400",
-						  "referer" : "https://web.freeucp.com/fgvsg556hcfgnh",
+				 "url": "http://emb.apl165.me/live/avo13/",
              "isHost": "true"
 			}, {
 				"name": "Evento 2",
-				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                  "url": "https://livetvon.click/stream/stream-521.php",
+				"image": "http://emb.apl165.me/live/avo13/",
              "isHost": "true"
 			}, {
 				"name": "Evento 3",
@@ -422,7 +420,7 @@
 			}, {
 				"name": "Evento 6",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://assia24.com/live2/mix2/?lang=pl",
+				                 "url": "https://assia24.com/live2/mix1/?lang=pl",
              "isHost": "true"
 			}]
 		}, {
