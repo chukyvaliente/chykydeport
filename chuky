@@ -1422,7 +1422,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
               }, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-       	"url" : "http://212.224.84.227:2200/NL/mlaligahd-esp/index.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXVpfXphfHFp",
+       	"url" : "http://31.172.87.39:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHRjew%3D%3D",
             "userAgent" : "Rediptv Plus"
           }, {
 			"name": "DAZN liga",
@@ -1507,8 +1507,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url" : "http://212.224.84.207:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-     "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+	 "url" : "http://31.172.87.39:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHtgcg%3D%3D",
+     "userAgent" : "Rediptv Plus"
                      }, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
@@ -1523,8 +1523,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
          }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "http://212.224.84.207:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			 "url": "http://31.172.87.48:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHtneg%3D%3D",
+			 "userAgent" : "Rediptv Plus"
 			  }, {  
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
@@ -1560,8 +1560,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://212.224.84.207:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+         "url": "http://212.224.84.234:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3Roc3NkfA%3D%3D",
+			 "userAgent" : "Rediptv Plus"
 			
 		}, {
 			"name": "Eurosport 1",
@@ -1571,8 +1571,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://212.224.84.206:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			"url" : "http://31.172.87.49:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3Roc3NpfQ%3D%3D",
+            "userAgent" : "Rediptv Plus"
 		}, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
@@ -1587,8 +1587,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			"url" : "http://212.224.84.208:2200/NL/mgolfhd-esp/index.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw==,7928642496.",
-           "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+			"url" : "http://31.172.87.49:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3Roc3JgfQ%3D%3D",
+           "userAgent" : "Rediptv Plus"
              }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
@@ -1603,8 +1603,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-       "url" : "http://212.224.84.206:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
+       "url" : "http://31.172.87.49:2200/NL/torostvhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RofHpheA%3D%3D",
+            "userAgent" : "Rediptv Plus"
 			}, {
 			"name": "Toros Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
