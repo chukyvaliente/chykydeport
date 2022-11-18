@@ -400,7 +400,7 @@
 			}, {
 				"name": "Evento 2",
 				 "image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"image": "http://emb.apl165.me/live/avo14/",
+				"url": "http://emb.apl165.me/live/avo14/",
              "isHost": "true"
 			}, {
 				"name": "Evento 3",
