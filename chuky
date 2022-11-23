@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 22-11-2022)",
+    "author": "chuky (Actualizada al 23-11-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,62 +19,62 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Brooklyn Nets vs Philadelphia 76ers",
+			"name": "Philadelphia 76ers vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Sacramento Kings vs Memphis Grizzlies",
+          "name": "Portland Trail Blazers vs Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Detroit Pistons vs Denver Nuggets",
+          "name": "Minnesota Timberwolves vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Los Angeles Lakers vs Phoenix Suns",
+                        "name": "Sacramento Kings vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Dallas Mavericks vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Washington Wizards vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Brooklyn Nets vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Chicago Bulls vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Denver Nuggets vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New Orleans Pelicans vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Detroit Pistons vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "LA Clippers Golden vs State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
@@ -459,10 +459,10 @@
 "referer": "https://starlive.xyz/", 
 "isHost":"true" 
 				},{
-					 "name": "Tyc Sport", 
-"image": "https://globalsquads.com/custom/uploads/images/72027_tyc.png", 
-"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp", 
-"referer": "https://l1l1.to/", 
+					 "name": "DirectSports ", 
+"image": "https://elcomercio.pe/resizer/AhVPIFjTME6tLJBmZeIUATI9Rog=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PMLWYRTZU5B3RL4QSGS6S3QPQU.png", 
+"url": "https://utopianwilderness.com/embed/vmrjhp94n", 
+"referer": "https://starlive.xyz/", 
 "isHost":"true" 
                 },{
 					 "name": "Sport TV Brasil", 
