@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 24-11-2022)",
+    "author": "chuky (Actualizada al 25-11-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,27 +19,27 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Philadelphia 76ers vs Charlotte Hornets",
+			"name": "Minnesota Timberwolves vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Portland Trail Blazers vs Cleveland Cavaliers",
+          "name": "Philadelphia 76ers vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Minnesota Timberwolves vs Indiana Pacers",
+          "name": "Portland Trail Blazers vs New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Sacramento Kings vs Atlanta Hawks",
+                        "name": "Sacramento Kings vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Dallas Mavericks vs Boston Celtics",
+			"name": "Brooklyn Nets vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
@@ -49,42 +49,42 @@
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Brooklyn Nets vs Toronto Raptors",
+                         "name": "Atlanta Hawks vs Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Chicago Bulls vs Milwaukee Bucks",
+			"name": "New Orleans Pelicans vs Memphis Grizzlies",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Denver Nuggets vs Oklahoma City Thunder",
+			"name": "Cleveland Cavaliers vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "New Orleans Pelicans vs San Antonio Spurs",
+			"name": "Chicago Bulls vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Detroit Pistons vs Utah Jazz",
+			"name": "Los Angeles Lakers vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "LA Clippers Golden vs State Warriors",
+			"name": "Detroit Pistons vs Phoenix Suns",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Utah Jazz Golden vs State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-13/",
 			"isHost": "true"
                  }, {
-			"name": "",
+			"name": "Denver Nuggets vs LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-14/",
 			"isHost": "true" 
@@ -269,17 +269,17 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "San Francisco 49ers vs Arizona Cardinals",
+			"name": "Buffalo Bills vs Detroit Lions",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "",
+          "name": "New York Giants vs Dallas Cowboys",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "",
+          "name": "New England Patriots vs Minnesota Vikings",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
@@ -1376,16 +1376,14 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"image": "https://dlprivateserver.com/wp-content/uploads/2020/08/FIFA-21-la-Serie-B-podr%C3%ADa-ser-excluida-de-la.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "",
+                        "name": "Parma vs Modena",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://earthquakecensus.com/embed/s159ssficdbw072",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn1",
             "isHost" : "true"
 		}, {
-              "name": "",
+              "name": "Pisa vs Ternana",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://earthquakecensus.com/embed/e15sctndd4",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn2",
             "isHost" : "true"
           }, {
              "name": "",
