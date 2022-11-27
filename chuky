@@ -112,7 +112,8 @@
 			"name": "Brooklyn Nets",
 			"url": "http://givemenbastreams.com/nba.php?g=nets",
 			"image": "http://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
-			"userAgent": "navigator"
+			"referer" : "http://stream.nbalives.tv/",
+			"isHost": "true"
 		}, {
 			"name": "Charlotte Hornets",
 			"userAgent": "navigator",
