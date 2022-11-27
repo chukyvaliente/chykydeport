@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 26-11-2022)",
+    "author": "chuky (Actualizada al 27-11-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,72 +19,72 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Minnesota Timberwolves vs Charlotte Hornets",
+			"name": "Portland Trail Blazers vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Philadelphia 76ers vs Orlando Magic",
+          "name": "Golden State Warriors vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Portland Trail Blazers vs New York Knicks",
+          "name": "Indiana Pacers vs LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Sacramento Kings vs Boston Celtics",
+                        "name": "Miami Heat vs Atlanta Hawks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Brooklyn Nets vs Indiana Pacers",
+			"name": "Washington Wizards vs Boston Celtics",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Washington Wizards vs Miami Heat",
+			"name": "Cleveland Cavaliers vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Atlanta Hawks vs Houston Rockets",
+                         "name": "Memphis Grizzlies vs New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "New Orleans Pelicans vs Memphis Grizzlies",
+			"name": "Philadelphia 76ers vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Cleveland Cavaliers vs Milwaukee Bucks",
+			"name": "Dallas Mavericks vs Milwaukee Bucks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Chicago Bulls vs Oklahoma City Thunder",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
               }, {
-			"name": "Los Angeles Lakers vs San Antonio Spurs",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-11/",
 			"isHost": "true"
                }, {
-			"name": "Detroit Pistons vs Phoenix Suns",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-12/",
 			"isHost": "true"
                }, {
-			"name": "Utah Jazz Golden vs State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-13/",
 			"isHost": "true"
                  }, {
-			"name": "Denver Nuggets vs LA Clippers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-14/",
 			"isHost": "true" 
@@ -269,62 +269,62 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Buffalo Bills vs Detroit Lions",
+			"name": "Denver Broncos vs Carolina Panthers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "New York Giants vs Dallas Cowboys",
+          "name": "Atlanta Falcons vs Washington Commanders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "New England Patriots vs Minnesota Vikings",
+          "name": "Houston Texans vs Miami Dolphins",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "Cincinnati Bengals vs Tennessee Titans",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Chicago Bears vs New York Jets",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Tampa Bay Buccaneers vs Cleveland Browns",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Baltimore Ravens vs Jacksonville Jaguars",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Los Angeles Chargers vs Arizona Cardinals",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Las Vegas Raiders vs Seattle Seahawks",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "New Orleans Saints vs San Francisco 49ers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Los Angeles Rams vs Kansas City Chiefs",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Green Bay Packers vs Philadelphia Eagles",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-12/",
 			"isHost": "true"
@@ -396,13 +396,14 @@
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				 "url": "http://emb.apl165.me/live/avo13/",
-             "isHost": "true"
+				"url" : "http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/337813",
+             "userAgent" : "PlusMediaPlayer/0.0.9"
 			}, {
 				"name": "Evento 2",
 				 "image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url": "http://emb.apl165.me/live/avo14/",
-             "isHost": "true"
+				  "url": "https://wecast.to/onionstream.php?stream=rYOSUILknLj",
+			 "referer":"https://onionstream.live/",
+                    "isHost":"true"
 			}, {
 				"name": "Evento 3",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
@@ -416,13 +417,13 @@
 			}, {
 				"name": "Evento 5",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://earthquakecensus.com/embed/yv6zi4y",
+				                 "url": "https://earthquakecensus.com/embed/2sdwgqmqzm1",
 			"referer": "https://starlive.xyz/",
              "isHost": "true"
 			}, {
 				"name": "Evento 6",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				                 "url": "https://assia24.com/live2/mix1/?lang=pl",
+				                 "url": "https://assia24.com/live2/mix1/?lang=es",
              "isHost": "true"
 			}]
 			                    },{
@@ -497,7 +498,7 @@
                      }, {
 		    "name": "Quintanar VS Ginirona",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://8g7p497qu1938g.constraindefiant.net/embed/cmms5rk1",
+			 "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
               "referer": "https://streamonsport77.buzz/",
              "isHost": "true" 
 	              }, {
@@ -521,7 +522,7 @@
                      }, {
 		    "name": "Algar VS Celta de Vigo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/cmms5rk1",
+			 "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
               "referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                      }, {
@@ -533,7 +534,7 @@
 	             }, {
 			"name": "Velarde VS Sevilla",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://8g7p497qu1938g.constraindefiant.net/embed/lbr3etluqsw",
+			"url" : "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
 			 "referer": "https://streamonsport44.buzz/",
              "isHost": "true"  
                      }, {
@@ -545,7 +546,7 @@
                     }, {
 			"name": "Real Unión VS Cadiz",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/gagr8b",
+			"url" : "https://parsimoniousinvincible.net/embed/gagr8b",
 			 "referer": "https://streamonsport44.buzz/",
              "isHost": "true"  
 			 }, {
@@ -557,7 +558,7 @@
                    }, {
 			"name": "San Roque VS Getafe",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-        "url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/89ftq8ua1j5lr",
+        "url" : "https://parsimoniousinvincible.net/embed/89ftq8ua1j5lr",
 			 "referer": "https://streamonsport44.buzz/",
              "isHost": "true"  
 	            }, {
@@ -586,7 +587,7 @@
 	         }, {
 			"name": "Arenteiro VS Almeria",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/cmms5rk1",
+			"url" : "https://parsimoniousinvincible.net/embed/cmms5rk1",
 			 "referer": "https://streamonsport44.buzz/",
              "isHost": "true"  
 			 }, {
@@ -638,7 +639,7 @@
                 },{
                        "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/onfsmh",
+                "url": "https://parsimoniousinvincible.net/embed/onfsmh",
 	        "referer" : "https://streamonsport44.buzz/",
                   "isHost": "true"
                 },{ 
@@ -649,13 +650,13 @@
                     },{ 
                  "name": "Opción 4(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-               "url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/omf3vn",
+               "url" : "https://parsimoniousinvincible.net/embed/omf3vn",
 	        "referer" : "https://streamonsport44.buzz/",
             "isHost":"true"
                      },{
                      "name": "Opción 7(M-Deportes 2)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/3p3ietefn017d",
+                 "url": "https://parsimoniousinvincible.net/embed/3p3ietefn017d",
                   "referer" : "https://streamonsport44.buzz/",
 			 "isHost": "true"
                       },{
@@ -667,7 +668,7 @@
 			 },{
                      "name": "Opción 7(M-Deportes 3)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/qkduopi8remo1q",
+                 "url": "https://parsimoniousinvincible.net/embed/qkduopi8remo1q",
                   "referer" : "https://streamonsport44.buzz/",
 			 "isHost": "true"
                       },{
@@ -679,7 +680,7 @@
 			 },{
                      "name": "Opción 7(M-Deportes 4)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/313bwweg2v1km",
+                 "url": "https://parsimoniousinvincible.nett/embed/313bwweg2v1km",
                   "referer" : "https://streamonsport44.buzz/",
 			 "isHost": "true" 
                   }]
@@ -774,7 +775,7 @@
                     },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
+                     "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
             "referer" : "https://leet365.cc/",
             "isHost":"true"
                    },{ 
@@ -791,7 +792,7 @@
                     },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                    "url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/ehf5qe1r",
+                    "url": "https://parsimoniousinvincible.net/embed/ehf5qe1r",
                      "referer" : "https://streamonsport44.buzz/",
                     "isHost":"true" 
 		       },{ 
@@ -925,7 +926,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                    }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url" : "https://warnforlese.net/embed/zbz7klq",
+            "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
                  }, {
@@ -1024,8 +1025,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		}, {
 			"name": "(M-Campeones 2)",
 			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://4m1w6r0dujq27d.constraindefiant.net/embed/cmms5rk1",
-            "referer" : "https://streamonsport360.buzz/",
+			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
+            "referer" : "https://streamonsport44.buzz/",
              "isHost": "true"
 	      }, {
 			"name": "(M-Campeones 2)",
@@ -1143,7 +1144,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	     }, {
 			"name": "(DAZN 1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-    "url" : "https://warnforlese.net/embed/zbz7klq",
+    "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"  
 	     }, {
@@ -1196,7 +1197,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                 }, {
 			"name": "(DAZN3)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
+ 			"url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
             "referer" : "https://macron.xyz/",
             "isHost":"true"
                }, {
@@ -1378,12 +1379,12 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"image": "https://dlprivateserver.com/wp-content/uploads/2020/08/FIFA-21-la-Serie-B-podr%C3%ADa-ser-excluida-de-la.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "Parma vs Modena",
+                        "name": "Reggina vs Benevento",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://starlive.xyz/embed.php?id=liveDazn1",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn3",
             "isHost" : "true"
 		}, {
-              "name": "Pisa vs Ternana",
+              "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDazn2",
             "isHost" : "true"
@@ -1400,37 +1401,37 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	       }, {
-             "name": "Genoa vs Como",
+             "name": "Brescia vs Spal",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/ppmtp2pmf3c09j",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Frosinone vs Cagliari",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/hpe7zi",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	            }, {
-             "name": "",
+             "name": "Cittadella vs Cosenza",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/b0wn4l3",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Como vs Bari 1908 ",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/y8tcxjy446py6z3",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 	           }, {
-             "name": "",
+             "name": "Perugia vs Genoa",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/if4rn0pbe",
             "referer" : "https://starlive.xyz/",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Sudtirol vs Ascoli",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://deliriousholistic.net/embed/lu4jhdwe1668np",
             "referer" : "https://starlive.xyz/",
@@ -1448,7 +1449,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
             "referer" : "https://starlive.xyz/",
             "isHost" : "true" 
 	         }, {
- 			 "name": "",
+ 			 "name": "Palermo vs Venezia",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://earthquakecensus.com/embed/uxnvw",
             "referer" : "https://starlive.xyz/",
@@ -1534,7 +1535,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	       }, {
 			"name": "Opción 3",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-						"url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/h5m4gyv36vtc",
+						"url" : "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
 			   "referer" : "https://streamonsport44.buzz/",
               "isHost" : "true"
                }, {
@@ -1546,13 +1547,13 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                 }, {
 			"name": "Opción 5",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			"url": "https://62918pd6t7d0l8q.constraindefiant.net/embed/xmr0xxbbmzod",
+			"url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
            "referer": "https://streamonsport44.buzz/",
              "isHost": "true"
               }, {
 			"name": "Opción 6",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-			"url" : "https://62918pd6t7d0l8q.constraindefiant.net/embed/xmr0xxbbmzod",
+			"url" : "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
                "referer" : "https://streamonsport44.buzz/",
               "isHost" : "true"
 	       }, {
