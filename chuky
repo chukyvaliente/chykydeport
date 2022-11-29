@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 27-11-2022)",
+    "author": "chuky (Actualizada al 29-11-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,47 +19,47 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Portland Trail Blazers vs Brooklyn Nets",
+			"name": "New York Knicks vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Golden State Warriors vs Minnesota Timberwolves",
+          "name": "Golden State Warriors vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Indiana Pacers vs LA Clippers",
+          "name": "LA Clippers vs Portland Trail Blazers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Miami Heat vs Atlanta Hawks",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Washington Wizards vs Boston Celtics",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Cleveland Cavaliers vs Detroit Pistons",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Memphis Grizzlies vs New York Knicks",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Philadelphia 76ers vs Orlando Magic",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Dallas Mavericks vs Milwaukee Bucks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
@@ -270,62 +270,62 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Denver Broncos vs Carolina Panthers",
+			"name": "Pittsburgh Steelers vs Indianapolis Colts",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Atlanta Falcons vs Washington Commanders",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "Houston Texans vs Miami Dolphins",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Cincinnati Bengals vs Tennessee Titans",
+                        "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "Chicago Bears vs New York Jets",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "Tampa Bay Buccaneers vs Cleveland Browns",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Baltimore Ravens vs Jacksonville Jaguars",
+                         "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "Los Angeles Chargers vs Arizona Cardinals",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "Las Vegas Raiders vs Seattle Seahawks",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "New Orleans Saints vs San Francisco 49ers",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "Los Angeles Rams vs Kansas City Chiefs",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
                }, {
-			"name": "Green Bay Packers vs Philadelphia Eagles",
+			"name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-12/",
 			"isHost": "true"
@@ -440,13 +440,13 @@
                 },{
               "name": "Gol Mundial", 
 "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg", 
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
+ "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
+	        "referer" : "https://starlive.xyz/",
+            "isHost":"true" 
 				},{
 					 "name": "Gol Mundial", 
 "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg",  
-"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72", 
+"url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx", 
 "referer": "https://sportz.football/", 
 "isHost":"true" 
                                },{
@@ -458,20 +458,20 @@
 				},{
 					 "name": "Telemundo", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", 
-"url": "https://utopianwilderness.com/embed/vmrjhp94n", 
-"referer": "https://starlive.xyz/", 
+"url": "https://r93lx41wi5m54w8.constraindefiant.net/embed/52g8nnqi37bly6", 
+"referer": "https://www.streamonsport.click/", 
 "isHost":"true" 
 				},{
-					 "name": "DirectSports ", 
-"image": "https://elcomercio.pe/resizer/AhVPIFjTME6tLJBmZeIUATI9Rog=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PMLWYRTZU5B3RL4QSGS6S3QPQU.png", 
-"url": "https://utopianwilderness.com/embed/vmrjhp94n", 
-"referer": "https://starlive.xyz/", 
-"isHost":"true" 
+					"name": "TyC Sport",
+			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
+			"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			 "referer" : "https://l1l1.to/",
+	           "isHost": "true"
                 },{
-					 "name": "Sport TV Brasil", 
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQGYy9HWCsnhZc5-D_fREQui0zlVsyOyYDbihTXoYXR0K6zol6xc6RTWIm73EYeXIrA&usqp=CAU", 
-"url": "https://utopianwilderness.com/embed/et2bon7r", 
-"referer": "https://starlive.xyz/", 
+					 "name": "Universo", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1199px-UNIVERSO_LOGO_color_black.png?20170410150743", 
+"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
+"referer": "https://l1l1.to/", 
 "isHost":"true" 
                  },{
 					 "name": "Rai", 
@@ -480,8 +480,8 @@
 "referer": "https://starlive.xyz/", 
 "isHost":"true" 
                                    },{
-					 "name": "TvPublica", 
-"image": "https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png", 
+					"name": "DirecTV Sports",
+			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
 "url": "https://godzillive.com/footy.php?player=desktop&live=ufeed64", 
  "referer": "https://1rowsportz.info/", 
 "isHost":"true"  
@@ -1783,8 +1783,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		}, {
 			"name": "TyC Sport",
 			"image": "https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg",
-			"url": "https://www.tutele.nl/online.php?a=1204",
-			 "referer" : "https://www.freelive365.net/",
+			"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			 "referer" : "https://l1l1.to/",
 	           "isHost": "true"
                }, {
 			"name": "TNT Sports",
