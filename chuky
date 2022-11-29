@@ -485,6 +485,11 @@
 "url": "https://godzillive.com/footy.php?player=desktop&live=ufeed64", 
  "referer": "https://1rowsportz.info/", 
 "isHost":"true"  
+                            },{
+					"name": "FS1",
+			"image": "https://cordcutting.com/wp-content/uploads/2018/08/fs1-logo.png",
+"url": "http://1stream.link/soccer/wales-england-live-stream/1002360", 
+"isHost":"true"  
                   }] 
 		}, {
 		"name": "Eventos deportivos mix (La Copa del Rey)",
