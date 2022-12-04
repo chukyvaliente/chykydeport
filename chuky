@@ -19,42 +19,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Dallas Mavericks vs New York Knicks",
+			"name": "Denver Nuggets - New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Sacramento Kings vs LA Clippers",
+          "name": "Phoenix Suns - San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Milwaukee Bucks vs Charlotte Hornets",
+          "name": "Boston Celtics - Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Orlando Magic vs Toronto Raptors",
+                        "name": "Memphis Grizzlies - Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder vs Minnesota Timberwolves",
+			"name": "Cleveland Cavaliers - New York Knicks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Houston Rockets vs Golden State Warriors",
+			"name": "Los Angeles Lakers - Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Portland Trail Blazers vs Utah Jazz",
+                         "name": "Chicago Bulls - Sacramento Kings",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Indiana Pacers - Portland Trail Blazers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
@@ -99,161 +99,50 @@
                     "url": "https://es.global.nba.com/schedule/",
                     "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
                 }, {
-               "name": "Clika los logos del equipo para ver el partido",
-			"image": "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0432.gif",
+               "name": "NBA Streams",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                 }, {
-			"name": "Celtis",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=celtics",
-			"image": "http://content.sportslogos.net/logos/6/213/thumbs/slhg02hbef3j1ov4lsnwyol5o.gif"
+			"name": "Denver Nuggets - New Orleans Pelicans",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://x.seast.io/eas/xnba1/naxi/caxi.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Brooklyn Nets",
-			"url": "http://givemenbastreams.com/nba.php?g=nets",
-			"image": "http://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
-			"referer" : "http://stream.nbalives.tv/",
-			"isHost": "true"
+			"name": "Phoenix Suns - San Antonio Spurs",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://m.seast.io/eas/mnba2/naxi/caxi.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Charlotte Hornets",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=hornets",
-			"image": "http://content.sportslogos.net/logos/6/5120/thumbs/512019262015.gif"
+			"name": "Boston Celtics - Brooklyn Nets",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://y.seast.io/eas/ynba3/strmrdr.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Chicago Bulls",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=bulls",
-			"image": "http://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif"
+			"name": "Memphis Grizzlies - Detroit Pistons",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://n.seast.io/eas/nnba4/strmrdr.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Cleveland Cavaliers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=cavaliers",
-			"image": "http://content.sportslogos.net/logos/6/222/thumbs/22269212018.gif"
+			"name": "Cleveland Cavaliers - New York Knicks",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://x.seast.io/eas/xnba5/strmrdr.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Dallas Mavericks",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=mavericks",
-			"image": "http://content.sportslogos.net/logos/6/228/thumbs/22834632018.gif"
+			"name": "Los Angeles Lakers - Washington Wizards",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://w.seast.io/eas/wnba6/strmrdr.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Denver Nuggets",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=nuggets",
-			"image": "http://content.sportslogos.net/logos/6/229/thumbs/22989262019.gif"
+			"name": "Chicago Bulls - Sacramento Kings",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://z.seast.io/eas/znba7/strmrdr.m3u8",
+			"userAgent": "" 
 		}, {
-			"name": "Detroit Pistons",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=pistons",
-			"image": "http://content.sportslogos.net/logos/6/223/thumbs/22321642018.gif"
-		}, {
-			"name": "Golden State Warriors",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=warriors",
-			"image": "http://content.sportslogos.net/logos/6/235/thumbs/qhhir6fj8zp30f33s7sfb4yw0.gif"
-		}, {
-			"name": "Houston Rockets",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=rockets",
-			"image": "http://content.sportslogos.net/logos/6/230/thumbs/8xe4813lzybfhfl14axgzzqeq.gif"
-		}, {
-			"name": "Indiana Pacers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=pacers",
-			"image": "http://content.sportslogos.net/logos/6/224/thumbs/22448122018.gif"
-		}, {
-			"name": "Los Angeles Clippers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=clippers",
-			"image": "http://content.sportslogos.net/logos/6/236/thumbs/23654622016.gif"
-		}, {
-			"name": "Los Angeles Lakers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=lakers",
-			"image": "http://content.sportslogos.net/logos/6/237/thumbs/uig7aiht8jnpl1szbi57zzlsh.gif"
-		}, {
-			"name": "Memphis Grizzlies",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=grizzlies",
-			"image": "http://content.sportslogos.net/logos/6/231/thumbs/23143732019.gif"
-		}, {
-			"name": "Miami Heat",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=heat",
-			"image": "http://content.sportslogos.net/logos/6/214/thumbs/burm5gh2wvjti3xhei5h16k8e.gif"
-		}, {
-			"name": "Milwaukee Bucks",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=bucks",
-			"image": "http://content.sportslogos.net/logos/6/225/thumbs/22582752016.gif"
-		}, {
-			"name": "Minnesota Timberwolves",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=timberwolves",
-			"image": "http://content.sportslogos.net/logos/6/232/thumbs/23296692018.gif"
-		}, {
-			"name": "New Orleans Pelicans",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=pelicans",
-			"image": "http://content.sportslogos.net/logos/6/4962/thumbs/496226812014.gif"
-		}, {
-			"name": "New York Knicks",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=knicks",
-			"image": "http://content.sportslogos.net/logos/6/216/thumbs/2nn48xofg0hms8k326cqdmuis.gif"
-		}, {
-			"name": "Oklahoma City Thunder",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=thunders",
-			"image": "http://content.sportslogos.net/logos/6/2687/thumbs/khmovcnezy06c3nm05ccn0oj2.gif"
-		}, {
-			"name": "Orlando Magic",
-			"url": "http://givemenbastreams.com/nba.php?g=magic",
-			"userAgent": "navigtor",
-			"image": "http://content.sportslogos.net/logos/6/217/thumbs/wd9ic7qafgfb0yxs7tem7n5g4.gif"
-		}, {
-			"name": "Philadelphia 76ers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=76ers",
-			"image": "http://content.sportslogos.net/logos/6/218/thumbs/21870342016.gif"
-		}, {
-			"name": "Phoenix Suns",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=suns",
-			"image": "http://content.sportslogos.net/logos/6/238/thumbs/23843702014.gif"
-		}, {
-			"name": "Portland Trail Blazers",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=blazers",
-			"image": "http://content.sportslogos.net/logos/6/239/thumbs/23997252018.gif"
-		}, {
-			"name": "Sacramento Kings",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=kings",
-			"image": "http://content.sportslogos.net/logos/6/240/thumbs/24040432017.gif"
-		}, {
-			"name": "San Antonio Spurs",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=spurs",
-			"image": "http://content.sportslogos.net/logos/6/233/thumbs/23325472018.gif"
-		}, {
-			"name": "Toronto Raptors",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=raptors",
-			"image": "http://content.sportslogos.net/logos/6/227/thumbs/22745782016.gif"
-		}, {
-			"name": "Utah Jazz",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=jazz",
-			"image": "http://content.sportslogos.net/logos/6/234/thumbs/23467492017.gif"
-		}, {
-			"name": "Washington Wizards",
-			"userAgent": "navigator",
-			"url": "http://givemenbastreams.com/nba.php?g=wizards",
-			"image": "http://content.sportslogos.net/logos/6/219/thumbs/21956712016.gif"
-        }, {
-          "name": "Atlanta Hawks",
-          "image": "https://content.sportslogos.net/logos/6/220/thumbs/22091682016.gif",
-          "url": "http://givemenbastreams.com/nba.php?g=hawks",
-          "userAgent" : "navigator"
+			"name": "Indiana Pacers - Portland Trail Blazers",
+			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
+			"url": "https://w.seast.io/eas/wnbatv/strmrdr.m3u8",
+			"userAgent": "" 
 		              }]
 			                      },{
             "name": "NFL",
@@ -270,67 +159,67 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "Pittsburgh Steelers vs Indianapolis Colts",
+			"name": "Washington Commanders vs New York Giants",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "",
+          "name": "Denver Broncos vs Baltimore Ravens",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "",
+          "name": "Pittsburgh Steelers vs Atlanta Falcons",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
                }, {  
-                        "name": "",
+                        "name": "New York Jets vs Minnesota Vikings",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-04/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Cleveland Browns vs Houston Texans",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Jacksonville Jaguars vs Detroit Lions",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Green Bay Packers vs Chicago Bears",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Tennessee Titans vs Philadelphia Eagles",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Seattle Seahawks vs Los Angeles Rams",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Miami Dolphins vs San Francisco 49ers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-10/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Kansas City Chiefs vs Cincinnati Bengals",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-11/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Los Angeles Chargers vs Las Vegas Raiders",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-12/",
 			"isHost": "true"
                }, {
-			"name": "",
+			"name": "Indianapolis Colts vs Dallas Cowboys",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-12/",
 			"isHost": "true"
