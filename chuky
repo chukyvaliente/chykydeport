@@ -1599,9 +1599,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                       },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                  "url": "https://sportkart1.xyz/tv/scplayer-149.php",
-                    "referer" : "https://maxsport.one/",
-                     "isHost" : "true"
+                "url": "http://168.194.171.33:8000/play/a01a/index.m3u8",
+			 "userAgent" : ""
                     },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
@@ -1610,9 +1609,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                   },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                    "url": "https://sportkart1.xyz/tv/scplayer-150.php",
-                    "referer" : "https://maxsport.one/",
-                     "isHost" : "true"
+                     "url": "http://168.194.171.33:8000/play/a00y/index.m3u8",
+			 "userAgent" : ""
                  },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
@@ -1627,38 +1625,33 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                   },{
                     "name": "ESPN3-Argentina HD",
                     "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
-                     "url":"https://www.tutelehd.com/online.php?a=3",
-		  "referer" : "https://www.freelive365.net/",
-            "isHost" : "true"
+                     "url": "http://168.194.171.33:8000/play/a01y/index.m3u8",
+			 "userAgent" : ""
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                   "url" : "https://www.tutele.nl/online.php?a=1",
-                   "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+                  "url": "http://168.194.171.33:8000/play/a00q/index.m3u8",
+			 "userAgent" : ""
 		}, {
 			"name": "Fox Sport 2-Argentina",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzWOE1xMXXiPmjUaz-3LdohqBsNK17JmWlVh2EYvH7fK3ZDNNjRzAzxqANSy8hLZporQ&usqp=CAU",
-                       			"url":"https://www.tutele.nl/online.php?a=133",
-          "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+                       			 "url": "http://168.194.171.33:8000/play/a01k/index.m3u8",
+			 "userAgent" : ""
 		}, {
 			"name": "Fox Sport 3-Argentina",
 			"image": "https://i.ytimg.com/vi/Z2_19oGaU-g/hqdefault.jpg",
-		"url":"https://www.tutele.nl/online.php?a=4673",
-             "referer" : "https://www.freelive365.net/",
-	           "isHost": "true"
+		 "url": "http://168.194.171.33:8000/play/a01l/index.m3u8",
+			 "userAgent" : ""
            }, {
 			"name": "TUDN",
 			"image": "https://televisa.brightspotcdn.com/dims4/default/67595e0/2147483647/strip/true/crop/1000x563+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff7%2Ffe%2F6e7f5225433c9ba97a4bd5342329%2Fproxy.jpeg",
-			"url":"http://54.39.19.162:8081/live/dream1/playlist.m3u8",
+			"url":"https://p2052.securepoint.io:443/live/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030893.m3u8",
 	                "userAgent": ""
         }, {
 			"name": "Gol TV",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBlRp_zDOVjE35dayStjG3oWpN_UFMpHrXg&usqp=CAU",
-			"url": "https://ragnaru.net/embed.php?player=desktop&live=do10",
-             "referer" : "https://1l1l.to/",
-             "isHost": "true"
+			"url": "http://168.194.171.33:8000/play/a01b/index.m3u8",
+              "userAgent": ""
            }, {
 			"name": "DirecTV Sports",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
