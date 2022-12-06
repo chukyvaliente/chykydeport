@@ -316,10 +316,21 @@
             "image": "https://phantom-marca.unidadeditorial.es/3ae21575eb1a6d3d25746a9186056fa4/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/17/16371502625803.jpg",
             "info": "",
             "stations": [{
+	       "name": "TVE", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png", 
+"url": "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/", 
+"isHost":"true" 
+                },{
                 "name": "Gol Mundial", 
 "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg", 
 "url": "https://utopianwilderness.com/embed/datzi6", 
 "referer": "https://starlive.xyz/", 
+"isHost":"true" 
+                },{
+		  "name": "Gol Mundial", 
+"image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg", 
+"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
+"referer": "https://l1l1.to/", 
 "isHost":"true" 
                 },{
               "name": "Gol Mundial", 
@@ -351,12 +362,6 @@
 			"url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
 			 "referer" : "https://l1l1.to/",
 	           "isHost": "true"
-                },{
-					 "name": "Universo", 
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1199px-UNIVERSO_LOGO_color_black.png?20170410150743", 
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
                  },{
 					 "name": "Rai", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1200px-Logo_of_RAI_%282016%29.svg.png", 
@@ -378,7 +383,7 @@
                             },{
 					"name": "FS1",
 			"image": "https://cordcutting.com/wp-content/uploads/2018/08/fs1-logo.png",
-"url": "http://1stream.link/soccer/stream/1003086", 
+"url": "http://1stream.link/soccer/stream/1006666", 
 "isHost":"true"  
                   }] 
 		}, {
@@ -1622,12 +1627,13 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                   },{
                     "name": "ESPN3-Argentina HD",
                     "image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
-                 "url":"https://www.tutele.sx/online.php?a=3",
+                     "url":"https://www.tutelehd.com/online.php?a=3",
+		  "referer" : "https://www.freelive365.net/",
             "isHost" : "true"
 		}, {
 			"name": "Fox Sport 1-Argentina",
 			"image": "https://i.pinimg.com/originals/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg",
-                   "url" : "https://www.tutele.nl/online.php?a=132",
+                   "url" : "https://www.tutele.nl/online.php?a=1",
                    "referer" : "https://www.freelive365.net/",
 	           "isHost": "true"
 		}, {
