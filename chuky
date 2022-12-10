@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 09-12-2022)",
+    "author": "chuky (Actualizada al 10-12-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,52 +19,52 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New York Knicks vs Charlotte Hornets",
+			"name": "San Antonio Spurs vs Miami Heat",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Washington Wizards vs Indiana Pacers",
+          "name": "Brooklyn Nets vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Toronto Raptors vs Orlando Magic",
+          "name": "LA Clippers vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Atlanta Hawks vs Brooklyn Nets",
+                        "name": "Oklahoma City Thunder vs Cleveland Cavaliers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Sacramento Kings vs Cleveland Cavaliers",
+			"name": "Dallas Mavericks vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "Los Angeles Lakers vs Philadelphia 76ers",
+			"name": "Boston Celtics vs Golden State Warriors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "Detroit Pistons vs Memphis Grizzlies",
+                         "name": "Utah Jazz vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "Phoenix Suns vs New Orleans Pelicans",
+			"name": "Minnesota Timberwolves vs Portland Trail Blazers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "Minnesota Timberwolves vs Utah Jazz",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "Milwaukee Bucks vs Dallas Mavericks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
@@ -104,52 +104,52 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                 }, {
-			"name": "New York Knicks vs Charlotte Hornets",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://x.seast.io/eas/xnba1/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Washington Wizards vs Indiana Pacers",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://m.seast.io/eas/mnba2/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Toronto Raptors vs Orlando Magic",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://y.seast.io/eas/ynba3/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Atlanta Hawks vs Brooklyn Nets",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://z.seast.io/eas/znba4/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Sacramento Kings vs Cleveland Cavaliers",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://n.seast.io/eas/nnba5/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Los Angeles Lakers vs Philadelphia 76ers",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://w.seast.io/eas/wespn/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Detroit Pistons vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://x.seast.io/eas/xnba6/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Phoenix Suns vs New Orleans Pelicans",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://y.seast.io/eas/ynba7/strmrdr.m3u8",
 			"userAgent": "" 
                }, {
-			"name": "Minnesota Timberwolves vs Utah Jazz",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://n.seast.io/eas/nnba8/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Milwaukee Bucks vs Dallas Mavericks",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://w.seast.io/eas/wespn/strmrdr.m3u8",
 			"userAgent": "" 
