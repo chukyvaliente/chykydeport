@@ -106,12 +106,12 @@
                 }, {
 			"name": "Phoenix Suns vs New Orleans Pelicans",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://x.seast.io/eas/xnba1/strmrdr.m3u8",
+			"url": "https://w.seast.io/eas/wnba1/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Los Angeles Lakers vs Detroit Pistons",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://m.seast.io/eas/mnba2/naxi/caxi.m3u8",
+			"url": "https://w.seast.io/eas/wnba2/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Sacramento Kings vs New York Knicks",
@@ -121,22 +121,22 @@
 		}, {
 			"name": "Toronto Raptors vs Orlando Magic",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://z.seast.io/eas/znba4/naxi/caxi.m3u8",
+			"url": "https://n.seast.io/eas/nnba3/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Charlotte Hornets vs Philadelphia 76ers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://n.seast.io/eas/nnba5/strmrdr.m3u8",
+			"url": "https://n.seast.io/eas/nnba4/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Chicago Bulls vs Atlanta Hawks",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://w.seast.io/eas/wespn/strmrdr.m3u8",
+			"url": "https://x.seast.io/eas/xnba5/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "Milwaukee Bucks vs Houston Rockets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://x.seast.io/eas/xnba6/strmrdr.m3u8",
+			"url": "https://m.seast.io/eas/mnba6/strmrdr.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "",
