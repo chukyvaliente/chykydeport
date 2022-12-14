@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 13-12-2022)",
+    "author": "chuky (Actualizada al 14-12-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,52 +19,52 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Sacramento Kings vs Philadelphia",
+			"name": "Detroit Pistons vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Golden State Warriors vs Milwaukee Bucks",
+          "name": "Golden State Warriors vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Phoenix Suns vs Houston Rockets",
+          "name": "Atlanta Hawks vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "New Orleans Pelicans vs Utah Jazz",
+                        "name": "Sacramento Kings vs Toronto Raptors",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Boston Celtics vs Los Angeles Lakers",
+			"name": "New York Knicks vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Miami Heat vs Oklahoma City Thunder",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Portland Trail Blazers vs San Antonio Spurs",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Cleveland Cavaliers vs Dallas Mavericks",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-08/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Washington Wizards vs Denver Nuggets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-09/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Minnesota Timberwolves vs LA Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-10/",
 			"isHost": "true"
@@ -104,54 +104,54 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                 }, {
-			"name": "Sacramento Kings vs Philadelphia",
+			"name": "Detroit Pistons vs Charlotte Hornets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://x.seast.io/eas/xnba1/naxi/caxi.m3u8",
+			"url": "https://w.seast.io/eas/wnba1/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Golden State Warriors vs Milwaukee Bucks",
+			"name": "Golden State Warriors vs Indiana Pacers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://w.seast.io/eas/wnba2/naxi/caxi.m3u8",
+			"url": "https://n.seast.io/eas/nnba2/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Phoenix Suns vs Houston Rockets",
+			"name": "Atlanta Hawks vs Orlando Magic",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://y.seast.io/eas/ynbatv/naxi/caxi.m3u8",
+			"url": "https://w.seast.io/eas/wnba3/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "New Orleans Pelicans vs Utah Jazz",
+			"name": "Sacramento Kings vs Toronto Raptors",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://x.seast.io/eas/xnba3/naxi/caxi.m3u8",
+			"url": "https://x.seast.io/eas/xnba4/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "Boston Celtics vs Los Angeles Lakers",
+			"name": "New York Knicks vs Chicago Bulls",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://w.seast.io/eas/wnba4/naxi/caxi.m3u8",
+			"url": "https://z.seast.io/eas/zespn/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "",
+			"name": "Miami Heat vs Oklahoma City Thunder",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "https://x.seast.io/eas/xnba5/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "",
+			"name": "Portland Trail Blazers vs San Antonio Spurs",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://y.seast.io/eas/ynbatv/naxi/caxi.m3u8",
+			"url": "https://m.seast.io/eas/mnba6/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "",
+			"name": "Cleveland Cavaliers vs Dallas Mavericks",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://y.seast.io/eas/ynba7/strmrdr.m3u8",
+			"url": "https://y.seast.io/eas/ynba7/naxi/caxi.m3u8,
 			"userAgent": "" 
                }, {
-			"name": "",
+			"name": "Washington Wizards vs Denver Nuggets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://n.seast.io/eas/nnba8/naxi/caxi.m3u8",
+			"url": "https://m.seast.io/eas/mnba8/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
-			"name": "",
+			"name": "Minnesota Timberwolves vs LA Clippers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "https://w.seast.io/eas/wespn/strmrdr.m3u8",
+			"url": "https://z.seast.io/eas/zespn/naxi/caxi.m3u8",
 			"userAgent": "" 
 		}, {
 			"name": "",
@@ -368,7 +368,7 @@
 				},{
 					 "name": "Telemundo", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", 
- "url": "https://parsimoniousinvincible.net/embed/52g8nnqi37bly6",
+ "url": "https://godzillive.com/footy.php?player=desktop&live=ufeed63",
               "referer": "https://streamonsport77.buzz/",
              "isHost": "true" 
 				},{
@@ -386,19 +386,19 @@
                                    },{
 					"name": "DirecTV Sports 2",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
-"url": "https://parsimoniousinvincible.net/embed/xfkc2i", 
+"url": "https://godzillive.com/footy.php?player=desktop&live=ufeed62", 
  "referer": "https://www.streamonsport77.buzz//", 
 "isHost":"true"  
                              },{
 					"name": "Tvpublica",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",
-"url": "https://parsimoniousinvincible.net/embed/cmms5rk1", 
- "referer": "https://www.streamonsport77.buzz//", 
-"isHost":"true"  
+"url": "https://godzillive.com/footy.php?player=desktop&live=ufeed64", 
+ "referer": "https://1rowsportz.info/", 
+"isHost":"true" 
                             },{
 					"name": "FS1",
 			"image": "https://cordcutting.com/wp-content/uploads/2018/08/fs1-logo.png",
-"url": "http://1stream.link/soccer/stream/1010819", 
+"url": "http://1stream.link/soccer/stream/1011052", 
 "isHost":"true"  
                   }] 
 		}, {
@@ -1038,7 +1038,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	      }, {
 			"name": "Fulham vs Manchester United(DAZN 1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-    "url" : "https://warnforlese.net/embed/zbz7klq",
+    "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"
 	     }, {
@@ -1050,7 +1050,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	      }, {
 			"name": "(DAZN 1)",
 			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-    "url" : "https://warnforlese.net/embed/zbz7klq",
+    "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
 			 "referer": "https://macron.xyz/",
              "isHost": "true"  
 	     }, {
