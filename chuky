@@ -1545,9 +1545,10 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 			"referer": "http://cricfree.live/",
              "isHost": "true"
                 }, {
-			"name": "Golf",
+			"name": "Movistar Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
 			"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
+			 "referer" : "https://www.daddylive.link/",
            "isHost" : "true"
              }, {
 			"name": "M.Toros",
