@@ -543,8 +543,8 @@
             "stations": [{
                     "name": "Opción 1(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                		  "url": "https://gooals.top/tv/albaplayer/stream-436/?serv=1/",
-             "isHost": "true"
+                		  "url": "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323634",
+			 "userAgent" : "PlusMediaPlayer/0.0.9"
                 },{
                        "name": "Opción 2(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
@@ -573,11 +573,6 @@
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
                  "url": "https://gooals.top/tv/albaplayer/stream-438/?serv=1/",
              "isHost": "true"
-	               },{
-                     "name": "Opción 8(M-Deportes 2)",
-                    "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://gooals.top/tv/albaplayer/stream-438/?serv=1/",
-			 "isHost": "true"
 			 },{
                      "name": "Opción 9(M-Deportes 3)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
