@@ -296,8 +296,8 @@
 			"stations": [{
 				"name": "Evento 1",
 				"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-				"url" : "http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/337813",
-             "userAgent" : "PlusMediaPlayer/0.0.9"
+				"url" : "https://gooals.top/tv/albaplayer/stream-445/?serv=1/",
+                         "isHost":"true"
 			}, {
 				"name": "Evento 2",
 				 "image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
@@ -342,12 +342,6 @@
 "referer": "https://starlive.xyz/", 
 "isHost":"true" 
                 },{
-		  "name": "Gol Mundial", 
-"image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg", 
-"url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-"referer": "https://l1l1.to/", 
-"isHost":"true" 
-                },{
               "name": "Gol Mundial", 
 "image": "https://i.ibb.co/bNRCGDR/Gol-Mundial.jpg", 
  "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
@@ -368,8 +362,8 @@
 				},{
 					 "name": "Telemundo", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", 
- "url": "https://godzillive.com/footy.php?player=desktop&live=ufeed63",
-              "referer": "https://1rowsportz.info/",
+ "url": "https://utopianwilderness.com/embed/jegqowy",
+              "referer": "https://starlive.xyz/",
              "isHost": "true" 
 				},{
 					"name": "TyC Sport",
@@ -384,10 +378,10 @@
 "referer": "https://starlive.xyz/", 
 "isHost":"true" 
                                    },{
-					"name": "DirecTV Sports 2",
+					"name": "DirecTV Sports ecu",
 			"image": "https://pbs.twimg.com/profile_images/430086061675778048/q6z2tn5R.jpeg",
-"url": "https://godzillive.com/footy.php?player=desktop&live=ufeed62", 
- "referer": "https://1rowsportz.info/", 
+"url": "https://voraciousglove.net/embed/edyci7phspg", 
+ "referer": "https://1stream.buzz/", 
 "isHost":"true"  
                              },{
 					"name": "Tvpublica",
@@ -549,8 +543,7 @@
             "stations": [{
                     "name": "Opción 1(M-Deportes)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                		  "url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
-			"referer": "https://l1l1.to/",
+                		  "url": "https://gooals.top/tv/albaplayer/stream-436/?serv=1/",
              "isHost": "true"
                 },{
                        "name": "Opción 2(M-Deportes)",
@@ -561,7 +554,7 @@
                 },{ 
                  "name": "Opción 3(Vamos)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                  "url" : "http://xone8.1222908.net:80/live/885769D17D6D2433704C691CF4C07CA2/337813",
+                "url" : "http://xone8.1222908.net/live/56D7FC4DEA1AB1808B179B70DA7A2619/337813.m3u8",
              "userAgent" : "PlusMediaPlayer/0.0.9"
                     },{ 
                  "name": "Opción 4(Vamos)",
@@ -578,23 +571,27 @@
                       },{
                      "name": "Opción 8(M-Deportes 2)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
-                 "url": "https://unbiasedsenseevent.com/embed/65mfc98diz3a6l7",
-			"referer": "https://l1l1.to/",
+                 "url": "https://gooals.top/tv/albaplayer/stream-438/?serv=1/",
              "isHost": "true"
+	               },{
+                     "name": "Opción 8(M-Deportes 2)",
+                    "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+                 "url": "https://gooals.top/tv/albaplayer/stream-438/?serv=1/",
+			 "isHost": "true"
 			 },{
-                     "name": "Opción 7(M-Deportes 3)",
+                     "name": "Opción 9(M-Deportes 3)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
                  "url": "https://parsimoniousinvincible.net/embed/6bysbwjkckk6lm",
                   "referer" : "https://streamonsport44.buzz/",
 			 "isHost": "true"
                       },{
-                     "name": "Opción 8(M-Deportes 3)",
+                     "name": "Opción 10(M-Deportes 3)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
                   "url": "https://strayindicate.net/embed/oga0ahtwrbbgpd",
                   "referer" : "https://1rowsportz.info/",
 			 "isHost": "true"
 			 },{
-                     "name": "Opción 7(M-Deportes 4)",
+                     "name": "Opción 11(M-Deportes 4)",
                     "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
                  "url": "https://parsimoniousinvincible.nett/embed/313bwweg2v1km",
                   "referer" : "https://streamonsport44.buzz/",
@@ -636,7 +633,7 @@
 	               }, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://maxsport.one/dazn1.php",
+			  "url": "https://gooals.top/tv/albaplayer/stream-445/?serv=1/",
 			"isHost": "true"
 			}, {
                     "name": "Dazn 1",
@@ -664,7 +661,7 @@
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url": "https://maxsport.one/dazn2.php",
+                   "url": "https://gooals.top/tv/albaplayer/stream-446/?serv=1/",
              "isHost": "true"
 	           },{ 
                  "name": "Dazn 2",
@@ -698,7 +695,7 @@
 	           },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://maxsport.one/dazn3.php",
+                     "url": "https://gooals.top/tv/albaplayer/stream-447/?serv=1/",
             "isHost":"true"
                     },{ 
                  "name": "Dazn 4",
@@ -721,7 +718,7 @@
                      },{ 
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                     "url": "https://livetvon.click/stream/stream-448.php",
+                     "url": "https://gooals.top/tv/albaplayer/stream-448/?serv=1/",
              "isHost": "true"  
 		}]
 	}, {
@@ -844,7 +841,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                  }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url": "https://livetvon.click/stream/stream-445.php",
+            "url": "https://gooals.top/tv/albaplayer/stream-445/?serv=1/",
              "isHost": "true"
                }, {
 			"name": "Moto GP",
@@ -1291,80 +1288,74 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"image": "https://dlprivateserver.com/wp-content/uploads/2020/08/FIFA-21-la-Serie-B-podr%C3%ADa-ser-excluida-de-la.jpg",
 		"info": "",
 		"stations": [{
-                        "name": "Ternana vs Cagliari ",
+		 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://starlive.xyz/embed.php?id=liveDazn3",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn1",
             "isHost" : "true"
-		}, {
+		  }, {
               "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
 			"url":"https://starlive.xyz/embed.php?id=liveDazn2",
             "isHost" : "true"
+	           }, {
+                        "name": "",
+			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn3",
+            "isHost" : "true"
           }, {
              "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/2zigww29a02c1",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn4",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Palermo vs Cagliari",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/ih0lpvvudher",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn5",
             "isHost" : "true"
 	       }, {
              "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/ppmtp2pmf3c09j",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn6",
             "isHost" : "true"
 		 }, {
  			 "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/hpe7zi",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn7",
             "isHost" : "true"
 	            }, {
              "name": "",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/b0wn4l3",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn8",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Diretta Gol",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/y8tcxjy446py6z3",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn9",
             "isHost" : "true"
 	           }, {
-             "name": "",
+             "name": "Modena vs Benevento/Genoa vs Frosinone",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/if4rn0pbe",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn10",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Parma vs Spal",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/lu4jhdwe1668np",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn11",
             "isHost" : "true"
 	           }, {
-             "name": "",
+             "name": "Cittadella vs Sudtirol",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://deliriousholistic.net/embed/2wxhfeykufr",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn12",
             "isHost" : "true"
 		 }, {
- 			 "name": "",
+ 			 "name": "Cosenza vs Ascoli",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://earthquakecensus.com/embed/nxcht",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn13",
             "isHost" : "true" 
 	         }, {
- 			 "name": "",
+ 			 "name": "Ternana vs Como",
 			"image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltedaaeaa444b45163/62a864c43abd7179a884b1d7/SERIE_B_HD.jpg",
-			"url":"https://earthquakecensus.com/embed/uxnvw",
-            "referer" : "https://starlive.xyz/",
+			"url":"https://starlive.xyz/embed.php?id=liveDazn14",
             "isHost" : "true" 
 	     }]
 	}, {
@@ -1471,8 +1462,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 	       }, {
 			"name": "Opción 7",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-       			 "url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
-			"referer": "https://l1l1.to/",
+       			 "url": "https://gooals.top/tv/albaplayer/stream-2/?serv=1/",
              "isHost": "true"
 		}, {
 			"name": "Movistar Campeones",
@@ -1488,7 +1478,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
         }, {
 			"name": "Movistar Campeones",
 			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
-			 "url": "https://livetvon.click/stream/stream-435.php",
+			 "url": "https://gooals.top/tv/albaplayer/stream-435/?serv=1/",
              "isHost": "true"
          }, {
 			"name": "Movistar Deportes",
@@ -1510,7 +1500,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
          }, {
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
-			 "url": "https://livetvon.click/stream/stream-530.php",
+			 "url": "https://gooals.top/tv/albaplayer/stream-530/?serv=1/",
              "isHost": "true"
 		}, {
 			"name": "Teledeporte",
@@ -1531,9 +1521,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
         }, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://212.224.84.205:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmenFocntkeQ%3D%3D",
-			 "userAgent" : "Rediptv Plus 2.0.11"
-			
+         "url": "https://gooals.top/tv/albaplayer/stream-524/?serv=1/",
+			 "isHost" : "true"
 		}, {
 			"name": "Eurosport 1",
 			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
@@ -1542,8 +1531,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
         }, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://31.172.87.49:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3Roc3NpfQ%3D%3D",
-            "userAgent" : "Rediptv Plus"
+			"url" : "https://gooals.top/tv/albaplayer/stream-525/?serv=1/",
+            "isHost" : "true"
 		}, {
 			"name": "Eurosport 2",
 			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
@@ -1558,8 +1547,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                 }, {
 			"name": "Golf",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
-			"url" : "http://31.172.87.49:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3Roc3JgfQ%3D%3D",
-           "userAgent" : "Rediptv Plus"
+			"url" : "https://gooals.top/tv/albaplayer/stream-528/?serv=1/",
+           "isHost" : "true"
              }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
