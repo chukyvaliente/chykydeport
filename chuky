@@ -1616,8 +1616,9 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                     },{
                     "name": "ESPN-Argentina HD",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-                    "url":"https://egrc.tarjetarojatv.site/webplayer.php?ifr=70&lang=en&lid=70&ci=37&si=1",
-            "isHost" : "true"
+                  "url": "https://wecast.to/hls.php?stream=38tSc8hE6z9c",
+                     "referer": "https://bahiadeportes.com/",  
+					"isHost":true
                   },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
@@ -1626,7 +1627,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                  },{
                     "name": "ESPN2-Argentina HD",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
-                   "url":"https://livetvon.click/stream/stream-150.php",
+                     "url":"https://wecast.to/hls.php?stream=wrK4VGJ4fyST",
+		     "referer" : "https://bahiadeportes.com/",
             "isHost" : "true"
                                     },{
                     "name": "ESPN3-Argentina HD",
