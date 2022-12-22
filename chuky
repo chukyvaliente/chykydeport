@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 20-12-2022)",
+    "author": "chuky (Actualizada al 22-12-2022)",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,27 +19,27 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Utah Jazz vs Detroit Pistons",
+			"name": "San Antonio Spurs vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Chicago Bulls vs Miami Heat",
+          "name": "Washington Wizards vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Golden State Warriors vs New York Knicks",
+          "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Washington Wizards vs Phoenix Suns",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Memphis Grizzlies vs Denver Nuggets",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
@@ -104,27 +104,27 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                 }, {
-			"name": "NBA - Detroit Pistons vs Utah Jazz",
+			"name": "San Antonio Spurs vs New Orleans Pelicans",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream1.php",
 			"isHost": "true" 
 		}, {
-			"name": "NBA - Miami Heat vs Chicago Bulls",
+			"name": "Washington Wizards vs Utah Jazz",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream2.php",
 			"isHost": "true" 
 		}, {
-			"name": "NBA - New York Knicks vs Golden State Warriors",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream3.php",
 			"isHost": "true" 
 		}, {
-			"name": "NBA - Phoenix Suns vs Washington Wizards",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream4.php",
 			"isHost": "true" 
 		}, {
-			"name": "NBA - Denver Nuggets vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream3.php",
 			"isHost": "true" 
@@ -174,7 +174,7 @@
 			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
 			"isHost": "true"
           }, {  
-			"name": "San Francisco 49ers vs Seattle Seahawks",
+			"name": "Jacksonville Jaguars vs New York Jets",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
@@ -406,110 +406,71 @@
 		"image": "https://pilkarskiswiat.com/wp-content/uploads/2015/05/copa_rey.jpg",
 		"info": "",
 		"stations": [{
-		     "name": "Quintanar VS Ginirona",
+		     "name": "Cacereno vs Girona",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0",
               "referer": "https://l1l1.to/",
              "isHost": "true"
                      }, {
-		    "name": "Quintanar VS Ginirona",
+		    "name": "Cacereno vs Girona",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
               "referer": "https://streamonsport77.buzz/",
              "isHost": "true" 
 	              }, {
-		     "name": "Mollerusa VS Rayo",
+		     "name": "Gernika vs Celta de Vigo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
+			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
               "referer": "https://l1l1.to/",
              "isHost": "true"
                      }, {
-		    "name": "Mollerusa VS Rayo",
+		    "name": "Gernika vs Celta de Vigo",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 			 "url": "https://utopianwilderness.com/embed/datzi6",
 			  "referer" : "https://starlive.xyz/",
 			"isHost" : "true"
                      }, {
-		     "name": "Algar VS Celta de Vigo",
+		     "name": "Real Oviedo vs Granada",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 			 "url": "https://unbiasedsenseevent.com/embed/p7uf4et6n5s8o0",
               "referer": "https://l1l1.to/",
              "isHost": "true"
                      }, {
-		    "name": "Algar VS Celta de Vigo",
+		    "name": "Real Oviedo vs Granada",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
 			 "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
               "referer": "https://streamonsport44.buzz/",
              "isHost": "true"
                      }, {
-		   "name": "Velarde VS Sevilla",
+		   "name": "Nástic vs Málaga",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-	             }, {
-			"name": "Velarde VS Sevilla",
+			 "url": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+             "userAgent": ""
+	              }, {
+		   "name": "Nástic vs Málaga",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
-			 "referer": "https://streamonsport44.buzz/",
-             "isHost": "true"  
+			 "url": "https://assia24.com/live2/kanal-sport/?lang=",
+              "isHost": "true"
                      }, {
-			"name": "Real Unión VS Cadiz",
+			"name": "La Nucía vs Las Palmas",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
-              "referer": "https://l1l1.to/",
+			 "url": "https://youtu.be/6LlZXt8nk4s",
+             "isHost": "true"
+	              }, {
+			"name": "La Nucía vs Las Palmas",
+			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
+			 "url": "https://assia24.com/live2/udar-tv/?lang=",
              "isHost": "true"
                     }, {
-			"name": "Real Unión VS Cadiz",
+			"name": "Arenteiro vs Atlético Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://parsimoniousinvincible.net/embed/gagr8b",
-			 "referer": "https://streamonsport44.buzz/",
+			"url" : "https://utopianwilderness.com/embed/c94q8ojya43p2",
+			 "referer": "https://starlive.xyz/",
              "isHost": "true"  
 			 }, {
-			"name": "San Roque VS Getafe",
+			"name": "Arenteiro vs Atlético Madrid",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/u2sgi0",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-                   }, {
-			"name": "San Roque VS Getafe",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-        "url" : "https://parsimoniousinvincible.net/embed/89ftq8ua1j5lr",
-			 "referer": "https://streamonsport44.buzz/",
-             "isHost": "true"  
-	            }, {
-			"name": "Cazalegas VS Real Sociedad",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-    "url": "https://www.rtve.es/directo/teledeporte/",
-			"isHost": "true"
-			 }, {
-			"name": "Cazalegas VS Real Sociedad",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/65mfc98diz3a6l7",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-                   }, {
-			"name": "Alzira vs Athletic Club",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-       "url": "https://utopianwilderness.com/embed/datzi6",
-			  "referer" : "https://starlive.xyz/",
-			"isHost" : "true"
-	             }, {
-			"name": "Alzira vs Athletic Club",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-        "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-	         }, {
-			"name": "Arenteiro VS Almeria",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			"url" : "https://parsimoniousinvincible.net/embed/cmms5rk1",
-			 "referer": "https://streamonsport44.buzz/",
-             "isHost": "true"  
-			 }, {
-			"name": "Arenteiro VS Almeria",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-			 "url": "https://unbiasedsenseevent.com/embed/65mfc98diz3a6l7",
+			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
               "referer": "https://l1l1.to/",
              "isHost": "true"
                  }, {
