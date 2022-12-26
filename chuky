@@ -1,6 +1,6 @@
 {
 	"name": "chukydeport-mix-05",
-    "author": "chuky (Actualizada al 25-12-2022)",
+    "author": "chuky (Actualizada al 26-12-2022)",
     "image": "https://i.ibb.co/cgBYPSJ/Felices-fiestas.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyeldiabolico",
@@ -19,37 +19,37 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "New York Knicks vs Philadelphia 76ers",
+			"name": "Cleveland Cavaliers vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-01/",
 			"isHost": "true"
           }, {  
-          "name": "Dallas Mavericks vs Los Angeles Lakers",
+          "name": "Detroit Pistons vs Los Angeles Clippers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-02/",
 			"isHost": "true"
          }, {  
-          "name": "Boston Celtics vs Milwaukee Bucks",
+          "name": "Miami Heat vs Minnesota Timberwolves",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-03/",
 			"isHost": "true"
                }, {  
-                        "name": "Golden State Warriors vs Memphis Grizzlies",
+                        "name": "Chicago Bulls vs Houston Rockets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-04/",
 			"isHost": "true"
               }, {
-			"name": "Denver Nuggets vs Phoenix Suns",
+			"name": "New Orleans Pelicans vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-05/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "San Antonio Spurs vs Utah Jazz",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-06/",
 			"isHost": "true"
               }, {  
-                         "name": "",
+                         "name": "Portland Trail Blazers vs Charlotte Hornets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "http://markkystreams.com/video/nba-07/",
 			"isHost": "true"
@@ -99,39 +99,39 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                 }, {
-			"name": "New York Knicks vs Philadelphia 76ers",
+			"name": "Cleveland Cavaliers vs Brooklyn Nets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream1.php",
 			"isHost": "true" 
 		}, {
-			"name": "Dallas Mavericks vs Los Angeles Lakers",
+			"name": "Detroit Pistons vs Los Angeles Clippers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://ufckhabib.com/nba/stream1.php",
+			"url": "http://ufckhabib.com/nba/stream2.php",
 			"isHost": "true" 
 		}, {
-			"name": "Boston Celtics vs Milwaukee Bucks",
+			"name": "Miami Heat vs Minnesota Timberwolves",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://ufckhabib.com/nba/stream1.php",
+			"url": "http://ufckhabib.com/nba/stream3.php",
 			"isHost": "true" 
 		}, {
-			"name": "Golden State Warriors vs Memphis Grizzlies",
+			"name": "Chicago Bulls vs Houston Rockets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://ufckhabib.com/nba/stream1.php",
+			"url": "http://ufckhabib.com/nba/stream4.php",
 			"isHost": "true" 
 		}, {
-			"name": "Denver Nuggets vs Phoenix Suns",
+			"name": "New Orleans Pelicans vs Indiana Pacers",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream5.php",
 			"isHost": "true" 
 		}, {
-			"name": "",
+			"name": "San Antonio Spurs vs Utah Jazz",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
 			"url": "http://ufckhabib.com/nba/stream6.php",
 			"isHost": "true"
 		}, {
-			"name": "",
+			"name": "Portland Trail Blazers vs Charlotte Hornets",
 			"image": "https://uppsc.org.in/wp-content/uploads/2022/09/Untitled-100-%C3%97-100px-1080-%C3%97-720px-1024x683.png",
-			"url": "http://ufckhabib.com/nba/stream7.php",
+			"url": "http://ufckhabib.com/nba/stream1.php",
 			"isHost": "true" 
 		}, {
 			"name": "",
@@ -189,12 +189,12 @@
 			"url" : "http://markkystreams.com/video/nfl-01/",
 			"isHost": "true"
           }, {  
-          "name": "Los Angeles Rams vs Denver Broncos",
+          "name": "Indianapolis Colts vs Los Angeles Chargers",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-02/",
 			"isHost": "true"
          }, {  
-          "name": "Arizona Cardinals vs Tampa Bay Buccaneers",
+          "name": "",
 			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
 			"url" : "http://markkystreams.com/video/nfl-03/",
 			"isHost": "true"
@@ -534,7 +534,7 @@
 	               }, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://w8l5q92ebw68y6.constraindefiant.net/embed/zbz7klq",
+			  "url": "https://m95e1pdvc3gyj9.constraindefiant.net/embed/zbz7klq",
 			"referer": "https://www.streamonsport.click/",
              "isHost": "true"
 			}, {
