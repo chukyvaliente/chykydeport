@@ -660,7 +660,8 @@
                  "name": "Dazn 4",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
                      "url": "https://gooals.top/tv/albaplayer/stream-448/?serv=1/",
-             "isHost": "true"  
+            "referer" : "https://www.daddylive.link/",
+           "isHost" : "true"
 		}]
 	}, {
 		"name": "Motor mix",
@@ -783,7 +784,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
             "url": "https://gooals.top/tv/albaplayer/stream-445/?serv=1/",
-             "isHost": "true"
+             "referer" : "https://www.daddylive.link/",
+           "isHost" : "true"
                }, {
 			"name": "Moto GP",
 			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
@@ -1389,7 +1391,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 			"name": "Opción 7",
 			"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
        			 "url": "https://gooals.top/tv/albaplayer/stream-2/?serv=1/",
-             "isHost": "true"
+             "referer" : "https://www.daddylive.link/",
+           "isHost" : "true"
 		}, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
@@ -1398,8 +1401,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
                      }, {
 			"name": "Movistar Campeones",
             "image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg", 
-	 "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
-			  "referer" : "https://starlive.xyz/",
+	 "url": "https://sportskart.click/embed/stream-435.php",
 			"isHost" : "true"
         }, {
 			"name": "Movistar Campeones",
@@ -1428,7 +1430,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 			"name": "Gol TV",
 			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
 			 "url": "https://gooals.top/tv/albaplayer/stream-530/?serv=1/",
-             "isHost": "true"
+              "referer" : "https://www.daddylive.link/",
+           "isHost" : "true"
 		}, {
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
