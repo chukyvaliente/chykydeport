@@ -555,8 +555,9 @@
 			}, {
                     "name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-			  "url": "https://onionstream.live/embed/dazn1-es.php",
-			"isHost": "true"
+	         "url":"https://olacast.live/maxsport.php?id=premium445",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
                       }, {
 			"name": "Dazn 1",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -584,9 +585,9 @@
 	           },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                   "url" : "https://deliriousholistic.net/embed/lup8x",
-			 "referer": "https://bahiadeportes.com/",
-             "isHost": "true"
+                                  "url":"https://olacast.live/maxsport.php?id=premium446",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
                     },{ 
                  "name": "Dazn 2",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
@@ -607,9 +608,9 @@
                    },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                 "url": "https://unbiasedsenseevent.com/embed/u2sgi0",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
+                                 "url":"https://olacast.live/maxsport.php?id=premium447",
+		  "referer" : "http://livetv.sx/enx/",
+            "isHost" : "true"
 	           },{ 
                  "name": "Dazn 3",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
