@@ -381,13 +381,13 @@
 		"stations": [{
 		    "name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
+			 "url": "https://utopianwilderness.com/embed/fhc0cutcd",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
                      }, {
 		   "name": "La liga Santander",
 			"image": "https://as01.epimg.net/meristation/imagenes/2020/05/28/betech/1590692441_195849_1590692875_noticia_normal.jpg",
-			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
+			 "url": "https://utopianwilderness.com/embed/datzi6",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
 	             }, {
@@ -535,7 +535,7 @@
 	          }, {
                  "name": "Dazn Liga",
                     "image": "https://www.imago-images.de/bild/sp/1002389597/s.jpg",
-                      "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
+                      "url": " "url": "https://utopianwilderness.com/embed/datzi6",",
               "referer": "https://starlive.xyz/",
              "isHost": "true"
                        }, {
@@ -1296,7 +1296,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
 		"info": "",
 		"stations": [{
-                   "name": "Vamos.",
+                   "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
               			"url" : "http://xone8.1222908.net/live/56D7FC4DEA1AB1808B179B70DA7A2619/337813.m3u8",
              "userAgent" : "PlusMediaPlayer/0.0.9"
@@ -1321,7 +1321,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		}, {
 			"name": "La liga",
 			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
-			"url": "https://pahaplayers.click/ch/pahe084ch.php",
+			"url": "https://utopianwilderness.com/embed/fhc0cutcd",
+			"referer": "https://starlive.xyz/", 
              "isHost": "true"
               }, {
 			"name": "La liga",
