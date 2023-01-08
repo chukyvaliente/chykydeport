@@ -1298,7 +1298,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		"stations": [{
                    "name": "Vamos",
 			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
-              			"url" : "http://xone8.1222908.net/live/56D7FC4DEA1AB1808B179B70DA7A2619/337813.m3u8",
+              			"url" : "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/337813.m3u8",
              "userAgent" : "PlusMediaPlayer/0.0.9"
            }, {
  			"name": "Vamos",
@@ -1401,7 +1401,7 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
          }, {
 			"name": "Movistar Deportes",
 			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
-			 "url": "http://xone8.1222908.net:80/live/56D7FC4DEA1AB1808B179B70DA7A2619/323634",
+			 "url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323364.m3u8",
 			 "userAgent" : "PlusMediaPlayer/0.0.9"
 			  }, {  
 			"name": "Movistar Deportes",
@@ -1478,8 +1478,8 @@ https://vkvsd85.mycdn.me/hls/3074988771866.m3u8/sig/uOg-J1nq8ic/expires/16678182
 		}, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
-        "url": "http://s846397078.mialojamiento.es:80/wf9t/toro.php/mono.m3u8",
-            "userAgent": ""
+        "url": "http://xone8.1222908.net:80/live/559912B0380379ED95C397C46957B9DF/323637.m3u8",
+            "userAgent": "PlusMediaPlayer/0.0.9"
 	      }, {
 			"name": "M.Toros",
 			"image": "https://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg",
